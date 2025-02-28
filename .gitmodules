@@ -1,0 +1,3 @@
+[submodule "TeC"]
+	path = TeC
+	url = git@github.com:CHANGE-EPFL/TeC_Source_Code.git
