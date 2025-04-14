@@ -118,13 +118,8 @@ function gendata()
     
     load("workspaceBegin.mat");
 
-    SPAR = 1;
-    disp(Otm1);
-    disp(Oicetm1);
     
-    test = Oicetm1
-    test(1) = Otm1(1)
-    test(2) = Otm1(2)
+    test = Otm1+Oicetm1
 
     save("data\input\Soil_Thermal_properties_FT1.mat",'Tdptm1','Pre','rsd','lan_dry','lan_s','cv_s','SPAR','L','Pe','O33','alpVG','nVG','Phy','s_SVG','bVG','Osat','Ohy','Otm1', 'Oicetm1','OPT_FR_SOIL')
     [lanS,cv_Soil,CTt,Oice,O,Cw]=Soil_Thermal_properties_FT(Tdptm1,Pre,rsd,lan_dry,lan_s,cv_s,SPAR,L,Pe,O33,alpVG,nVG,...
@@ -161,7 +156,7 @@ function gendata()
     %               soil resistance                 %
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
+    SPAR = 1;
 
     save("data\input\Soil_Resistence.mat", ...
     'Tdptm1', 'Pre', 'Ws_undertm1', 'ea', 'q_runon', 'OStm1', 'Ks_Zs', ...
@@ -238,5 +233,99 @@ function gendata()
     save("data\input\Albedo_soil_properties.mat", "OS", "color_class");
     [soil_alb, e_gr] = Albedo_Soil_Properties(OS, color_class);
     save("data\output\Albedo_soil_properties.mat", "soil_alb", "e_gr");
-    
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %          Canopy Radiative transfer            %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    dw_SNO = 0.5;
+
+    save("data\input\canopy_radiative_transfer.mat", "PFT_opt_L", "soil_alb", "h_S", "LAI_H", "SAI_H", "LAIdead_H", "dw_SNO")
+    [Iup,Idn,Kopt,om_vis_vg]=Canopy_Radiative_Transfer(PFT_opt_L, soil_alb, h_S, LAI_H, SAI_H, LAIdead_H, dw_SNO);
+    save("data\output\canopy_radiative_transfer.mat", "Iup", "Idn", "om_vis_vg")
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %       Canopy resistance an evolution          %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+%{
+    save("data\input\canopy_ressistence_an_evolution.mat", ...
+    "PAR_sun", "PAR_shd", "LAI", ...
+    "Kopt", "Knit", "Fsun", "Fshd", "Citm1_sun", "Citm1_shd", ...
+    "Ca", "ra", "rb", "Ts", "Ta", "Pre", "Ds", ...
+    "Psi_L", "Psi_sto_50", "Psi_sto_99", ...
+    "CT", "Vmax", "DS", "Ha", "FI", "Oa", "Do", "a1", "go", ...
+    "e_rel", "e_relN", "gmes", "rjv", "mSl", "Sl", "Opt_CR");
+
+    [rs_sun, rs_shd, Ci_sun, Ci_shd, An, Rdark, Lpho, SIF, DCi] = Canopy_Resistence_An_Evolution( ...
+    PAR_sun, PAR_shd, LAI, ...
+    Kopt, Knit, Fsun, Fshd, Citm1_sun, Citm1_shd, ...
+    Ca, ra, rb, Ts, Ta, Pre, Ds, ...
+    Psi_L, Psi_sto_50, Psi_sto_99, ...
+    CT, Vmax, DS, Ha, FI, Oa, Do, a1, go, ...
+    e_rel, e_relN, gmes, rjv, mSl, Sl, Opt_CR);
+
+    save("data\output\canopy_ressistence_an_evolution.mat", ...
+    "rs_sun", "rs_shd", "Ci_sun", "Ci_shd", "An", "Rdark", "Lpho", "SIF", "DCi");
+%}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %       Canopy resistance an evolution          %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+
+    Cc = 340.5;
+    IPAR = 0;
+    Csl = 340.5;
+    rb = 30.2;
+    Psi_L = PsiL00_L;
+    Psi_sto_50 = Psi_sto_50_L;
+    Psi_sto_99 = -0.5;
+    CT = CT_L;
+    Vmax = Vmax_L;
+    DS = 0.7;
+    Ha = Ha_L;
+    FI = FI_L;
+    Do = Do_L;
+    a1 = a1_L;
+    go = go_L;
+    gmes = gmes_L;
+    rjv = rjv_L;
+    ra = 75.3;
+
+
+    save("data\input\CO2_concentration.mat", "Cc", "IPAR", "Csl", "ra", "rb", "Ts", "Pre", "Ds", "Psi_L", "Psi_sto_50", "Psi_sto_99", "CT", "Vmax", "DS", "Ha", "FI", "Oa", "Do", "a1", "go", "gmes", "rjv");
+
+    [DCi]=CO2_Concentration(Cc,IPAR,Csl,ra,rb,Ts,Pre,Ds,...
+     Psi_L,Psi_sto_50,Psi_sto_99,CT,Vmax,DS,Ha,FI,Oa,Do,a1,go,gmes,rjv);
+
+    save("data\output\CO2_concentration.mat", "DCi");
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %           Photosynthesis biochemical          %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+    [CcF,An,rs,Rdark,F755nm,GAM,gsCO2] = photosynthesis_biochemical(Cc,IPAR,Csl,ra,rb,Ts,Pre,Ds,...
+     Psi_L,Psi_sto_50,Psi_sto_99,...
+    CT,Vmax,DS,Ha,FI,Oa,Do,a1,go,gmes,rjv)
+
+    save("data\output\photosynthesis_biochemical.mat", "CcF", "An", "rs", "Rdark", "F755nm", "GAM", "gsCO2")
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %              Conductivity Suction             %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    Ks = 12.7398;
+
+    save("data\input\conductivity_suction.mat", ...
+    "SPAR", "Ks", "Osat", "Ohy", "L", "Pe", "O33", "alpVG", "nVG", "lVG", ...
+    "Ks_mac", "Omac", "alpVGM", "nVGM", "lVGM", "Phy", "s_SVG", "bVG", "O");
+
+    [Ko, Po] = Conductivity_Suction( ...
+    SPAR, Ks, Osat, Ohy, L, Pe, O33, alpVG, nVG, lVG, ...
+    Ks_mac, Omac, alpVGM, nVGM, lVGM, Phy, s_SVG, bVG, O);
+
+    save("data\output\conductivity_suction.mat", "Ko", "Po")
 end
