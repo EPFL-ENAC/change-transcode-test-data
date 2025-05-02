@@ -177,7 +177,7 @@ function gendata()
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
     Ts = 36;
-    disp_h = 13;
+    disp_h = 1;
     zom = 44;
     zoh = 56;
     
@@ -328,4 +328,15 @@ function gendata()
     Ks_mac, Omac, alpVGM, nVGM, lVGM, Phy, s_SVG, bVG, O);
 
     save("data\output\conductivity_suction.mat", "Ko", "Po")
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %              incomming longwaves              %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    save("data\input\incomming_longwave.mat", "Ta", "ea", "N");
+
+    [Latm, Nres] = Incoming_Longwave(Ta, ea, N);
+
+    save("data\output\incomming_longwave.mat", "Latm", "Nres")
 end
