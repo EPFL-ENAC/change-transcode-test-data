@@ -46,7 +46,7 @@ function gendata()
     dz,ms,Ccrown,Osat,Ohy,nVG,alpVG,lVG,Ks_Zs,L,Pe,O33,Ks_mac,Omac,alpVGM,nVGM,lVGM,s_SVG,bVG,Phy,SPAR,EvL_Zs,Inf_Zs,RfH_Zs,RfL_Zs,...
     Rrootl_H,Rrootl_L,PsiL50_H,PsiL50_L,PsiX50_H,PsiX50_L,Tstm1,Tdptm1,Psi_sto_00_H,Psi_sto_50_H,Psi_sto_00_L,Psi_sto_50_L,...
     Salt,Osm_reg_Max_H,Osm_reg_Max_L,eps_root_base_H,eps_root_base_L);
-    save("data/output/Soil_water_Multilayer1.mat", "Otm1", "ZWTtm1", "OFtm1", "OStm1", "Psi_stm1_H", "Psi_stm1_L", "gsr_Htm1", "gsr_Ltm1", "Exwat_Htm1", "Exwat_Ltm1")
+    save("data/output/Soil_Water_Multilayer1.mat", "Otm1", "ZWTtm1", "OFtm1", "OStm1", "Psi_stm1_H", "Psi_stm1_L", "gsr_Htm1", "gsr_Ltm1", "Exwat_Htm1", "Exwat_Ltm1")
 
     %{
     SPAR = 1;
