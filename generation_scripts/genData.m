@@ -244,7 +244,7 @@ function gendata()
 
     save("data\input\canopy_radiative_transfer.mat", "PFT_opt_L", "soil_alb", "h_S", "LAI_H", "SAI_H", "LAIdead_H", "dw_SNO")
     [Iup,Idn,Kopt,om_vis_vg]=Canopy_Radiative_Transfer(PFT_opt_L, soil_alb, h_S, LAI_H, SAI_H, LAIdead_H, dw_SNO);
-    save("data\output\canopy_radiative_transfer.mat", "Iup", "Idn", "om_vis_vg")
+    save("data\output\canopy_radiative_transfer.mat", "Iup", "Idn", "om_vis_vg", "Kopt")
 
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
