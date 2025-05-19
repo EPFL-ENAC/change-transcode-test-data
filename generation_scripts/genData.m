@@ -39,6 +39,7 @@ function gendata()
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     % [infos]
     % ms = n
+
     SPAR = 1;
 
     save("data/input/Soil_Water_Multilayer1.mat","Vtm1", "Zs", "dz", "ms", "Ccrown", "Osat", "Ohy", "nVG", "alpVG", "lVG", "Ks_Zs", "L", "Pe", "O33", "Ks_mac", "Omac", "alpVGM", "nVGM", "lVGM", "s_SVG", "bVG", "Phy", "SPAR", "EvL_Zs", "Inf_Zs", "RfH_Zs", "RfL_Zs", "Rrootl_H", "Rrootl_L", "PsiL50_H", "PsiL50_L", "PsiX50_H", "PsiX50_L", "Tstm1", "Tdptm1", "Psi_sto_00_H", "Psi_sto_50_H", "Psi_sto_00_L", "Psi_sto_50_L", "Salt", "Osm_reg_Max_H", "Osm_reg_Max_L", "eps_root_base_H", "eps_root_base_L")
@@ -242,36 +243,12 @@ function gendata()
 
     dw_SNO = 0.5;
 
-    save("data\input\canopy_radiative_transfer.mat", "PFT_opt_L", "soil_alb", "h_S", "LAI_H", "SAI_H", "LAIdead_H", "dw_SNO")
-    [Iup,Idn,Kopt,om_vis_vg]=Canopy_Radiative_Transfer(PFT_opt_L, soil_alb, h_S, LAI_H, SAI_H, LAIdead_H, dw_SNO);
+    save("data\input\canopy_radiative_transfer.mat", "PFT_opt_L", "soil_alb", "h_S", "LAI_L", "SAI_L", "LAIdead_H", "dw_SNO")
+    [Iup,Idn,Kopt,om_vis_vg]=Canopy_Radiative_Transfer(PFT_opt_L, soil_alb, h_S, LAI_L, SAI_L, LAIdead_H, dw_SNO);
     save("data\output\canopy_radiative_transfer.mat", "Iup", "Idn", "om_vis_vg", "Kopt")
 
-
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    %       Canopy resistance an evolution          %
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
-%{
-    save("data\input\canopy_ressistence_an_evolution.mat", ...
-    "PAR_sun", "PAR_shd", "LAI", ...
-    "Kopt", "Knit", "Fsun", "Fshd", "Citm1_sun", "Citm1_shd", ...
-    "Ca", "ra", "rb", "Ts", "Ta", "Pre", "Ds", ...
-    "Psi_L", "Psi_sto_50", "Psi_sto_99", ...
-    "CT", "Vmax", "DS", "Ha", "FI", "Oa", "Do", "a1", "go", ...
-    "e_rel", "e_relN", "gmes", "rjv", "mSl", "Sl", "Opt_CR");
-
-    [rs_sun, rs_shd, Ci_sun, Ci_shd, An, Rdark, Lpho, SIF, DCi] = Canopy_Resistence_An_Evolution( ...
-    PAR_sun, PAR_shd, LAI, ...
-    Kopt, Knit, Fsun, Fshd, Citm1_sun, Citm1_shd, ...
-    Ca, ra, rb, Ts, Ta, Pre, Ds, ...
-    Psi_L, Psi_sto_50, Psi_sto_99, ...
-    CT, Vmax, DS, Ha, FI, Oa, Do, a1, go, ...
-    e_rel, e_relN, gmes, rjv, mSl, Sl, Opt_CR);
-
-    save("data\output\canopy_ressistence_an_evolution.mat", ...
-    "rs_sun", "rs_shd", "Ci_sun", "Ci_shd", "An", "Rdark", "Lpho", "SIF", "DCi");
-%}
-    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    %       Canopy resistance an evolution          %
+    %                CO2 concentration              %
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
 
     Cc = 340.5;
@@ -310,7 +287,7 @@ function gendata()
      Psi_L,Psi_sto_50,Psi_sto_99,...
     CT,Vmax,DS,Ha,FI,Oa,Do,a1,go,gmes,rjv)
 
-    save("data\output\photosynthesis_biochemical.mat", "CcF", "An", "rs", "Rdark", "F755nm", "GAM", "gsCO2")
+    save("data\output\photosynthesis_biochemical.mat", "CcF", "An", "rs", "Rdark", "F755nm", "GAM", "gsCO2");
 
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -338,5 +315,135 @@ function gendata()
 
     [Latm, Nres] = Incoming_Longwave(Ta, ea, N);
 
-    save("data\output\incomming_longwave.mat", "Latm", "Nres")
+    save("data\output\incomming_longwave.mat", "Latm", "Nres");
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %             Abledo Snow Propreties            %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    SWE = 0.5;
+    Cdeb = 0;
+    Cice = 1;
+    Pr_sno = 0.5;
+    Pr_liq = -1;
+    ros = 0;
+
+
+
+    save("data\input\Albedo_snow_properties.mat", "dt", "SWE", "h_S", "Ts", "Ta",...
+        "SWEtm1", "tau_snotm1", "snow_albtm1", "Th_Pr_sno", "Pr_sno_day", "Aice",...
+        "Deb_Par", "Cdeb", "Cice", "Ta_day", "Pr_sno", "Pr_liq", "ros", "N");
+
+    [snow_alb,tau_sno,e_sno]=Albedo_Snow_Properties(dt,SWE,h_S,Ts,Ta,SWEtm1,tau_snotm1,snow_albtm1,...
+        Th_Pr_sno,Pr_sno_day,Aice,Deb_Par,Cdeb,Cice,Ta_day,Pr_sno,Pr_liq,ros,N);
+
+    save("data\output\Albedo_snow_properties.mat", "snow_alb", "tau_sno", "e_sno");
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                 Volume Correction             %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    EG = 0.576
+    Lk = 1.2
+    T_H = [0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5];
+    T_L = [0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5];
+
+    save("data\input\volume_correction.mat", "Vtm1", "EvL_Zs", "RfH_Zs", "RfL_Zs", "EG", "T_H", "T_L", "Lk")
+
+    [V2,T_H2,T_L2,EG2,Lk2]=Volume_Correction(Vtm1,EvL_Zs,RfH_Zs,RfL_Zs,EG,T_H,T_L,Lk)
+
+    save("data\output\volume_correction.mat", "Lk2", "EG2", "T_L2", "T_H2", "V2")
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %            undercanopy leaf resistance        %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    zom_under = 33;
+    SND = 0;
+    disp_h_H = 13;
+    disp_h_L = 10;
+    zom_H =73;
+    zom_L = 44;
+    zatm = 50;
+
+    save('data\input\undercanopy_leaf_resistance.mat', ...
+    'Ws', 'Ta', 'Ts', 'Ccrown', 'hc_H', 'hc_L', 'LAI_H', 'LAI_L', ...
+    'd_leaf_H', 'd_leaf_L', 'zatm', 'disp_h', 'zom', 'zom_under', ...
+    'SND', 'disp_h_H', 'zom_H', 'disp_h_L', 'zom_L');
+
+    [rap_H, rap_L, rb_H, rb_L, Ws_und] = Undercanopy_Leaf_Resistence2(Ws, Ta, Ts, Ccrown, hc_H, hc_L, LAI_H, LAI_L, d_leaf_H, d_leaf_L,...
+        zatm, disp_h, zom, zom_under, SND, disp_h_H, zom_H, disp_h_L, zom_L);
+    
+
+    save('data\output\undercanopy_leaf_resistance.mat','rap_L', 'rap_H', 'rb_H', 'rb_L', 'Ws_und');
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                   Throughfall                 %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    Llitter = 2.45;
+    Kc = 1;
+
+    save("data\input\throughfall.mat", "LAI_H", "SAI_H", "LAI_L", "SAI_L", "Llitter", "Kc");
+
+
+    [Cfol_H,Cfol_L,CLitter]=Throughfall(LAI_H,SAI_H,LAI_L,SAI_L,Llitter,Kc)
+
+    save("data\output\throughfall.mat", "Cfol_H", "Cfol_L", "CLitter")
+
+    
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                   Soil crust                  %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    ke = 100;
+    Etm1 = 0;
+    rsdf = rsd(1);
+    Osatf = Osat(1);
+    Ohyf = Ohy(1);
+    Lf = L(1);
+    Pef = Pe(1);
+
+    save("data\input\soilcrust.mat", "dth", "ke", "Etm1", "rsdf", "Osatf", "Ohyf", "Lf", "Pef", "Ks")
+
+    [KsC,LC,OsatC,OhyC,PeC,E]=SoilCrust(dth,ke,Etm1,rsdf,Osatf,Ohyf,Lf,Pef,Ks)
+
+
+    save("data\output\soilcrust.mat", "KsC", "LC", "OsatC", "OhyC", "PeC", "E");
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %            soil moisture rich comp            %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    numn = 16;
+    t=1;
+    V=ones(numn, 1);
+    f=1;
+    IS=1;
+    aT = 3;
+    Phy1 = 0;
+    EG = ones(1, numn) * EG;
+    T_H = ones(1, numn) * T_H(1);
+    T_L = ones(1, numn) * T_L(1);
+    SPAR=2;
+
+    save('data\input\Soil_Moisture_Rich_Comp.mat', ...
+    't','V','Lk','f','EG','T_H','T_L', ...
+    'Qi_in','Slo_pot','IS','SPAR','Osat','Ohy','O33','dz','Ks_Zs','Dz','numn','L','Pe', ...
+    'aR','aT','alpVG','nVG','lVG','Ks_mac','Omac','alpVGM','nVGM','lVGM','Phy1','s_SVG','bVG', ...
+    'Zs','cosalp','sinalp','SN');
+
+
+    [dV]=SOIL_MOISTURES_RICH_COMP(t,V,...
+    Lk,f,EG,T_H,T_L,...
+    Qi_in,Slo_pot,IS,SPAR,Osat,Ohy,O33,dz,Ks_Zs,Dz,numn,L,Pe,aR,aT,alpVG,nVG,lVG,Ks_mac,Omac,alpVGM,nVGM,lVGM,Phy1,s_SVG,bVG,Zs,cosalp,sinalp,SN)
+
+    save("data\output\Soil_Moisture_Rich_Comp.mat", "dV")
+
 end
