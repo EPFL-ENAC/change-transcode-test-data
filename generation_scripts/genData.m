@@ -446,4 +446,75 @@ function gendata()
 
     save("data\output\Soil_Moisture_Rich_Comp.mat", "dV")
 
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %            Soil heat profile normal           %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    Tup = 45;
+    Ttm1 = ones(1, 16) * 30;
+    cv = ones(1, 16) * 400;
+    Tdown = 20;
+    G0 = 300;
+    Gn = 200;
+    OPZ = 1;
+
+    save("data\input\soil_heat_profile_normal.mat", "Tup","dt","Ttm1","ms","Zs","lanS","cv","Tdown","G0","Gn","OPZ");
+
+
+    [G0,T,Gn]=Soil_Heat_Profile_Normal(Tup,dt,Ttm1,ms,Zs,lanS,cv,Tdown,G0,Gn,OPZ);
+
+    save("data\output\soil_heat_profile_normal.mat", "G0", "T", "Gn");
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                 Heat CN normal                %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    dts = 1;
+    Ttm1 = ones(1, 18) * 30;
+
+    save("data\input\heat_cn_normal.mat", "Ttm1", "dts", "lanS", "cv", "Zs", "Tup", "Tdown", "Gn", "G0", "OPZ")
+    
+    [T] = Heat_CN_Normal_Function(Ttm1,dts,lanS,cv,Zs,Tup,Tdown,Gn,G0,OPZ)
+
+    save("data\output\heat_cn_normal.mat", "T");
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                   Heat CN FT                  %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    AE = ones(1,16) * 134;
+
+    save('data\input\heat_cn_ft.mat', ...
+    'Ttm1','dts','Pre','rsd','lan_dry','lan_s','cv_s','SPAR','L','Pe','O33','alpVG','nVG', ...
+    'Phy1','s_SVG','bVG','Osat','Ohy','Oicetm1','Otm1','Zs','G0','Gn','Tup','Tdown','AE','OPZ','OPT_FR_SOIL');
+
+    [T] = Heat_CN_FT_Function(Ttm1,dts,Pre,rsd,lan_dry,lan_s,cv_s,SPAR,L,Pe,O33,alpVG,nVG,...
+    Phy1,s_SVG,bVG,Osat,Ohy,Oicetm1,Otm1,Zs,G0,Gn,Tup,Tdown,AE,OPZ,OPT_FR_SOIL)
+
+    save("data\output\heat_cn_ft.mat", "T");
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %               Soil heat profile new           %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    OPT_ST = 1;
+
+    Ttm1 = ones(1,16) * 30;
+    G0 = NaN;
+
+    save("data\input\soil_heat_profile_new.mat", 'Tup','dt','Ttm1','ms','dz','Zs','Pre','rsd','lan_dry','lan_s','cv_s','SPAR','L','Pe','O33','alpVG','nVG', ...
+    'Phy','s_SVG','bVG','Osat','Ohy','Oicetm1','Otm1','G0','OPT_FR_SOIL','OPT_ST')
+
+    [G0,T,O,Oice]=Soil_Heat_Profile_New(Tup,dt,Ttm1,ms,dz,Zs,Pre,rsd,lan_dry,lan_s,cv_s,SPAR,L,Pe,O33,alpVG,nVG,...
+    Phy,s_SVG,bVG,Osat,Ohy,Oicetm1,Otm1,G0,OPT_FR_SOIL,OPT_ST)
+
+    save('data\output\soil_heat_profile_new.mat', "G0", "T", "O", "Oice");
+
+
+
 end
