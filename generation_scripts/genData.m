@@ -517,4 +517,54 @@ function gendata()
 
 
 
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                    Soil heat                  %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    save("data\input\soil_heat.mat", "dt", "Ts", "Tstm1", "Tdptm1", "CTt")
+
+    [G,Tdp]=Soil_Heat(dt,Ts,Tstm1,Tdptm1,CTt)
+
+    save("data\output\soil_heat.mat", "G", "Tdp")
+
+
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %                Snowpacks 2layers              %
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    clear()
+    load("generation_scripts\workspaceBegin.mat")
+
+    Ts = 3;
+    dw_SNO = 4.3;
+    Dtm1 = 2.4;
+    In_max_SWE = 3.7;
+    ESN = 2.2;
+    ESN_In = 3.2;
+    Rn = 4.5;
+    H = 4;
+    QE = 5.1;
+    Qv = 2;
+    Csnow = 1;
+    lan_sno = 12;
+    min_SPD = 4.5;
+
+    save('data\input\snowpacks_2layers.mat', ...
+    'dt', 'Ta', 'Ts', 'Tstm1', 'Tdpsnowtm1', 'Tdew', 'Ws', 't_slstm1', 'SWEtm1', 'Dtm1', 'rostm1', ...
+    'SP_wctm1', 'In_SWEtm1', 'In_max_SWE', 'dw_SNO', 'Pr_liq', 'Pr_sno', 'ESN', 'ESN_In', ...
+    'Rn', 'H', 'QE', 'G', 'Qv', 'Csnow', 'Ccrown', 'Cwat', 'Cfol_H', 'fpr', 'Pr_sno_day', ...
+    'Th_Pr_sno', 'ros_max1', 'ros_max2', 'lan_sno', 'min_SPD');
+
+
+    [TsF,Tdpsnow,SWE,D,ros,In_SWE,SP_wc,WR_SP,U_SWE,NIn_SWE,dQ12,Qfm,t_sls,Sm,dQres,dTsnow]=Snowpacks_2layers(dt,...
+    Ta,Ts,Tstm1,Tdpsnowtm1,Tdew,Ws,t_slstm1,SWEtm1,Dtm1,rostm1,SP_wctm1,In_SWEtm1,In_max_SWE,dw_SNO,...
+    Pr_liq,Pr_sno,ESN,ESN_In,Rn,H,QE,G,Qv,Csnow,Ccrown,Cwat,Cfol_H,fpr,Pr_sno_day,Th_Pr_sno,ros_max1,ros_max2,lan_sno,min_SPD)
+
+
+    save('data\output\snowpacks_2layers.mat', ...
+    'TsF', 'Tdpsnow', 'SWE', 'D', 'ros', 'In_SWE', 'SP_wc', 'WR_SP', 'U_SWE', 'NIn_SWE', ...
+    'dQ12', 'Qfm', 't_sls', 'Sm', 'dQres', 'dTsnow');
+
+
+
 end
