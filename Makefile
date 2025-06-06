@@ -6,7 +6,6 @@ build:
 
 generate_data:
 	matlab -nodisplay -batch "generate_zurich_data"
-	rm -f CalculationZH.mat
 
 clean_code:
 	# Backup excluded functions while preserving package structure
