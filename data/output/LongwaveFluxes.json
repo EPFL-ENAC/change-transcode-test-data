@@ -1,0 +1,511 @@
+{
+  "Csno": 0,
+  "FshdH": 1,
+  "FshdL": 1,
+  "FsunH": 0,
+  "FsunL": 0,
+  "LAI_H": 0,
+  "LAI_L": 2.127304181368729,
+  "Labs_soi": -0.64195632591213325,
+  "Labs_vegH": 0,
+  "Labs_vegL": -45.585717479001744,
+  "Latm": 277.83430038943152,
+  "SAI_H": 0,
+  "SAI_L": 2.1086958186312712,
+  "SnoDep": 0,
+  "SvF": 1,
+  "Tg": 1.8,
+  "Tsno": 1.8,
+  "TvHshd": 1.8,
+  "TvHsun": 1.8,
+  "TvLshd": 1.8,
+  "TvLsun": 1.8,
+  "a": 22,
+  "e_gr": 0.96,
+  "e_sno": 0.97,
+  "hc_L": 0.11791122726024249,
+  "inputs": {
+    "Csno": 0,
+    "FshdH": 1,
+    "FshdL": 1,
+    "FsunH": 0,
+    "FsunL": 0,
+    "LAI_H": 0,
+    "LAI_L": 2.127304181368729,
+    "Latm": 277.83430038943152,
+    "SAI_H": 0,
+    "SAI_L": 2.1086958186312712,
+    "SnoDep": 0,
+    "SvF": 1,
+    "Tg": 1.8,
+    "Tsno": 1.8,
+    "TvHshd": 1.8,
+    "TvHsun": 1.8,
+    "TvLshd": 1.8,
+    "TvLsun": 1.8,
+    "e_gr": 0.96,
+    "e_sno": 0.97,
+    "hc_L": 0.11791122726024249
+  },
+  "w": [
+    {
+      "name": "Csno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FshdH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FshdL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FsunH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FsunL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Labs_soi",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Labs_vegH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Labs_vegL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Latm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SnoDep",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SvF",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tg",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tsno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TvHshd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TvHsun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TvLshd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TvLsun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_gr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2972,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        21,
+        1
+      ],
+      "bytes": 30603,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "LongwaveFluxes",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

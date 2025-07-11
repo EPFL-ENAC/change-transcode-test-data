@@ -1,0 +1,415 @@
+{
+  "Cice": 0,
+  "Crock": 0,
+  "Csno": 0,
+  "Curb": 0,
+  "EIn_rock": 0,
+  "EIn_urb": 0,
+  "In_max_rock": 0.1,
+  "In_max_urb": 5,
+  "In_rock": 0,
+  "In_rocktm1": 0,
+  "In_urb": 0,
+  "In_urbtm1": 0,
+  "Pr_liq": 0,
+  "SE_rock": -0,
+  "SE_urb": -0,
+  "WR_IP": 0,
+  "WR_SP": 0,
+  "a": 18,
+  "dt": 3600,
+  "inputs": {
+    "Cice": 0,
+    "Crock": 0,
+    "Csno": 0,
+    "Curb": 0,
+    "EIn_rock": 0,
+    "EIn_urb": 0,
+    "In_max_rock": 0.1,
+    "In_max_urb": 5,
+    "In_rocktm1": 0,
+    "In_urbtm1": 0,
+    "Pr_liq": 0,
+    "WR_IP": 0,
+    "WR_SP": 0,
+    "dt": 3600,
+    "q_runon": 0
+  },
+  "q_runon": 0,
+  "w": [
+    {
+      "name": "Cice",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Crock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Csno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Curb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "EIn_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "EIn_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_rocktm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_urbtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_liq",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SE_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SE_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WR_IP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WR_SP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2153,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "q_runon",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        15,
+        1
+      ],
+      "bytes": 22101,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Interceptions_Other",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "B": [
+    60.780119467677963,
+    0,
+    342.00672117122247,
+    249.97143007697042,
+    2.9405960199202652,
+    0,
+    60.219880532322037,
+    0
+  ],
+  "Datam": [
+    1981,
+    1,
+    1,
+    1
+  ],
+  "LAI": 2.127304181368729,
+  "LAIdead": 2.1076958186312713,
+  "ManI": 0,
+  "Mpar": {
+    "jDay_cut": [
+      132,
+      168,
+      202,
+      238,
+      292
+    ],
+    "LAI_cut": 1.68,
+    "jDay_harv": null,
+    "B_harv": 0,
+    "Date_log": null,
+    "fract_log": 0,
+    "Date_fire": null,
+    "fire_eff": 0,
+    "funb_nit": 0.15,
+    "Date_girdling": null,
+    "fract_girdling": 0,
+    "Date_sowing": null,
+    "Date_harvesting": null,
+    "Crop_B": [
+      0,
+      0
+    ],
+    "Crop_crown": 1,
+    "fract_resprout": 0.2,
+    "fract_left": 1,
+    "fract_left_fr": 0,
+    "fract_left_AB": 0,
+    "fract_left_BG": 1
+  },
+  "RB": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "RBtm1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Sl": 0.035,
+  "a": 10,
+  "aSE": 2,
+  "dtd": 1,
+  "inputs": {
+    "B": [
+      60.780119467677963,
+      0,
+      342.00672117122247,
+      249.97143007697042,
+      2.9405960199202652,
+      0,
+      60.219880532322037,
+      0
+    ],
+    "Datam": [
+      1981,
+      1,
+      1,
+      1
+    ],
+    "LAI": 2.127304181368729,
+    "LAIdead": 2.1076958186312713,
+    "Mpar": {
+      "jDay_cut": [
+        132,
+        168,
+        202,
+        238,
+        292
+      ],
+      "LAI_cut": 1.68,
+      "jDay_harv": null,
+      "B_harv": 0,
+      "Date_log": null,
+      "fract_log": 0,
+      "Date_fire": null,
+      "fire_eff": 0,
+      "funb_nit": 0.15,
+      "Date_girdling": null,
+      "fract_girdling": 0,
+      "Date_sowing": null,
+      "Date_harvesting": null,
+      "Crop_B": [
+        0,
+        0
+      ],
+      "Crop_crown": 1,
+      "fract_resprout": 0.2,
+      "fract_left": 1,
+      "fract_left_fr": 0,
+      "fract_left_AB": 0,
+      "fract_left_BG": 1
+    },
+    "RBtm1": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Sl": 0.035,
+    "aSE": 2,
+    "dtd": 1,
+    "mSl": 0
+  },
+  "mSl": 0,
+  "w": [
+    {
+      "name": "B",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Datam",
+      "size": [
+        1,
+        4
+      ],
+      "bytes": 32,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAIdead",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ManI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Mpar",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2980,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RB",
+      "size": [
+        1,
+        7
+      ],
+      "bytes": 56,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RBtm1",
+      "size": [
+        1,
+        7
+      ],
+      "bytes": 56,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "aSE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dtd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 4512,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "mSl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        10,
+        1
+      ],
+      "bytes": 14724,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Forest_Logging_Fire",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

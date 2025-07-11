@@ -1,0 +1,2114 @@
+{
+  "CLitter": 0,
+  "Cbare": 0,
+  "Ccrown": 1,
+  "Cdeb": 0,
+  "Cfol_H": 0,
+  "Cice": 0,
+  "Cicew": 0,
+  "Crock": 0,
+  "Csno": 1,
+  "Csnow": 0,
+  "Curb": 0,
+  "Cwat": 0,
+  "DT": -258.42420462963071,
+  "Dtm1": 0,
+  "FshdH": 1,
+  "FshdL": 1,
+  "FsunH": 0,
+  "FsunL": 0,
+  "G": 0,
+  "ICE_D": 0,
+  "ICEtm1": 0,
+  "In_H": 0,
+  "In_L": 0,
+  "In_Litter": 0,
+  "In_SWE": 0,
+  "In_SWEtm1": 0,
+  "In_max_SWE": 0,
+  "In_rock": 0,
+  "In_urb": 0,
+  "LAI_H": 0,
+  "LAI_L": 2.127304181368729,
+  "Latm": 309.95765419166651,
+  "OPT_VegSnow": 1,
+  "Pr_liq": 0.24270426485218322,
+  "Pr_sno": 0.25729573514781678,
+  "Pr_sno_day": 0,
+  "Pre": 948.7232105699336,
+  "RabsbShd_vegH": 0,
+  "RabsbShd_vegL": 0,
+  "RabsbSun_vegH": 0,
+  "RabsbSun_vegL": 0,
+  "Rabsb_bare": 0,
+  "Rabsb_deb": 0,
+  "Rabsb_ice": 0,
+  "Rabsb_rock": 0,
+  "Rabsb_sno": 0,
+  "Rabsb_soiH": 0,
+  "Rabsb_soiL": 0,
+  "Rabsb_urb": 0,
+  "Rabsb_wat": 0,
+  "SAI_H": 0,
+  "SAI_L": 2.1086958186312712,
+  "SP_wctm1": 0,
+  "SWE": 0,
+  "SWEtm1": 0,
+  "SnoDep": 0,
+  "SvF": 1,
+  "Ta": 1.7,
+  "Tdew": -0.596107307454685,
+  "Tdpsnowtm1": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Th_Pr_sno": 8,
+  "Ts": 2.6755140315649868,
+  "TsV": 0,
+  "Tstm1": 3.0826587631394236,
+  "Vavail": 0.094416040238886112,
+  "Vavail_plant_H": 0,
+  "Vavail_plant_L": 0.002310194264673673,
+  "WAT_avail": 0,
+  "Ws": 4.7,
+  "a": 70,
+  "alp_litter": 1,
+  "alp_soil": 0.9998338969135171,
+  "b_soil": 1,
+  "d_leaf_H": 3.5,
+  "d_leaf_L": 0.8,
+  "disp_h": 0.079000522264362466,
+  "disp_h_H": 0,
+  "disp_h_L": 0.079000522264362466,
+  "dt": 3600,
+  "dw_H": 0,
+  "dw_L": 0,
+  "dw_SNO": 0,
+  "e_gr": 0.96,
+  "e_sno": 0.96,
+  "e_sur": {
+    "R": 1,
+    "U": 1,
+    "W": 1,
+    "I": 1,
+    "D": 1
+  },
+  "ea": 585.1588676671829,
+  "fpr": 1,
+  "hc_H": 0,
+  "hc_L": 0.11791122726024249,
+  "inputs": {
+    "CLitter": 0,
+    "Cbare": 0,
+    "Ccrown": 1,
+    "Cdeb": 0,
+    "Cfol_H": 0,
+    "Cice": 0,
+    "Cicew": 0,
+    "Crock": 0,
+    "Csno": 1,
+    "Csnow": 0,
+    "Curb": 0,
+    "Cwat": 0,
+    "Dtm1": 0,
+    "FshdH": 1,
+    "FshdL": 1,
+    "FsunH": 0,
+    "FsunL": 0,
+    "G": 0,
+    "ICE_D": 0,
+    "ICEtm1": 0,
+    "In_H": 0,
+    "In_L": 0,
+    "In_Litter": 0,
+    "In_SWE": 0,
+    "In_SWEtm1": 0,
+    "In_max_SWE": 0,
+    "In_rock": 0,
+    "In_urb": 0,
+    "LAI_H": 0,
+    "LAI_L": 2.127304181368729,
+    "Latm": 309.95765419166651,
+    "OPT_VegSnow": 1,
+    "Pr_liq": 0.24270426485218322,
+    "Pr_sno": 0.25729573514781678,
+    "Pr_sno_day": 0,
+    "Pre": 948.7232105699336,
+    "RabsbShd_vegH": 0,
+    "RabsbShd_vegL": 0,
+    "RabsbSun_vegH": 0,
+    "RabsbSun_vegL": 0,
+    "Rabsb_bare": 0,
+    "Rabsb_deb": 0,
+    "Rabsb_ice": 0,
+    "Rabsb_rock": 0,
+    "Rabsb_sno": 0,
+    "Rabsb_soiH": 0,
+    "Rabsb_soiL": 0,
+    "Rabsb_urb": 0,
+    "Rabsb_wat": 0,
+    "SAI_H": 0,
+    "SAI_L": 2.1086958186312712,
+    "SP_wctm1": 0,
+    "SWE": 0,
+    "SWEtm1": 0,
+    "SnoDep": 0,
+    "SvF": 1,
+    "Ta": 1.7,
+    "Tdew": -0.596107307454685,
+    "Tdpsnowtm1": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Th_Pr_sno": 8,
+    "Ts": 2.6755140315649868,
+    "TsV": 0,
+    "Tstm1": 3.0826587631394236,
+    "Vavail": 0.094416040238886112,
+    "Vavail_plant_H": 0,
+    "Vavail_plant_L": 0.002310194264673673,
+    "WAT_avail": 0,
+    "Ws": 4.7,
+    "alp_litter": 1,
+    "alp_soil": 0.9998338969135171,
+    "b_soil": 1,
+    "d_leaf_H": 3.5,
+    "d_leaf_L": 0.8,
+    "disp_h": 0.079000522264362466,
+    "disp_h_H": 0,
+    "disp_h_L": 0.079000522264362466,
+    "dt": 3600,
+    "dw_H": 0,
+    "dw_L": 0,
+    "dw_SNO": 0,
+    "e_gr": 0.96,
+    "e_sno": 0.96,
+    "e_sur": {
+      "R": 1,
+      "U": 1,
+      "W": 1,
+      "I": 1,
+      "D": 1
+    },
+    "ea": 585.1588676671829,
+    "fpr": 1,
+    "hc_H": 0,
+    "hc_L": 0.11791122726024249,
+    "lan_sno": 0.023,
+    "min_SPD": null,
+    "r_litter": 0,
+    "r_soil": 114.35849021045652,
+    "ros_max1": 580,
+    "ros_max2": 300,
+    "rostm1": 0,
+    "rs_shdH": null,
+    "rs_shdL": null,
+    "rs_sunH": null,
+    "rs_sunL": null,
+    "t_slstm1": 0,
+    "ydepth": 0,
+    "zatm": 2,
+    "zoh": 0.0014503080953009826,
+    "zom": 0.014503080953009825,
+    "zom_H": 0,
+    "zom_L": 0.014503080953009825,
+    "zom_under": 0.003
+  },
+  "lan_sno": 0.023,
+  "min_SPD": "Inf",
+  "r_litter": 0,
+  "r_soil": 114.35849021045652,
+  "ros_max1": 580,
+  "ros_max2": 300,
+  "rostm1": 0,
+  "rs_shdH": "Inf",
+  "rs_shdL": "Inf",
+  "rs_sunH": "Inf",
+  "rs_sunL": "Inf",
+  "t_slstm1": 0,
+  "w": [
+    {
+      "name": "CLitter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cbare",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ccrown",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cdeb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cfol_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cice",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cicew",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Crock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Csno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Csnow",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Curb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cwat",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Dtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FshdH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FshdL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FsunH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FsunL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "G",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ICE_D",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ICEtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_Litter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_SWE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_SWEtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_SWE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Latm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_VegSnow",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_liq",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_sno_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pre",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RabsbShd_vegH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RabsbShd_vegL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RabsbSun_vegH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RabsbSun_vegL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_bare",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_deb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_ice",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_rock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_soiH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_soiL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_urb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rabsb_wat",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SP_wctm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SWE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SWEtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SnoDep",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SvF",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdew",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdpsnowtm1",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 40,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Th_Pr_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TsV",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tstm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Vavail",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Vavail_plant_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Vavail_plant_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WAT_avail",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ws",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "alp_litter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "alp_soil",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "b_soil",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "d_leaf_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "d_leaf_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dw_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dw_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dw_SNO",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_gr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_sur",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 701,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ea",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "fpr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 20948,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "lan_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "min_SPD",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "r_litter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "r_soil",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ros_max1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ros_max2",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rostm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_shdH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_shdL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_sunH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_sunL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "t_slstm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        106,
+        1
+      ],
+      "bytes": 156366,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ydepth",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zatm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zoh",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_under",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Surface_Temperature_Snow",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ],
+  "ydepth": 0,
+  "zatm": 2,
+  "zoh": 0.0014503080953009826,
+  "zom": 0.014503080953009825,
+  "zom_H": 0,
+  "zom_L": 0.014503080953009825,
+  "zom_under": 0.003
+}

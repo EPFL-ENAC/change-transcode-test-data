@@ -1,0 +1,109 @@
+{
+  "PFT_Class": 0,
+  "PFT_opt": {
+    "chiL": null,
+    "alf_lf_vis": null,
+    "alf_lf_nir": null,
+    "alf_st_vis": null,
+    "alf_st_nir": null,
+    "alf_ld_vis": null,
+    "alf_ld_nir": null,
+    "tau_lf_vis": null,
+    "tau_lf_nir": null,
+    "tau_st_vis": null,
+    "tau_st_nir": null,
+    "tau_ld_vis": null,
+    "tau_ld_nir": null
+  },
+  "a": 3,
+  "inputs": {
+    "PFT_Class": 0
+  },
+  "w": [
+    {
+      "name": "PFT_Class",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PFT_opt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1908,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 161,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1615,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

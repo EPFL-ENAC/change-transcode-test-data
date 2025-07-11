@@ -1,0 +1,247 @@
+{
+  "Pre": 948.7232105699336,
+  "Ta": -0.9,
+  "Ts": 1.8,
+  "Ws": 2.1,
+  "a": 5,
+  "disp_h": 0.079000522264362466,
+  "ea": 466.8496719255557,
+  "inputs": {
+    "Pre": 948.7232105699336,
+    "Ta": -0.9,
+    "Ts": 1.8,
+    "Ws": 2.1,
+    "disp_h": 0.079000522264362466,
+    "ea": 466.8496719255557,
+    "zatm": 2,
+    "zoh": 0.0014503080953009826,
+    "zom": 0.014503080953009825
+  },
+  "ra": 89.790797800340869,
+  "w": [
+    {
+      "name": "Pre",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ws",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ea",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1267,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ra",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        9,
+        1
+      ],
+      "bytes": 13309,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zatm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zoh",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Aerodynamic_Resistence",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ],
+  "zatm": 2,
+  "zoh": 0.0014503080953009826,
+  "zom": 0.014503080953009825
+}

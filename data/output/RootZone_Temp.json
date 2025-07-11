@@ -1,0 +1,253 @@
+{
+  "RfH_Zs": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "RfL_Zs": [
+    0.11900606533660547,
+    0.10554891144033268,
+    0.25028017782838019,
+    0.26059505807390487,
+    0.1430176001795575,
+    0.078489723144784279,
+    0.043076073375656249,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Tdp": [
+    0.672443088244086,
+    0.83110658595488285,
+    1.1512751198023068,
+    1.653743280703964,
+    1.9098084861858486,
+    1.9809079075931879,
+    1.9987017212075753,
+    1.9999455189542665,
+    1.9999980530819688,
+    1.999999938705243,
+    1.9999999982585821,
+    1.9999999999545501,
+    1.9999999999988944,
+    1.9999999999999745,
+    1.9999999999999936,
+    1.9999999999999993
+  ],
+  "Tdp_H": 0.672443088244086,
+  "Tdp_L": 1.4015592312589891,
+  "a": 6,
+  "inputs": {
+    "RfH_Zs": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "RfL_Zs": [
+      0.11900606533660547,
+      0.10554891144033268,
+      0.25028017782838019,
+      0.26059505807390487,
+      0.1430176001795575,
+      0.078489723144784279,
+      0.043076073375656249,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Tdp": [
+      0.672443088244086,
+      0.83110658595488285,
+      1.1512751198023068,
+      1.653743280703964,
+      1.9098084861858486,
+      1.9809079075931879,
+      1.9987017212075753,
+      1.9999455189542665,
+      1.9999980530819688,
+      1.999999938705243,
+      1.9999999982585821,
+      1.9999999999545501,
+      1.9999999999988944,
+      1.9999999999999745,
+      1.9999999999999936,
+      1.9999999999999993
+    ]
+  },
+  "w": [
+    {
+      "name": "RfH_Zs",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RfL_Zs",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 799,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        3,
+        1
+      ],
+      "bytes": 4489,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RootZone_Temp",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

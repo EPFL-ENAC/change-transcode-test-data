@@ -1,0 +1,133 @@
+{
+  "Latm": 277.83430038943152,
+  "N": 0.72382533290296147,
+  "Ta": -0.9,
+  "a": 4,
+  "ea": 466.8496719255557,
+  "inputs": {
+    "N": 0.72382533290296147,
+    "Ta": -0.9,
+    "ea": 466.8496719255557
+  },
+  "w": [
+    {
+      "name": "Latm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "N",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ea",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 429,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        3,
+        1
+      ],
+      "bytes": 4493,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Incoming_Longwave",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "I1": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "Koh": [
+    0.1897033485301064,
+    0.19256208094583668,
+    0.19675548363073223,
+    0.1993863931624941,
+    0.19990206408157482,
+    0.19997968408642505,
+    0.19999670169640071,
+    0.19999983284564726,
+    0.19999999260167065,
+    0.19999999969510532,
+    0.19999999998797877,
+    0.19999999999954005,
+    0.19999999999998236,
+    0.19999999999999932,
+    0.19999999999999984,
+    0.19999999999999984
+  ],
+  "Qi_out": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SN": 0,
+  "Slo_pot": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "a": 6,
+  "aT": 1000,
+  "cosalp": 1,
+  "dz": [
+    10,
+    10,
+    30,
+    50,
+    50,
+    50,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    350,
+    150
+  ],
+  "inputs": {
+    "I1": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Koh": [
+      0.1897033485301064,
+      0.19256208094583668,
+      0.19675548363073223,
+      0.1993863931624941,
+      0.19990206408157482,
+      0.19997968408642505,
+      0.19999670169640071,
+      0.19999983284564726,
+      0.19999999260167065,
+      0.19999999969510532,
+      0.19999999998797877,
+      0.19999999999954005,
+      0.19999999999998236,
+      0.19999999999999932,
+      0.19999999999999984,
+      0.19999999999999984
+    ],
+    "SN": 0,
+    "Slo_pot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "aT": 1000,
+    "cosalp": 1,
+    "dz": [
+      10,
+      10,
+      30,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      350,
+      150
+    ],
+    "sinalp": 0
+  },
+  "sinalp": 0,
+  "w": [
+    {
+      "name": "I1",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Koh",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Qi_out",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Slo_pot",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "aT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "cosalp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dz",
+      "size": [
+        1,
+        16
+      ],
+      "bytes": 128,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1614,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "sinalp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 11874,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

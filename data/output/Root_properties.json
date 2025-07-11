@@ -1,0 +1,114 @@
+{
+  "BR": 342.00672117122247,
+  "Rl": 3569.3154259050252,
+  "a": 3,
+  "inputs": {
+    "BR": 342.00672117122247,
+    "rroot": 0.0005
+  },
+  "rroot": 0.0005,
+  "w": [
+    {
+      "name": "BR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 295,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rroot",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        2,
+        1
+      ],
+      "bytes": 3042,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Root_properties",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

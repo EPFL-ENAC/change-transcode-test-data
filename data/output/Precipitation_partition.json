@@ -1,0 +1,208 @@
+{
+  "Pr": 0,
+  "Pr_liq": 0,
+  "Pr_sno": 0,
+  "Pre": 948.7232105699336,
+  "Ta": -0.9,
+  "Tmax": 2.8,
+  "Tmin": -0.8,
+  "a": 8,
+  "ea": 466.8496719255557,
+  "inputs": {
+    "Pr": 0,
+    "Pre": 948.7232105699336,
+    "Ta": -0.9,
+    "Tmax": 2.8,
+    "Tmin": -0.8,
+    "ea": 466.8496719255557
+  },
+  "w": [
+    {
+      "name": "Pr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_liq",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pr_sno",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pre",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tmax",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tmin",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ea",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 849,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        6,
+        1
+      ],
+      "bytes": 8930,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Precipitation_partition",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

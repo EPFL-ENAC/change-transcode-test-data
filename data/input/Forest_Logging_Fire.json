@@ -1,0 +1,64 @@
+{
+  "B": [
+    60.780119467677963,
+    0,
+    342.00672117122247,
+    249.97143007697042,
+    2.9405960199202652,
+    0,
+    60.219880532322037,
+    0
+  ],
+  "Datam": [
+    1981,
+    1,
+    1,
+    1
+  ],
+  "LAI": 2.127304181368729,
+  "LAIdead": 2.1076958186312713,
+  "Mpar": {
+    "jDay_cut": [
+      132,
+      168,
+      202,
+      238,
+      292
+    ],
+    "LAI_cut": 1.68,
+    "jDay_harv": null,
+    "B_harv": 0,
+    "Date_log": null,
+    "fract_log": 0,
+    "Date_fire": null,
+    "fire_eff": 0,
+    "funb_nit": 0.15,
+    "Date_girdling": null,
+    "fract_girdling": 0,
+    "Date_sowing": null,
+    "Date_harvesting": null,
+    "Crop_B": [
+      0,
+      0
+    ],
+    "Crop_crown": 1,
+    "fract_resprout": 0.2,
+    "fract_left": 1,
+    "fract_left_fr": 0,
+    "fract_left_AB": 0,
+    "fract_left_BG": 1
+  },
+  "RBtm1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Sl": 0.035,
+  "aSE": 2,
+  "dtd": 1,
+  "mSl": 0
+}
