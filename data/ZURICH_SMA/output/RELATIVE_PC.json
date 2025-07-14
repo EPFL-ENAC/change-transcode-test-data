@@ -1,0 +1,266 @@
+{
+  "AgeL": 117.99999954004912,
+  "BLeaf": 60.780119467677963,
+  "L_day": 8.3388273040217289,
+  "Lmax_day": 8.3719635847618115,
+  "NBL_Im": 0,
+  "a": 6,
+  "aSE": 2,
+  "age_cr": 180,
+  "dflo": 1,
+  "e_rel": 1,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "AgeL": 117.99999954004912,
+    "BLeaf": 60.780119467677963,
+    "L_day": 8.3388273040217289,
+    "Lmax_day": 8.3719635847618115,
+    "NBL_Im": 0,
+    "aSE": 2,
+    "age_cr": 180,
+    "dflo": 1,
+    "id_location": "ZURICH_SMA",
+    "jDay": 1
+  },
+  "jDay": 1,
+  "w": [
+    {
+      "name": "AgeL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "BLeaf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "L_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Lmax_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBL_Im",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "aSE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "age_cr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dflo",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_rel",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1444,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "jDay",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        10,
+        1
+      ],
+      "bytes": 14600,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "RELATIVE_PC",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

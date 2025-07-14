@@ -1,0 +1,59 @@
+{
+  "B": [
+    18.726250600941732,
+    0,
+    140.06438585543356,
+    119.96084686344783,
+    0.14546157019353517,
+    0,
+    0.051978629694628228,
+    0
+  ],
+  "Datam": [
+    2011,
+    10,
+    3,
+    1
+  ],
+  "LAI": 0.48688251562448503,
+  "LAIdead": 0.001351444372060334,
+  "Mpar": {
+    "jDay_cut": null,
+    "LAI_cut": 0,
+    "jDay_harv": null,
+    "B_harv": 0,
+    "Date_log": null,
+    "fract_log": 0,
+    "Date_fire": null,
+    "fire_eff": 0,
+    "funb_nit": 0.15,
+    "Date_girdling": null,
+    "fract_girdling": 0,
+    "Date_sowing": null,
+    "Date_harvesting": null,
+    "Crop_B": [
+      0,
+      0
+    ],
+    "Crop_crown": 1,
+    "fract_resprout": 0.2,
+    "fract_left": 1,
+    "fract_left_fr": 0,
+    "fract_left_AB": 0,
+    "fract_left_BG": 1
+  },
+  "RBtm1": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Sl": 0.026,
+  "aSE": 2,
+  "dtd": 1,
+  "id_location": "VAIRA",
+  "mSl": 0
+}

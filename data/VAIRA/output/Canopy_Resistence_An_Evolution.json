@@ -1,0 +1,1016 @@
+{
+  "An": -0.19939005985316408,
+  "CT": 3,
+  "Ca": 388.85,
+  "Ci_shd": 432.93952660313988,
+  "Ci_sun": 0,
+  "Citm1_shd": 434.86680555782755,
+  "Citm1_sun": 0,
+  "DCi": 0,
+  "DS": 0.649,
+  "Do": 600,
+  "Ds": 213.97143165697821,
+  "FI": 0.081,
+  "Fshd": 1,
+  "Fsun": 0,
+  "Ha": 72,
+  "Knit": 0.15,
+  "Kopt": "Inf",
+  "LAI": 0.48688251562448503,
+  "Lpho": 3.9052094891189882E-17,
+  "Oa": 210000,
+  "Opt_CR": {
+    "Display": [],
+    "MaxFunEvals": [],
+    "MaxIter": [],
+    "TolFun": 1,
+    "TolX": [],
+    "FunValCheck": [],
+    "OutputFcn": [],
+    "PlotFcns": [],
+    "ActiveConstrTol": [],
+    "Algorithm": [],
+    "AlwaysHonorConstraints": [],
+    "DerivativeCheck": [],
+    "Diagnostics": [],
+    "DiffMaxChange": [],
+    "DiffMinChange": [],
+    "FinDiffRelStep": [],
+    "FinDiffType": [],
+    "GoalsExactAchieve": [],
+    "GradConstr": [],
+    "GradObj": [],
+    "HessFcn": [],
+    "Hessian": [],
+    "HessMult": [],
+    "HessPattern": [],
+    "HessUpdate": [],
+    "InitBarrierParam": [],
+    "InitTrustRegionRadius": [],
+    "Jacobian": [],
+    "JacobMult": [],
+    "JacobPattern": [],
+    "LargeScale": [],
+    "MaxNodes": [],
+    "MaxPCGIter": [],
+    "MaxProjCGIter": [],
+    "MaxSQPIter": [],
+    "MaxTime": [],
+    "MeritFunction": [],
+    "MinAbsMax": [],
+    "NoStopIfFlatInfeas": [],
+    "ObjectiveLimit": [],
+    "PhaseOneTotalScaling": [],
+    "Preconditioner": [],
+    "PrecondBandWidth": [],
+    "RelLineSrchBnd": [],
+    "RelLineSrchBndDuration": [],
+    "ScaleProblem": [],
+    "SubproblemAlgorithm": [],
+    "TolCon": [],
+    "TolConSQP": [],
+    "TolGradCon": [],
+    "TolPCG": [],
+    "TolProjCG": [],
+    "TolProjCGAbs": [],
+    "TypicalX": [],
+    "UseParallel": []
+  },
+  "PAR_shd": 0,
+  "PAR_sun": 0,
+  "Pre": 1007.8,
+  "Psi_L": -0.0301925344803233,
+  "Psi_sto_50": -2.5,
+  "Psi_sto_99": -0.8,
+  "Rdark": 0.19939005985316416,
+  "SIF": "NaN",
+  "Sl": 0.026,
+  "Ta": 10.278500000000001,
+  "Ts": 10.278500000000001,
+  "Vmax": 65,
+  "a": 34,
+  "a1": 5,
+  "e_rel": 1,
+  "e_relN": 1,
+  "gmes": "Inf",
+  "go": 0.01,
+  "id_location": "VAIRA",
+  "inputs": {
+    "CT": 3,
+    "Ca": 388.85,
+    "Citm1_shd": 434.86680555782755,
+    "Citm1_sun": 0,
+    "DS": 0.649,
+    "Do": 600,
+    "Ds": 213.97143165697821,
+    "FI": 0.081,
+    "Fshd": 1,
+    "Fsun": 0,
+    "Ha": 72,
+    "Knit": 0.15,
+    "Kopt": null,
+    "LAI": 0.48688251562448503,
+    "Oa": 210000,
+    "Opt_CR": {
+      "Display": [],
+      "MaxFunEvals": [],
+      "MaxIter": [],
+      "TolFun": 1,
+      "TolX": [],
+      "FunValCheck": [],
+      "OutputFcn": [],
+      "PlotFcns": [],
+      "ActiveConstrTol": [],
+      "Algorithm": [],
+      "AlwaysHonorConstraints": [],
+      "DerivativeCheck": [],
+      "Diagnostics": [],
+      "DiffMaxChange": [],
+      "DiffMinChange": [],
+      "FinDiffRelStep": [],
+      "FinDiffType": [],
+      "GoalsExactAchieve": [],
+      "GradConstr": [],
+      "GradObj": [],
+      "HessFcn": [],
+      "Hessian": [],
+      "HessMult": [],
+      "HessPattern": [],
+      "HessUpdate": [],
+      "InitBarrierParam": [],
+      "InitTrustRegionRadius": [],
+      "Jacobian": [],
+      "JacobMult": [],
+      "JacobPattern": [],
+      "LargeScale": [],
+      "MaxNodes": [],
+      "MaxPCGIter": [],
+      "MaxProjCGIter": [],
+      "MaxSQPIter": [],
+      "MaxTime": [],
+      "MeritFunction": [],
+      "MinAbsMax": [],
+      "NoStopIfFlatInfeas": [],
+      "ObjectiveLimit": [],
+      "PhaseOneTotalScaling": [],
+      "Preconditioner": [],
+      "PrecondBandWidth": [],
+      "RelLineSrchBnd": [],
+      "RelLineSrchBndDuration": [],
+      "ScaleProblem": [],
+      "SubproblemAlgorithm": [],
+      "TolCon": [],
+      "TolConSQP": [],
+      "TolGradCon": [],
+      "TolPCG": [],
+      "TolProjCG": [],
+      "TolProjCGAbs": [],
+      "TypicalX": [],
+      "UseParallel": []
+    },
+    "PAR_shd": 0,
+    "PAR_sun": 0,
+    "Pre": 1007.8,
+    "Psi_L": -0.0301925344803233,
+    "Psi_sto_50": -2.5,
+    "Psi_sto_99": -0.8,
+    "Sl": 0.026,
+    "Ta": 10.278500000000001,
+    "Ts": 10.278500000000001,
+    "Vmax": 65,
+    "a1": 5,
+    "e_rel": 1,
+    "e_relN": 1,
+    "gmes": null,
+    "go": 0.01,
+    "id_location": "VAIRA",
+    "mSl": 0,
+    "ra": 287.71863078788488,
+    "rb": 29.262876634881348,
+    "rjv": 2.2
+  },
+  "mSl": 0,
+  "ra": 287.71863078788488,
+  "rb": 29.262876634881348,
+  "rjv": 2.2,
+  "rs_shd": 2609.2972810283982,
+  "rs_sun": "Inf",
+  "w": [
+    {
+      "name": "An",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "CT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ca",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ci_shd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ci_sun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Citm1_shd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Citm1_sun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DCi",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DS",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Do",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ds",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Fshd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Fsun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ha",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Knit",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kopt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Lpho",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Oa",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Opt_CR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 7693,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PAR_shd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PAR_sun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pre",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_sto_50",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_sto_99",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rdark",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SIF",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Vmax",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_rel",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_relN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "gmes",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "go",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 12750,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "mSl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ra",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rjv",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_shd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs_sun",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        36,
+        1
+      ],
+      "bytes": 53468,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Canopy_Resistence_An_Evolution",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

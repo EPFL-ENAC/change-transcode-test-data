@@ -1,0 +1,314 @@
+{
+  "K_usle": 5.6539465950072825E-5,
+  "Ks": 15.574571870799046,
+  "L": 0.27384270864743376,
+  "O33": 0.26031765664458639,
+  "Osat": 0.43100482424458642,
+  "Pcla": 0.13,
+  "Pe": 6.9714874207033422,
+  "Porg": 0.0139,
+  "Psan": 0.3,
+  "a": 10,
+  "cv_s": 2.2056976744186045E+6,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Pcla": 0.13,
+    "Porg": 0.0139,
+    "Psan": 0.3,
+    "id_location": "VAIRA"
+  },
+  "lan_dry": 0.21852929333358867,
+  "lan_s": 7.0223255813953491,
+  "rsd": 1507.8372157518461,
+  "w": [
+    {
+      "name": "K_usle",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ks",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "O33",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Osat",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pcla",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pe",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Porg",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psan",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "cv_s",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 585,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "lan_dry",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "lan_s",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rsd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        4,
+        1
+      ],
+      "bytes": 5956,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Soil_parameters",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

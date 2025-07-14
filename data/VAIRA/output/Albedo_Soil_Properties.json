@@ -1,0 +1,156 @@
+{
+  "Color_Class": 0,
+  "OS": 0.27295949321818774,
+  "a": 3,
+  "e_gr": 0.96,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Color_Class": 0,
+    "OS": 0.27295949321818774,
+    "id_location": "VAIRA"
+  },
+  "soil_alb": {
+    "dir_vis": 0.1108162027127249,
+    "dif_vis": 0.1108162027127249,
+    "dir_nir": 0.2258162027127249,
+    "dif_nir": 0.2258162027127249
+  },
+  "w": [
+    {
+      "name": "Color_Class",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OS",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_gr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 450,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "soil_alb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 588,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        3,
+        1
+      ],
+      "bytes": 4557,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Albedo_Soil_Properties",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

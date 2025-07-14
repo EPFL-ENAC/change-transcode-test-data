@@ -15,6 +15,7 @@ cc = 1; %% Crown area
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%% METEO INPUT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+global id_location;
 id_location = 'ZURICH_SMA';
 load('TeC\Inputs\Data_Run_Zurich_Fluntern.mat')
 Date=D; clear D 

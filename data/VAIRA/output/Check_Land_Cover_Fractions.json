@@ -1,0 +1,172 @@
+{
+  "Cbare": 0,
+  "Ccrown": 1,
+  "Crock": 0,
+  "Curb": 0,
+  "Cwat": 0,
+  "a": 6,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Cbare": 0,
+    "Ccrown": 1,
+    "Crock": 0,
+    "Curb": 0,
+    "Cwat": 0,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "Cbare",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ccrown",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Crock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Curb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cwat",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 869,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        6,
+        1
+      ],
+      "bytes": 8998,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Check_Land_Cover_Fractions",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

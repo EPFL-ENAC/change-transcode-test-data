@@ -1,0 +1,469 @@
+{
+  "Cicew": 0,
+  "Cicewtm1": 0,
+  "Cwat": 0,
+  "ICE": 0,
+  "ICE_D": 0,
+  "ICEtm1": 0,
+  "NIce": 0,
+  "SND": 0,
+  "SNDtm1": 0,
+  "SP_wc": 0,
+  "SP_wctm1": 0,
+  "SWE": 0,
+  "SWEtm1": 0,
+  "Ts": 0,
+  "WAT": 0,
+  "WATtm1": 0,
+  "WatFreez_Th": -8,
+  "a": 18,
+  "dt": 3600,
+  "dz_ice": 0.45,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "Cicew": 0,
+    "Cicewtm1": 0,
+    "Cwat": 0,
+    "ICEtm1": 0,
+    "SNDtm1": 0,
+    "SP_wctm1": 0,
+    "SWEtm1": 0,
+    "Ts": 0,
+    "WATtm1": 0,
+    "WatFreez_Th": -8,
+    "dt": 3600,
+    "dz_ice": 0.45,
+    "id_location": "ZURICH_SMA",
+    "ros": 172.92036000000002,
+    "ros_Ice_thr": 500
+  },
+  "ros": 172.92036000000002,
+  "ros_Ice_thr": 500,
+  "w": [
+    {
+      "name": "Cicew",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cicewtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cwat",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ICE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ICE_D",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ICEtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NIce",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SND",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SNDtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SP_wc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SP_wctm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SWE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SWEtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WAT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WATtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "WatFreez_Th",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dz_ice",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2163,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ros",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ros_Ice_thr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        15,
+        1
+      ],
+      "bytes": 21763,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Snow2Ice",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

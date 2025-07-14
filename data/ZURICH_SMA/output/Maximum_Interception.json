@@ -1,0 +1,302 @@
+{
+  "Ccrown": 1,
+  "In_max_H": 0,
+  "In_max_L": 0.84720000000000018,
+  "In_max_SWE": 0,
+  "LAI_H": 0,
+  "LAI_L": 2.127304181368729,
+  "SAI_H": 0,
+  "SAI_L": 2.1086958186312712,
+  "Sp_LAI_H_In": 0.2,
+  "Sp_LAI_L_In": 0.2,
+  "Sp_SN_In": 5.9,
+  "Ta": -0.9,
+  "a": 13,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "Ccrown": 1,
+    "LAI_H": 0,
+    "LAI_L": 2.127304181368729,
+    "SAI_H": 0,
+    "SAI_L": 2.1086958186312712,
+    "Sp_LAI_H_In": 0.2,
+    "Sp_LAI_L_In": 0.2,
+    "Sp_SN_In": 5.9,
+    "Ta": -0.9,
+    "id_location": "ZURICH_SMA"
+  },
+  "w": [
+    {
+      "name": "Ccrown",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "In_max_SWE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sp_LAI_H_In",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sp_LAI_L_In",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sp_SN_In",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1457,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        10,
+        1
+      ],
+      "bytes": 14806,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Maximum_Interception",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

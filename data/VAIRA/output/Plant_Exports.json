@@ -1,0 +1,955 @@
+{
+  "B": [
+    18.726250600941732,
+    0,
+    140.06438585543356,
+    119.96084686344783,
+    0.14546157019353517,
+    0,
+    0.051978629694628228,
+    0
+  ],
+  "Btm1": [
+    18.3415111705181,
+    0,
+    139.91639086210358,
+    119.98948612814284,
+    0.0708868502710705,
+    0,
+    0.03403661598243575,
+    0
+  ],
+  "IS": [
+    0.0016442479955310033,
+    5.1923620911505362E-5,
+    0.00046731258820354821,
+    0,
+    0,
+    0.11006952612270032,
+    0.0035648715175081759,
+    0.032083843657573587,
+    0.0229114117560541,
+    8.6539368185842281E-5,
+    0,
+    0.0038525354876333107,
+    6.1813834418458769E-6,
+    0,
+    0.00027518110625952222,
+    4.326968409292114E-5,
+    0,
+    0.00044796924274805944
+  ],
+  "Kreserve": 99.98060532652508,
+  "KreserveM": 99.98060532652508,
+  "ManI": 0,
+  "Mpar": {
+    "jDay_cut": null,
+    "LAI_cut": 0,
+    "jDay_harv": null,
+    "B_harv": 0,
+    "Date_log": null,
+    "fract_log": 0,
+    "Date_fire": null,
+    "fire_eff": 0,
+    "funb_nit": 0.15,
+    "Date_girdling": null,
+    "fract_girdling": 0,
+    "Date_sowing": null,
+    "Date_harvesting": null,
+    "Crop_B": [
+      0,
+      0
+    ],
+    "Crop_crown": 1,
+    "fract_resprout": 0.2,
+    "fract_left": 1,
+    "fract_left_fr": 0,
+    "fract_left_AB": 0,
+    "fract_left_BG": 1
+  },
+  "Nreserve": 999.9506460423363,
+  "NreserveM": 999.9506460423363,
+  "NuLIT": [
+    0.00083165700217121175,
+    5.940407158365799E-5,
+    0.00041582850108560587
+  ],
+  "NuLITtm1": [
+    0.00054458534569902365,
+    3.8898953264215983E-5,
+    0.00027229267284951183
+  ],
+  "OPT_SB": 0,
+  "Preserve": 99.996474717309752,
+  "PreserveM": 99.996474717309752,
+  "RB": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rexmy": [
+    0.0057278529390135252,
+    0.0229114117560541,
+    0
+  ],
+  "Sfr": 0.0021634842046460569,
+  "Slf": 0,
+  "Sll": 0.017941978529511758,
+  "Sr": 0.13999038835876856,
+  "St": {
+    "Nl": 25,
+    "Ns": 172.41379310344828,
+    "Nr": 29.069767441860467,
+    "Nf": 25,
+    "Nh": 172.41379310344828,
+    "Phol": 350,
+    "Phos": 2413.7931034482758,
+    "Phor": 406.97674418604652,
+    "Phof": 350,
+    "Phoh": 2413.7931034482758,
+    "Kpotl": 50,
+    "Kpots": 344.82758620689657,
+    "Kpotr": 250,
+    "Kpotf": 50,
+    "Kpoth": 344.82758620689657,
+    "ftransR": 0.2,
+    "ftransL": 0.6,
+    "FiS": 1,
+    "Lig_fr_l": 0.15,
+    "Lig_fr_fr": 0.1,
+    "Lig_fr_h": 0.25,
+    "Lig_fr_r": 0.1
+  },
+  "SupK": 1,
+  "SupN": 1,
+  "SupP": 1,
+  "Swm": 0,
+  "TNIT": 6.2696879290824929,
+  "TPHO": 0.447834852077321,
+  "TPOT": 1.2859940712495239,
+  "TexC": 0.17079313725848222,
+  "TexK": 0.00049123892684098055,
+  "TexN": 0.0039390748558191533,
+  "TexP": 0.00028136248970136811,
+  "a": 33,
+  "fab": 0,
+  "fbe": 1,
+  "id_location": "VAIRA",
+  "inputs": {
+    "B": [
+      18.726250600941732,
+      0,
+      140.06438585543356,
+      119.96084686344783,
+      0.14546157019353517,
+      0,
+      0.051978629694628228,
+      0
+    ],
+    "Btm1": [
+      18.3415111705181,
+      0,
+      139.91639086210358,
+      119.98948612814284,
+      0.0708868502710705,
+      0,
+      0.03403661598243575,
+      0
+    ],
+    "Kreserve": 99.98060532652508,
+    "ManI": 0,
+    "Mpar": {
+      "jDay_cut": null,
+      "LAI_cut": 0,
+      "jDay_harv": null,
+      "B_harv": 0,
+      "Date_log": null,
+      "fract_log": 0,
+      "Date_fire": null,
+      "fire_eff": 0,
+      "funb_nit": 0.15,
+      "Date_girdling": null,
+      "fract_girdling": 0,
+      "Date_sowing": null,
+      "Date_harvesting": null,
+      "Crop_B": [
+        0,
+        0
+      ],
+      "Crop_crown": 1,
+      "fract_resprout": 0.2,
+      "fract_left": 1,
+      "fract_left_fr": 0,
+      "fract_left_AB": 0,
+      "fract_left_BG": 1
+    },
+    "Nreserve": 999.9506460423363,
+    "NuLITtm1": [
+      0.00054458534569902365,
+      3.8898953264215983E-5,
+      0.00027229267284951183
+    ],
+    "OPT_SB": 0,
+    "Preserve": 99.996474717309752,
+    "RB": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Rexmy": [
+      0.0057278529390135252,
+      0.0229114117560541,
+      0
+    ],
+    "Sfr": 0.0021634842046460569,
+    "Slf": 0,
+    "Sll": 0.017941978529511758,
+    "Sr": 0.13999038835876856,
+    "St": {
+      "Nl": 25,
+      "Ns": 172.41379310344828,
+      "Nr": 29.069767441860467,
+      "Nf": 25,
+      "Nh": 172.41379310344828,
+      "Phol": 350,
+      "Phos": 2413.7931034482758,
+      "Phor": 406.97674418604652,
+      "Phof": 350,
+      "Phoh": 2413.7931034482758,
+      "Kpotl": 50,
+      "Kpots": 344.82758620689657,
+      "Kpotr": 250,
+      "Kpotf": 50,
+      "Kpoth": 344.82758620689657,
+      "ftransR": 0.2,
+      "ftransL": 0.6,
+      "FiS": 1,
+      "Lig_fr_l": 0.15,
+      "Lig_fr_fr": 0.1,
+      "Lig_fr_h": 0.25,
+      "Lig_fr_r": 0.1
+    },
+    "Swm": 0,
+    "fab": 0,
+    "fbe": 1,
+    "id_location": "VAIRA",
+    "rKc": 1,
+    "rNc": 1,
+    "rPc": 1
+  },
+  "rKc": 1,
+  "rNc": 1,
+  "rPc": 1,
+  "w": [
+    {
+      "name": "B",
+      "size": [
+        1,
+        1,
+        8
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Btm1",
+      "size": [
+        1,
+        1,
+        8
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "IS",
+      "size": [
+        18,
+        1
+      ],
+      "bytes": 144,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "KreserveM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ManI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Mpar",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2948,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NreserveM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NuLIT",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NuLITtm1",
+      "size": [
+        1,
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_SB",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PreserveM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RB",
+      "size": [
+        1,
+        1,
+        7
+      ],
+      "bytes": 56,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rexmy",
+      "size": [
+        1,
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sfr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Slf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sll",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "St",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3113,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SupK",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SupN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SupP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Swm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TNIT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TPHO",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TPOT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TexC",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TexK",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TexN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TexP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "fab",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "fbe",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 9483,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rKc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rPc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        23,
+        1
+      ],
+      "bytes": 33475,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Plant_Exports",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

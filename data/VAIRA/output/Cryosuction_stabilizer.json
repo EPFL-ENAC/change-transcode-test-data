@@ -1,0 +1,351 @@
+{
+  "O": [
+    0.272762807440307,
+    0.27350071608645038,
+    0.27495109034919918,
+    0.27772343245106357,
+    0.28094113475875176,
+    0.28391399977900206,
+    0.28803330730819554,
+    0.29260175941118027,
+    0.29636921116122666,
+    0.29943311805692263,
+    0.30322604283154936,
+    0.30578077780316687
+  ],
+  "Ohy": [
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624,
+    0.054446098178559624
+  ],
+  "Oice": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Osat": [
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642,
+    0.43100482424458642
+  ],
+  "Rd": -0,
+  "V": [
+    2.1831670926174738,
+    2.1905461790789076,
+    6.6151497651191864,
+    11.163866713625199,
+    11.324751829009607,
+    11.47339508002212,
+    23.358720912963594,
+    23.815566123262062,
+    24.192311298266702,
+    24.4987019878363,
+    49.755988930597951,
+    50.266935924921455
+  ],
+  "a": 7,
+  "dz": [
+    10,
+    10,
+    30,
+    50,
+    50,
+    50,
+    100,
+    100,
+    100,
+    100,
+    200,
+    200
+  ],
+  "id_location": "VAIRA",
+  "inputs": {
+    "Ohy": [
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624,
+      0.054446098178559624
+    ],
+    "Oice": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Osat": [
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642,
+      0.43100482424458642
+    ],
+    "V": [
+      2.1831670926174738,
+      2.1905461790789076,
+      6.6151497651191864,
+      11.163866713625199,
+      11.324751829009607,
+      11.47339508002212,
+      23.358720912963594,
+      23.815566123262062,
+      24.192311298266702,
+      24.4987019878363,
+      49.755988930597951,
+      50.266935924921455
+    ],
+    "dz": [
+      10,
+      10,
+      30,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      200,
+      200
+    ],
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "O",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ohy",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Oice",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Osat",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "V",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dz",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1299,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        6,
+        1
+      ],
+      "bytes": 8930,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Cryosuction_stabilizer",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

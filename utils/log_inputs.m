@@ -1,17 +1,18 @@
-function log_inputs(funcName, inputs)
+function log_inputs(id_location, funcName, inputs)
 % LOG_INPUTS Logs inputs to a JSON file, replacing NaN and Inf with strings
 
     persistent loggedFunctions
     if isempty(loggedFunctions)
         loggedFunctions = containers.Map();
     end
-    if isKey(loggedFunctions, funcName)
+    key = strcat(funcName, "_", id_location);
+    if isKey(loggedFunctions, key)
         return;
     end
     loggedFunctions(funcName) = true;
 
     % Make input directory
-    inputDir = fullfile('..', 'data', 'input');
+    inputDir = fullfile('..', 'data', id_location, 'input');
     if ~exist(inputDir, 'dir')
         mkdir(inputDir);
     end

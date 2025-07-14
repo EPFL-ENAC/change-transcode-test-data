@@ -1,0 +1,2021 @@
+{
+  "ANPP": 2.2190585160994369E-6,
+  "AgeDL": 1,
+  "AgeDLtm1": 0,
+  "AgeL": 117.99999954004912,
+  "AgeLtm1": 117,
+  "An": 0,
+  "B": [
+    60.780119467677963,
+    0,
+    342.00672117122247,
+    249.97143007697042,
+    2.9405960199202652,
+    0,
+    60.219880532322037,
+    0
+  ],
+  "Bam": "NaN",
+  "Bem": "NaN",
+  "Bfac_day": 1,
+  "Bfac_week": 1,
+  "Bfac_weekI": 1,
+  "Btm1": [
+    61,
+    0,
+    343,
+    250,
+    3,
+    0,
+    60,
+    0
+  ],
+  "Datam": [
+    1981,
+    1,
+    1,
+    1
+  ],
+  "EM": 0,
+  "FNC": 1,
+  "FNCtm1": 1,
+  "Kreserve": 1000.0046292538183,
+  "Kreservetm1": 1000,
+  "Kuptake": 0,
+  "LAI": 2.127304181368729,
+  "LAIdead": 2.1076958186312713,
+  "L_day": 8.3388273040217289,
+  "Lmax_day": 8.3719635847618115,
+  "ManI": 0,
+  "Mpar": {
+    "jDay_cut": [
+      132,
+      168,
+      202,
+      238,
+      292
+    ],
+    "LAI_cut": 1.68,
+    "jDay_harv": null,
+    "B_harv": 0,
+    "Date_log": null,
+    "fract_log": 0,
+    "Date_fire": null,
+    "fire_eff": 0,
+    "funb_nit": 0.15,
+    "Date_girdling": null,
+    "fract_girdling": 0,
+    "Date_sowing": null,
+    "Date_harvesting": null,
+    "Crop_B": [
+      0,
+      0
+    ],
+    "Crop_crown": 1,
+    "fract_resprout": 0.2,
+    "fract_left": 1,
+    "fract_left_fr": 0,
+    "fract_left_AB": 0,
+    "fract_left_BG": 1
+  },
+  "NBL_I": 0,
+  "NBL_Im": 0,
+  "NBLeaf": 2.3893904824157097E-7,
+  "NBLeaftm1": 0,
+  "NPP": -0.26073086890957381,
+  "NPPI": 0,
+  "NPPm": 0,
+  "NPPtm1": 0,
+  "NavlI": [
+    0,
+    0,
+    0
+  ],
+  "Nreserve": 1000.0202886562121,
+  "Nreservetm1": 1000,
+  "NupI": [
+    0,
+    0,
+    0
+  ],
+  "NupIm": [
+    0,
+    0,
+    0
+  ],
+  "Nuptake": 0,
+  "OPT_EnvLimitGrowth": 0,
+  "OPT_SoilBiogeochemistry": 0,
+  "OPT_VCA": 0,
+  "OPT_VD": {
+    "AbsTol": 0.05,
+    "BDF": [],
+    "Events": [],
+    "InitialStep": [],
+    "Jacobian": [],
+    "JConstant": [],
+    "JPattern": [],
+    "Mass": [],
+    "MassSingular": [],
+    "MaxOrder": [],
+    "MaxStep": [],
+    "MinStep": [],
+    "NonNegative": [],
+    "NormControl": [],
+    "OutputFcn": [],
+    "OutputSel": [],
+    "Refine": [],
+    "RelTol": [],
+    "Stats": [],
+    "Vectorized": [],
+    "MStateDependence": [],
+    "MvPattern": [],
+    "InitialSlope": []
+  },
+  "PAR": 0,
+  "PAR_I": [
+    0,
+    0,
+    0
+  ],
+  "PAR_Im": [
+    0,
+    0,
+    0
+  ],
+  "PHE_S": 4,
+  "PHE_Stm1": 3,
+  "ParEx": {
+    "dexmy": 0.04,
+    "OPT_EXU": 3,
+    "bfix": 1,
+    "kc1": null,
+    "kc2": null,
+    "kc3": null,
+    "kn1": 7000,
+    "kn2": 3.5,
+    "kn3": 2,
+    "kp1": 466.66666666666669,
+    "kp2": 0.23333333333333334,
+    "kp3": 0.13333333333333333,
+    "kk1": 2800,
+    "kk2": 1.4,
+    "kk3": 0.8
+  },
+  "Preserve": 1000.0014491897294,
+  "Preservetm1": 1000,
+  "Psi_l": 0,
+  "Psi_x": 0,
+  "Puptake": 0,
+  "RA": 0.26073086890957381,
+  "RB": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rdark": 0,
+  "Rexmy": [
+    0,
+    0,
+    0
+  ],
+  "Rg": 0,
+  "Rmc": 0.028569923060635456,
+  "Rmr": 0.23216094584893834,
+  "Rms": 0,
+  "Rootl": 3569.3154259050252,
+  "Se_bio": 0.71503073509692938,
+  "Sfr": 0.059405960199202655,
+  "Slf": 0,
+  "Sll": 0.21988077126108521,
+  "Sr": 0.761118579079136,
+  "Swm": 0,
+  "TBio": 0,
+  "Ta": -0.2,
+  "Tdp": 0,
+  "TdpI": 2,
+  "Tdp_bio": 2,
+  "Tsmm": 1.9333333333333333,
+  "Veg_Param_Dyn": {
+    "Sl": 0.035,
+    "mSl": 0,
+    "Stoich": {
+      "Nl": 23,
+      "Ns": 158.62068965517241,
+      "Nr": 26.744186046511629,
+      "Nf": 23,
+      "Nh": 158.62068965517241,
+      "Phol": 322,
+      "Phos": 2220.6896551724139,
+      "Phor": 374.41860465116281,
+      "Phof": 322,
+      "Phoh": 2220.6896551724139,
+      "Kpotl": 46,
+      "Kpots": 317.24137931034483,
+      "Kpotr": 230,
+      "Kpotf": 46,
+      "Kpoth": 317.24137931034483,
+      "ftransR": 0.2,
+      "ftransL": 0.6,
+      "FiS": 1,
+      "Lig_fr_l": 0.15,
+      "Lig_fr_fr": 0.1,
+      "Lig_fr_h": 0.25,
+      "Lig_fr_r": 0.1
+    },
+    "r": 0.06,
+    "gR": 0.25,
+    "LtR": 0.35,
+    "eps_ac": 0.2,
+    "aSE": 2,
+    "Trr": 2,
+    "dd_max": 0.022222222222222223,
+    "dc_C": 0.019178082191780823,
+    "Tcold": -2,
+    "drn": 0.0022222222222222222,
+    "dsn": 0.0027397260273972603,
+    "age_cr": 180,
+    "Bfac_lo": 0.99,
+    "Bfac_ls": null,
+    "Tlo": 0,
+    "Tls": null,
+    "mjDay": 250,
+    "LDay_min": 10.7,
+    "dmg": 20,
+    "Mf": 0.02,
+    "Wm": 0,
+    "LAI_min": 0.1,
+    "LDay_cr": 10.7,
+    "PsiG50": -3,
+    "PsiG99": -4,
+    "gcoef": 3.5,
+    "fab": 0,
+    "fbe": 1,
+    "Klf": 0.02,
+    "ff_r": 0.1,
+    "PAR_th": null,
+    "PsiL50": -4,
+    "PsiL00": -0.9,
+    "soCrop": null,
+    "MHcrop": null,
+    "Sl_emecrop": null
+  },
+  "a": 78,
+  "cc": 1,
+  "dflo": 1,
+  "dflotm1": 0,
+  "e_rel": 1,
+  "e_relN": 1,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "AgeDLtm1": 0,
+    "AgeLtm1": 117,
+    "An": 0,
+    "Bam": null,
+    "Bem": null,
+    "Bfac_weekI": 1,
+    "Btm1": [
+      61,
+      0,
+      343,
+      250,
+      3,
+      0,
+      60,
+      0
+    ],
+    "Datam": [
+      1981,
+      1,
+      1,
+      1
+    ],
+    "EM": 0,
+    "FNCtm1": 1,
+    "Kreservetm1": 1000,
+    "Kuptake": 0,
+    "L_day": 8.3388273040217289,
+    "Lmax_day": 8.3719635847618115,
+    "Mpar": {
+      "jDay_cut": [
+        132,
+        168,
+        202,
+        238,
+        292
+      ],
+      "LAI_cut": 1.68,
+      "jDay_harv": null,
+      "B_harv": 0,
+      "Date_log": null,
+      "fract_log": 0,
+      "Date_fire": null,
+      "fire_eff": 0,
+      "funb_nit": 0.15,
+      "Date_girdling": null,
+      "fract_girdling": 0,
+      "Date_sowing": null,
+      "Date_harvesting": null,
+      "Crop_B": [
+        0,
+        0
+      ],
+      "Crop_crown": 1,
+      "fract_resprout": 0.2,
+      "fract_left": 1,
+      "fract_left_fr": 0,
+      "fract_left_AB": 0,
+      "fract_left_BG": 1
+    },
+    "NBL_I": 0,
+    "NBLeaftm1": 0,
+    "NPPI": 0,
+    "NPPtm1": 0,
+    "NavlI": [
+      0,
+      0,
+      0
+    ],
+    "Nreservetm1": 1000,
+    "NupI": [
+      0,
+      0,
+      0
+    ],
+    "Nuptake": 0,
+    "OPT_EnvLimitGrowth": 0,
+    "OPT_SoilBiogeochemistry": 0,
+    "OPT_VCA": 0,
+    "OPT_VD": {
+      "AbsTol": 0.05,
+      "BDF": [],
+      "Events": [],
+      "InitialStep": [],
+      "Jacobian": [],
+      "JConstant": [],
+      "JPattern": [],
+      "Mass": [],
+      "MassSingular": [],
+      "MaxOrder": [],
+      "MaxStep": [],
+      "MinStep": [],
+      "NonNegative": [],
+      "NormControl": [],
+      "OutputFcn": [],
+      "OutputSel": [],
+      "Refine": [],
+      "RelTol": [],
+      "Stats": [],
+      "Vectorized": [],
+      "MStateDependence": [],
+      "MvPattern": [],
+      "InitialSlope": []
+    },
+    "PAR": 0,
+    "PAR_I": [
+      0,
+      0,
+      0
+    ],
+    "PHE_Stm1": 3,
+    "ParEx": {
+      "dexmy": 0.04,
+      "OPT_EXU": 3,
+      "bfix": 1,
+      "kc1": null,
+      "kc2": null,
+      "kc3": null,
+      "kn1": 7000,
+      "kn2": 3.5,
+      "kn3": 2,
+      "kp1": 466.66666666666669,
+      "kp2": 0.23333333333333334,
+      "kp3": 0.13333333333333333,
+      "kk1": 2800,
+      "kk2": 1.4,
+      "kk3": 0.8
+    },
+    "Preservetm1": 1000,
+    "Psi_l": 0,
+    "Psi_x": 0,
+    "Puptake": 0,
+    "Rdark": 0,
+    "Se_bio": 0.71503073509692938,
+    "TBio": 0,
+    "Ta": -0.2,
+    "Tdp": 0,
+    "TdpI": 2,
+    "Tdp_bio": 2,
+    "Veg_Param_Dyn": {
+      "Sl": 0.035,
+      "mSl": 0,
+      "Stoich": {
+        "Nl": 23,
+        "Ns": 158.62068965517241,
+        "Nr": 26.744186046511629,
+        "Nf": 23,
+        "Nh": 158.62068965517241,
+        "Phol": 322,
+        "Phos": 2220.6896551724139,
+        "Phor": 374.41860465116281,
+        "Phof": 322,
+        "Phoh": 2220.6896551724139,
+        "Kpotl": 46,
+        "Kpots": 317.24137931034483,
+        "Kpotr": 230,
+        "Kpotf": 46,
+        "Kpoth": 317.24137931034483,
+        "ftransR": 0.2,
+        "ftransL": 0.6,
+        "FiS": 1,
+        "Lig_fr_l": 0.15,
+        "Lig_fr_fr": 0.1,
+        "Lig_fr_h": 0.25,
+        "Lig_fr_r": 0.1
+      },
+      "r": 0.06,
+      "gR": 0.25,
+      "LtR": 0.35,
+      "eps_ac": 0.2,
+      "aSE": 2,
+      "Trr": 2,
+      "dd_max": 0.022222222222222223,
+      "dc_C": 0.019178082191780823,
+      "Tcold": -2,
+      "drn": 0.0022222222222222222,
+      "dsn": 0.0027397260273972603,
+      "age_cr": 180,
+      "Bfac_lo": 0.99,
+      "Bfac_ls": null,
+      "Tlo": 0,
+      "Tls": null,
+      "mjDay": 250,
+      "LDay_min": 10.7,
+      "dmg": 20,
+      "Mf": 0.02,
+      "Wm": 0,
+      "LAI_min": 0.1,
+      "LDay_cr": 10.7,
+      "PsiG50": -3,
+      "PsiG99": -4,
+      "gcoef": 3.5,
+      "fab": 0,
+      "fbe": 1,
+      "Klf": 0.02,
+      "ff_r": 0.1,
+      "PAR_th": null,
+      "PsiL50": -4,
+      "PsiL00": -0.9,
+      "soCrop": null,
+      "MHcrop": null,
+      "Sl_emecrop": null
+    },
+    "cc": 1,
+    "dflotm1": 0,
+    "id_location": "ZURICH_SMA",
+    "jDay": 1
+  },
+  "jDay": 1,
+  "rKc": 1,
+  "rNc": 1,
+  "rPc": 1,
+  "w": [
+    {
+      "name": "ANPP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeDL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeDLtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeLtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "An",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "B",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bam",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bem",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bfac_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bfac_week",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bfac_weekI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Btm1",
+      "size": [
+        1,
+        1,
+        8
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Datam",
+      "size": [
+        1,
+        4
+      ],
+      "bytes": 32,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "EM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FNC",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FNCtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kuptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAIdead",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "L_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Lmax_day",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ManI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Mpar",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2980,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBL_I",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBL_Im",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBLeaf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBLeaftm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NPP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NPPI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NPPm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NPPtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NavlI",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NupI",
+      "size": [
+        1,
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NupIm",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nuptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_EnvLimitGrowth",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_SoilBiogeochemistry",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_VCA",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_VD",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3161,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PAR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PAR_I",
+      "size": [
+        1,
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PAR_Im",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PHE_S",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PHE_Stm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ParEx",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2108,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_l",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_x",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Puptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RA",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RB",
+      "size": [
+        1,
+        7
+      ],
+      "bytes": 56,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rdark",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rexmy",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rg",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rmc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rmr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rms",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rootl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Se_bio",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sfr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Slf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sll",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Swm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TBio",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "TdpI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp_bio",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tsmm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Veg_Param_Dyn",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8605,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "cc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dflo",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dflotm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_rel",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_relN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 23677,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "jDay",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rKc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rPc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        47,
+        1
+      ],
+      "bytes": 68221,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEGGIE_UNIT",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

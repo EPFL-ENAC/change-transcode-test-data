@@ -1,11 +1,12 @@
 function [Mpar] = Vegetation_Management_Parameter()
 % Wrapper for logging I/O to tc.Vegetation_Management_Parameter
+    global id_location;
     w = whos;
     inputs = struct();
     for a = 1:length(w)
         inputs.(w(a).name) = eval(w(a).name);
     end
-    log_inputs('Vegetation_Management_Parameter', inputs);
+    log_inputs(id_location, 'Vegetation_Management_Parameter', inputs);
 
     [Mpar] = tc.Vegetation_Management_Parameter();
     
@@ -14,5 +15,5 @@ function [Mpar] = Vegetation_Management_Parameter()
     for a = 1:length(w)
         outputs.(w(a).name) = eval(w(a).name);
     end
-    log_outputs('Vegetation_Management_Parameter', outputs);
+    log_outputs(id_location, 'Vegetation_Management_Parameter', outputs);
 end

@@ -1,11 +1,12 @@
 function   Biogeo_Spin_Up()
 % Wrapper for logging I/O to tc.Biogeo_Spin_Up
+    global id_location;
     w = whos;
     inputs = struct();
     for a = 1:length(w)
         inputs.(w(a).name) = eval(w(a).name);
     end
-    log_inputs('Biogeo_Spin_Up', inputs);
+    log_inputs(id_location, 'Biogeo_Spin_Up', inputs);
 
       tc.Biogeo_Spin_Up();
     
@@ -14,5 +15,5 @@ function   Biogeo_Spin_Up()
     for a = 1:length(w)
         outputs.(w(a).name) = eval(w(a).name);
     end
-    log_outputs('Biogeo_Spin_Up', outputs);
+    log_outputs(id_location, 'Biogeo_Spin_Up', outputs);
 end
