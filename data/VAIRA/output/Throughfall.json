@@ -1,0 +1,245 @@
+{
+  "CLitter": 0,
+  "Cfol_H": 0,
+  "Cfol_L": 0.30713871792673797,
+  "Kc": 0.75,
+  "LAI_H": 0,
+  "LAI_L": 0.48688251562448503,
+  "Llitter": 0,
+  "SAI_H": 0,
+  "SAI_L": 0.0023514443720603342,
+  "a": 10,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Kc": 0.75,
+    "LAI_H": 0,
+    "LAI_L": 0.48688251562448503,
+    "Llitter": 0,
+    "SAI_H": 0,
+    "SAI_L": 0.0023514443720603342,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "CLitter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cfol_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cfol_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Llitter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1010,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        7,
+        1
+      ],
+      "bytes": 10263,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Throughfall",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

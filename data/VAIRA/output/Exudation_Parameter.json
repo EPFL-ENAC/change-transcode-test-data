@@ -1,0 +1,130 @@
+{
+  "ParEx": {
+    "dexmy": 0.04,
+    "OPT_EXU": 3,
+    "bfix": 0,
+    "kc1": null,
+    "kc2": null,
+    "kc3": null,
+    "kn1": 7000,
+    "kn2": 3.5,
+    "kn3": 2,
+    "kp1": 466.66666666666669,
+    "kp2": 0.23333333333333334,
+    "kp3": 0.13333333333333333,
+    "kk1": 2800,
+    "kk2": 1.4,
+    "kk3": 0.8
+  },
+  "a": 2,
+  "bfix": 0,
+  "id_location": "VAIRA",
+  "inputs": {
+    "bfix": 0,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "ParEx",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2108,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "bfix",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 305,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        2,
+        1
+      ],
+      "bytes": 3070,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Exudation_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

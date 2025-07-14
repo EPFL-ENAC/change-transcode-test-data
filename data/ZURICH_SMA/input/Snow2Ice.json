@@ -1,0 +1,17 @@
+{
+  "Cicew": 0,
+  "Cicewtm1": 0,
+  "Cwat": 0,
+  "ICEtm1": 0,
+  "SNDtm1": 0,
+  "SP_wctm1": 0,
+  "SWEtm1": 0,
+  "Ts": 0,
+  "WATtm1": 0,
+  "WatFreez_Th": -8,
+  "dt": 3600,
+  "dz_ice": 0.45,
+  "id_location": "ZURICH_SMA",
+  "ros": 172.92036000000002,
+  "ros_Ice_thr": 500
+}

@@ -1,0 +1,152 @@
+{
+  "In": 0,
+  "Krock": "NaN",
+  "Lk": 0,
+  "a": 4,
+  "dth": 1,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "In": 0,
+    "Krock": null,
+    "dth": 1,
+    "id_location": "ZURICH_SMA"
+  },
+  "w": [
+    {
+      "name": "In",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Krock",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Lk",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dth",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 593,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        4,
+        1
+      ],
+      "bytes": 5928,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Leakage_Rock",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "D": [
+    1981,
+    1,
+    1,
+    1
+  ],
+  "a": 2,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "D": [
+      1981,
+      1,
+      1,
+      1
+    ],
+    "id_location": "ZURICH_SMA"
+  },
+  "jDay": 1,
+  "w": [
+    {
+      "name": "D",
+      "size": [
+        1,
+        4
+      ],
+      "bytes": 32,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 336,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "jDay",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        2,
+        1
+      ],
+      "bytes": 3028,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "JULIAN_DAY",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

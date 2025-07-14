@@ -1,0 +1,29 @@
+{
+  "LAI": 0.47687929043347055,
+  "LAId": 0.00088495201554332947,
+  "PFT_opt": {
+    "chiL": -0.3,
+    "alf_lf_vis": 0.11,
+    "alf_lf_nir": 0.35,
+    "alf_st_vis": 0.31,
+    "alf_st_nir": 0.53,
+    "alf_ld_vis": 0.31,
+    "alf_ld_nir": 0.53,
+    "tau_lf_vis": 0.05,
+    "tau_lf_nir": 0.34,
+    "tau_st_vis": 0.12,
+    "tau_st_nir": 0.25,
+    "tau_ld_vis": 0.12,
+    "tau_ld_nir": 0.25
+  },
+  "SAI": 0.001,
+  "dw_SNO": 0,
+  "h_S": 0.11396382223709017,
+  "id_location": "VAIRA",
+  "soil_alb": {
+    "dir_vis": 0.11134314257843861,
+    "dif_vis": 0.11134314257843861,
+    "dir_nir": 0.22634314257843863,
+    "dif_nir": 0.22634314257843863
+  }
+}

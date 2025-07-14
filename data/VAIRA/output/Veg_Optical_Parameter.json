@@ -1,0 +1,128 @@
+{
+  "PFT_Class": 13,
+  "PFT_opt": {
+    "chiL": -0.3,
+    "alf_lf_vis": 0.11,
+    "alf_lf_nir": 0.35,
+    "alf_st_vis": 0.31,
+    "alf_st_nir": 0.53,
+    "alf_ld_vis": 0.31,
+    "alf_ld_nir": 0.53,
+    "tau_lf_vis": 0.05,
+    "tau_lf_nir": 0.34,
+    "tau_st_vis": 0.12,
+    "tau_st_nir": 0.25,
+    "tau_ld_vis": 0.12,
+    "tau_ld_nir": 0.25
+  },
+  "a": 3,
+  "id_location": "VAIRA",
+  "inputs": {
+    "PFT_Class": 13,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "PFT_Class",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PFT_opt",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1908,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 310,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        2,
+        1
+      ],
+      "bytes": 3088,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Optical_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

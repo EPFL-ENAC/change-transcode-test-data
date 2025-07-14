@@ -1,17 +1,18 @@
-function log_outputs(funcName, outputs)
+function log_outputs(id_location, funcName, outputs)
 % LOG_OUTPUTS Logs outputs to a JSON file, replacing NaN and Inf with strings
 
     persistent loggedFunctions
     if isempty(loggedFunctions)
         loggedFunctions = containers.Map();
     end
-    if isKey(loggedFunctions, funcName)
+    key = strcat(funcName, "_", id_location);
+    if isKey(loggedFunctions, key)
         return;
     end
     loggedFunctions(funcName) = true;
 
     % Make output directory
-    outputDir = fullfile('..', 'data', 'output');
+    outputDir = fullfile('..', 'data', id_location, 'output');
     if ~exist(outputDir, 'dir')
         mkdir(outputDir);
     end

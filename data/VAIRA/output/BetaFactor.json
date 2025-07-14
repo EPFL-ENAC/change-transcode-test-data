@@ -1,0 +1,308 @@
+{
+  "Bfac": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "Bfac_all": [
+    0.99948709342362707,
+    0.99948693887996043,
+    0.99948677964360377,
+    0.999486625768862,
+    0.999486477494043,
+    0.99948632885912614,
+    0.99948618612454332,
+    0.999486015303166,
+    0.9994857818299363,
+    0.99948544526736038,
+    0.9994850167298055,
+    0.99948456351170933,
+    0.999484104919772,
+    0.99948365442208731,
+    0.99948329629809407,
+    0.999483011283093,
+    0.99948284967976109,
+    0.99948279857172362,
+    0.999482773271302,
+    0.99948272984743747,
+    0.99948269359894293,
+    0.99948264429371325,
+    0.99948258826057623,
+    0.9994825297270693
+  ],
+  "PsiG50": -2.5,
+  "PsiG99": -4,
+  "PsiL00": -1,
+  "PsiL50": -4,
+  "Psi_l": [
+    -0.027299379362788631,
+    -0.027397772494362385,
+    -0.027499122334584153,
+    -0.027597029789445511,
+    -0.027691346379025497,
+    -0.027785864709925591,
+    -0.027876605237478872,
+    -0.027985168244923635,
+    -0.028133490400457064,
+    -0.02834718531453799,
+    -0.028619076144681919,
+    -0.028906379907741083,
+    -0.029196833366295676,
+    -0.029481909097777655,
+    -0.029708353291718496,
+    -0.029888458110027789,
+    -0.02999053335054146,
+    -0.030022808631276342,
+    -0.030038784942708757,
+    -0.030066203739552717,
+    -0.030089090085976933,
+    -0.030120217539006757,
+    -0.030155588865513734,
+    -0.0301925344803233
+  ],
+  "a": 8,
+  "id_location": "VAIRA",
+  "inputs": {
+    "PsiG50": -2.5,
+    "PsiG99": -4,
+    "PsiL00": -1,
+    "PsiL50": -4,
+    "Psi_l": [
+      -0.027299379362788631,
+      -0.027397772494362385,
+      -0.027499122334584153,
+      -0.027597029789445511,
+      -0.027691346379025497,
+      -0.027785864709925591,
+      -0.027876605237478872,
+      -0.027985168244923635,
+      -0.028133490400457064,
+      -0.02834718531453799,
+      -0.028619076144681919,
+      -0.028906379907741083,
+      -0.029196833366295676,
+      -0.029481909097777655,
+      -0.029708353291718496,
+      -0.029888458110027789,
+      -0.02999053335054146,
+      -0.030022808631276342,
+      -0.030038784942708757,
+      -0.030066203739552717,
+      -0.030089090085976933,
+      -0.030120217539006757,
+      -0.030155588865513734,
+      -0.0301925344803233
+    ],
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "Bfac",
+      "size": [
+        24,
+        1
+      ],
+      "bytes": 192,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bfac_all",
+      "size": [
+        24,
+        1
+      ],
+      "bytes": 192,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PsiG50",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PsiG99",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PsiL00",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PsiL50",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_l",
+      "size": [
+        24,
+        1
+      ],
+      "bytes": 192,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1058,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        6,
+        1
+      ],
+      "bytes": 8816,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BetaFactor",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

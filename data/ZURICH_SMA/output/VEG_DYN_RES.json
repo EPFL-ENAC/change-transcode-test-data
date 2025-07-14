@@ -1,0 +1,1336 @@
+{
+  "ANPP": 2.2190585160994369E-6,
+  "AgeDL": 0,
+  "AgeL": 117,
+  "An": 0,
+  "B": [
+    60.780119467677963,
+    0,
+    342.00672117122247,
+    249.97143007697042,
+    2.9405960199202652,
+    0,
+    60.219880532322037,
+    0
+  ],
+  "Bfac": 1,
+  "Btm1": [
+    61,
+    0,
+    343,
+    250,
+    3,
+    0,
+    60,
+    0
+  ],
+  "GF": "Inf",
+  "Klf": 0.02,
+  "Kreserve": 1000.0046292538183,
+  "Kreservetm1": 1000,
+  "Kuptake": 0,
+  "LAI": 2.127304181368729,
+  "LAIdead": 2.1076958186312713,
+  "Mf": 0.02,
+  "NBLeaf": 2.3893904824157097E-7,
+  "NBLeaftm1": 0,
+  "NLeaf": 8.362866760203147E-9,
+  "NLeafdead": 0.0076958186312712229,
+  "NPP": -0.26073086890957381,
+  "Nreserve": 1000.0202886562121,
+  "Nreservetm1": 1000,
+  "Nuptake": 0,
+  "OPT_EnvLimitGrowth": 0,
+  "PHE_S": 3,
+  "Preserve": 1000.0014491897294,
+  "Preservetm1": 1000,
+  "Puptake": 0,
+  "RA": 0.26073086890957381,
+  "Rdark": 0,
+  "Rg": 0,
+  "Rmc": 0.028569923060635456,
+  "Rmr": 0.23216094584893834,
+  "Rms": 0,
+  "Sfr": 0.059405960199202655,
+  "Sl": 0.035,
+  "Sl_emecrop": "NaN",
+  "Slf": 0,
+  "Sll": 0.21988077126108521,
+  "Sr": 0.761118579079136,
+  "St": {
+    "Nl": 23,
+    "Ns": 158.62068965517241,
+    "Nr": 26.744186046511629,
+    "Nf": 23,
+    "Nh": 158.62068965517241,
+    "Phol": 322,
+    "Phos": 2220.6896551724139,
+    "Phor": 374.41860465116281,
+    "Phof": 322,
+    "Phoh": 2220.6896551724139,
+    "Kpotl": 46,
+    "Kpots": 317.24137931034483,
+    "Kpotr": 230,
+    "Kpotf": 46,
+    "Kpoth": 317.24137931034483,
+    "ftransR": 0.2,
+    "ftransL": 0.6,
+    "FiS": 1,
+    "Lig_fr_l": 0.15,
+    "Lig_fr_fr": 0.1,
+    "Lig_fr_h": 0.25,
+    "Lig_fr_r": 0.1
+  },
+  "Swm": 0,
+  "Tam": -0.2,
+  "Tcold": -2,
+  "Tsm": 0,
+  "Wm": 0,
+  "a": 47,
+  "aSE": 2,
+  "age_cr": 180,
+  "dc_C": 0.019178082191780823,
+  "dd_max": 0.022222222222222223,
+  "dmg": 20,
+  "drn": 0.0022222222222222222,
+  "dsn": 0.0027397260273972603,
+  "dtd": 1,
+  "fab": 0,
+  "fbe": 1,
+  "gR": 0.25,
+  "id_location": "ZURICH_SMA",
+  "inputs": {
+    "AgeDL": 0,
+    "AgeL": 117,
+    "An": 0,
+    "B": [
+      60.780119467677963,
+      0,
+      342.00672117122247,
+      249.97143007697042,
+      2.9405960199202652,
+      0,
+      60.219880532322037,
+      0
+    ],
+    "Bfac": 1,
+    "Btm1": [
+      61,
+      0,
+      343,
+      250,
+      3,
+      0,
+      60,
+      0
+    ],
+    "GF": null,
+    "Klf": 0.02,
+    "Kreservetm1": 1000,
+    "Kuptake": 0,
+    "Mf": 0.02,
+    "NBLeaftm1": 0,
+    "Nreservetm1": 1000,
+    "Nuptake": 0,
+    "OPT_EnvLimitGrowth": 0,
+    "PHE_S": 3,
+    "Preservetm1": 1000,
+    "Puptake": 0,
+    "Rdark": 0,
+    "Sl": 0.035,
+    "Sl_emecrop": null,
+    "St": {
+      "Nl": 23,
+      "Ns": 158.62068965517241,
+      "Nr": 26.744186046511629,
+      "Nf": 23,
+      "Nh": 158.62068965517241,
+      "Phol": 322,
+      "Phos": 2220.6896551724139,
+      "Phor": 374.41860465116281,
+      "Phof": 322,
+      "Phoh": 2220.6896551724139,
+      "Kpotl": 46,
+      "Kpots": 317.24137931034483,
+      "Kpotr": 230,
+      "Kpotf": 46,
+      "Kpoth": 317.24137931034483,
+      "ftransR": 0.2,
+      "ftransL": 0.6,
+      "FiS": 1,
+      "Lig_fr_l": 0.15,
+      "Lig_fr_fr": 0.1,
+      "Lig_fr_h": 0.25,
+      "Lig_fr_r": 0.1
+    },
+    "Tam": -0.2,
+    "Tcold": -2,
+    "Tsm": 0,
+    "Wm": 0,
+    "aSE": 2,
+    "age_cr": 180,
+    "dc_C": 0.019178082191780823,
+    "dd_max": 0.022222222222222223,
+    "dmg": 20,
+    "drn": 0.0022222222222222222,
+    "dsn": 0.0027397260273972603,
+    "dtd": 1,
+    "fab": 0,
+    "fbe": 1,
+    "gR": 0.25,
+    "id_location": "ZURICH_SMA",
+    "mSl": 0,
+    "r": 0.06,
+    "rKc": 1,
+    "rNc": 1,
+    "rNcR": 1,
+    "rPc": 1
+  },
+  "mSl": 0,
+  "r": 0.06,
+  "rKc": 1,
+  "rNc": 1,
+  "rNcR": 1,
+  "rPc": 1,
+  "w": [
+    {
+      "name": "ANPP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeDL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "AgeL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "An",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "B",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Bfac",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Btm1",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "GF",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Klf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kuptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAIdead",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Mf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBLeaf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NBLeaftm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NLeaf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NLeafdead",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NPP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nuptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_EnvLimitGrowth",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PHE_S",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preservetm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Puptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RA",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rdark",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rg",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rmc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rmr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rms",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sfr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sl_emecrop",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Slf",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sll",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Sr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "St",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3113,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Swm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tam",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tcold",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tsm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Wm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "aSE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "age_cr",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dc_C",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dd_max",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dmg",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "drn",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dsn",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dtd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "fab",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "fbe",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "gR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        10
+      ],
+      "bytes": 20,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 9441,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "mSl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "r",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rKc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNcR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rPc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        44,
+        1
+      ],
+      "bytes": 63702,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "VEG_DYN_RES",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

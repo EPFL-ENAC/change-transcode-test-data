@@ -1,0 +1,621 @@
+{
+  "An": -0.40952396821525311,
+  "CT": 3,
+  "Cc": 432.93952660313988,
+  "CcF": 432.93952660313988,
+  "Csl": 388.85,
+  "DS": 0.649,
+  "Do": 600,
+  "Ds": 213.97143165697821,
+  "F755nm": "NaN",
+  "FI": 0.081,
+  "GAM": 1.9500790542082076,
+  "Ha": 72,
+  "IPAR": 0,
+  "Oa": 210000,
+  "Pre": 1007.8,
+  "Psi_L": -0.0301925344803233,
+  "Psi_sto_00": -0.8,
+  "Psi_sto_50": -2.5,
+  "Rdark": 0.40952396821525328,
+  "Ts": 10.278500000000001,
+  "Vmax": 62.683190025037312,
+  "a": 22,
+  "a1": 5,
+  "gmes": "Inf",
+  "go": 0.01,
+  "gsCO2": 10000,
+  "id_location": "VAIRA",
+  "inputs": {
+    "CT": 3,
+    "Cc": 432.93952660313988,
+    "Csl": 388.85,
+    "DS": 0.649,
+    "Do": 600,
+    "Ds": 213.97143165697821,
+    "FI": 0.081,
+    "Ha": 72,
+    "IPAR": 0,
+    "Oa": 210000,
+    "Pre": 1007.8,
+    "Psi_L": -0.0301925344803233,
+    "Psi_sto_00": -0.8,
+    "Psi_sto_50": -2.5,
+    "Ts": 10.278500000000001,
+    "Vmax": 62.683190025037312,
+    "a1": 5,
+    "gmes": null,
+    "go": 0.01,
+    "id_location": "VAIRA",
+    "ra": 287.71863078788488,
+    "rb": 29.262876634881348,
+    "rjv": 2.2
+  },
+  "ra": 287.71863078788488,
+  "rb": 29.262876634881348,
+  "rjv": 2.2,
+  "rs": 2609.2972810283982,
+  "w": [
+    {
+      "name": "An",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "CT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Cc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "CcF",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Csl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DS",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Do",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ds",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "F755nm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "GAM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ha",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "IPAR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Oa",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pre",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_sto_00",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_sto_50",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Rdark",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Vmax",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "gmes",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "go",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "gsCO2",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3229,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ra",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rb",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rjv",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        23,
+        1
+      ],
+      "bytes": 33999,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "photosynthesis_biochemical",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

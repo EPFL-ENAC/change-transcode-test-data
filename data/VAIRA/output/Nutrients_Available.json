@@ -1,0 +1,454 @@
+{
+  "B": [
+    18.3415111705181,
+    0,
+    139.91639086210358,
+    119.98948612814284,
+    0.0708868502710705,
+    0,
+    0.03403661598243575,
+    0
+  ],
+  "FNC": 1,
+  "FNCtm1": 1,
+  "Kavail": 100.4374943721653,
+  "Kreserve": 99.990935310392771,
+  "Navail": 1002.1641152500086,
+  "Nreserve": 999.9781696748978,
+  "OPT_SoilBiogeochemistry": 0,
+  "Pavail": 100.15457966071492,
+  "Preserve": 99.998440691064133,
+  "St": {
+    "Nl": 25,
+    "Ns": 172.41379310344828,
+    "Nr": 29.069767441860467,
+    "Nf": 25,
+    "Nh": 172.41379310344828,
+    "Phol": 350,
+    "Phos": 2413.7931034482758,
+    "Phor": 406.97674418604652,
+    "Phof": 350,
+    "Phoh": 2413.7931034482758,
+    "Kpotl": 50,
+    "Kpots": 344.82758620689657,
+    "Kpotr": 250,
+    "Kpotf": 50,
+    "Kpoth": 344.82758620689657,
+    "ftransR": 0.2,
+    "ftransL": 0.6,
+    "FiS": 1,
+    "Lig_fr_l": 0.15,
+    "Lig_fr_fr": 0.1,
+    "Lig_fr_h": 0.25,
+    "Lig_fr_r": 0.1
+  },
+  "a": 12,
+  "e_relN": 1,
+  "id_location": "VAIRA",
+  "inputs": {
+    "B": [
+      18.3415111705181,
+      0,
+      139.91639086210358,
+      119.98948612814284,
+      0.0708868502710705,
+      0,
+      0.03403661598243575,
+      0
+    ],
+    "FNCtm1": 1,
+    "Kreserve": 99.990935310392771,
+    "Nreserve": 999.9781696748978,
+    "OPT_SoilBiogeochemistry": 0,
+    "Preserve": 99.998440691064133,
+    "St": {
+      "Nl": 25,
+      "Ns": 172.41379310344828,
+      "Nr": 29.069767441860467,
+      "Nf": 25,
+      "Nh": 172.41379310344828,
+      "Phol": 350,
+      "Phos": 2413.7931034482758,
+      "Phor": 406.97674418604652,
+      "Phof": 350,
+      "Phoh": 2413.7931034482758,
+      "Kpotl": 50,
+      "Kpots": 344.82758620689657,
+      "Kpotr": 250,
+      "Kpotf": 50,
+      "Kpoth": 344.82758620689657,
+      "ftransR": 0.2,
+      "ftransL": 0.6,
+      "FiS": 1,
+      "Lig_fr_l": 0.15,
+      "Lig_fr_fr": 0.1,
+      "Lig_fr_h": 0.25,
+      "Lig_fr_r": 0.1
+    },
+    "id_location": "VAIRA"
+  },
+  "rKc": 1,
+  "rMc": 1,
+  "rNc": 1,
+  "rNcR": 1,
+  "rPc": 1,
+  "w": [
+    {
+      "name": "B",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 64,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FNC",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FNCtm1",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kavail",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Kreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Navail",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Nreserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "OPT_SoilBiogeochemistry",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pavail",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Preserve",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "St",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3113,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "e_relN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 4334,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rKc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rMc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rNcR",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rPc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        8,
+        1
+      ],
+      "bytes": 11880,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Nutrients_Available",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

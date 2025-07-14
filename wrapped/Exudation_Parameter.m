@@ -1,11 +1,12 @@
 function [ParEx] = Exudation_Parameter(bfix)
 % Wrapper for logging I/O to tc.Exudation_Parameter
+    global id_location;
     w = whos;
     inputs = struct();
     for a = 1:length(w)
         inputs.(w(a).name) = eval(w(a).name);
     end
-    log_inputs('Exudation_Parameter', inputs);
+    log_inputs(id_location, 'Exudation_Parameter', inputs);
 
     [ParEx] = tc.Exudation_Parameter(bfix);
     
@@ -14,5 +15,5 @@ function [ParEx] = Exudation_Parameter(bfix)
     for a = 1:length(w)
         outputs.(w(a).name) = eval(w(a).name);
     end
-    log_outputs('Exudation_Parameter', outputs);
+    log_outputs(id_location, 'Exudation_Parameter', outputs);
 end

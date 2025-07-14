@@ -1,0 +1,364 @@
+{
+  "I1": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "Koh": [
+    0.14020459720113815,
+    0.14416796627143846,
+    0.15226266466200494,
+    0.16895854125353876,
+    0.19046380169728916,
+    0.21250648867371966,
+    0.24682807257507924,
+    0.29057834053897363,
+    0.33167802701599397,
+    0.36879952838719782,
+    0.41981897248254513,
+    0.45759984144821897
+  ],
+  "Qi_out": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SN": 0,
+  "Slo_pot": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "a": 6,
+  "aT": 1000,
+  "cosalp": 1,
+  "dz": [
+    10,
+    10,
+    30,
+    50,
+    50,
+    50,
+    100,
+    100,
+    100,
+    100,
+    200,
+    200
+  ],
+  "id_location": "VAIRA",
+  "inputs": {
+    "I1": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Koh": [
+      0.14020459720113815,
+      0.14416796627143846,
+      0.15226266466200494,
+      0.16895854125353876,
+      0.19046380169728916,
+      0.21250648867371966,
+      0.24682807257507924,
+      0.29057834053897363,
+      0.33167802701599397,
+      0.36879952838719782,
+      0.41981897248254513,
+      0.45759984144821897
+    ],
+    "SN": 0,
+    "Slo_pot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "aT": 1000,
+    "cosalp": 1,
+    "dz": [
+      10,
+      10,
+      30,
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      200,
+      200
+    ],
+    "id_location": "VAIRA",
+    "sinalp": 0
+  },
+  "sinalp": 0,
+  "w": [
+    {
+      "name": "I1",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Koh",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Qi_out",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Slo_pot",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "aT",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "cosalp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dz",
+      "size": [
+        1,
+        12
+      ],
+      "bytes": 96,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1635,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "sinalp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        9,
+        1
+      ],
+      "bytes": 13351,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Lateral_Subsurface_Flow",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

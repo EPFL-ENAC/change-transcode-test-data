@@ -1,0 +1,528 @@
+{
+  "Ccrown": 1,
+  "LAI_H": 0,
+  "LAI_L": 0.48923395999654534,
+  "SND": 0,
+  "Ta": 10.278500000000001,
+  "Ts": 12.78045576199823,
+  "Ws": 0.9165,
+  "Ws_und": 0.37350497837362928,
+  "a": 9,
+  "d_leaf_H": 3.5,
+  "d_leaf_L": 0.8,
+  "disp_h": 0.013604712835201324,
+  "disp_h_H": 0,
+  "disp_h_L": 0.013604712835201324,
+  "hc_H": 0,
+  "hc_L": 0.020305541545076602,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Ccrown": 1,
+    "LAI_H": 0,
+    "LAI_L": 0.48923395999654534,
+    "SND": 0,
+    "Ta": 10.278500000000001,
+    "Ts": 12.78045576199823,
+    "Ws": 0.9165,
+    "d_leaf_H": 3.5,
+    "d_leaf_L": 0.8,
+    "disp_h": 0.013604712835201324,
+    "disp_h_H": 0,
+    "disp_h_L": 0.013604712835201324,
+    "hc_H": 0,
+    "hc_L": 0.020305541545076602,
+    "id_location": "VAIRA",
+    "zatm": 2,
+    "zom": 0.003,
+    "zom_H": 0,
+    "zom_L": 0.0024975816100444221,
+    "zom_under": 0.003
+  },
+  "rap_H": 0,
+  "rap_L": 43.362910665150586,
+  "rb_H": 0,
+  "rb_L": 25.862420368392144,
+  "w": [
+    {
+      "name": "Ccrown",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SND",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ws",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ws_und",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "d_leaf_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "d_leaf_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "disp_h_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 2846,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rap_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rap_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rb_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rb_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        20,
+        1
+      ],
+      "bytes": 29734,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zatm",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_H",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_L",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "zom_under",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Undercanopy_Leaf_Resistence2",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ],
+  "zatm": 2,
+  "zom": 0.003,
+  "zom_H": 0,
+  "zom_L": 0.0024975816100444221,
+  "zom_under": 0.003
+}

@@ -1,0 +1,28 @@
+{
+  "Ccrown_L": 1,
+  "Cdeb": 0,
+  "Cice": 0,
+  "Crock": 0,
+  "Curb": 0,
+  "Cwat": 0,
+  "D": 0,
+  "Deb_Par": {
+    "alb": 0.13,
+    "e_sur": 0.94,
+    "lan": 0.94,
+    "rho": 1496,
+    "cs": 948,
+    "zom": 0.016
+  },
+  "ICE_D": 0,
+  "LAI_H": 0,
+  "Urb_Par": {
+    "alb": 0.15,
+    "e_sur": 0.92,
+    "BuildH": 12
+  },
+  "hc_H": 0,
+  "hc_L": 0.020305541545076602,
+  "id_location": "VAIRA",
+  "ydepth": 0
+}

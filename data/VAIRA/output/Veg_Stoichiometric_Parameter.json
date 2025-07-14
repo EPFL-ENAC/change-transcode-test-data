@@ -1,0 +1,137 @@
+{
+  "Nl": 25,
+  "Stoich": {
+    "Nl": 25,
+    "Ns": 172.41379310344828,
+    "Nr": 29.069767441860467,
+    "Nf": 25,
+    "Nh": 172.41379310344828,
+    "Phol": 350,
+    "Phos": 2413.7931034482758,
+    "Phor": 406.97674418604652,
+    "Phof": 350,
+    "Phoh": 2413.7931034482758,
+    "Kpotl": 50,
+    "Kpots": 344.82758620689657,
+    "Kpotr": 250,
+    "Kpotf": 50,
+    "Kpoth": 344.82758620689657,
+    "ftransR": 0.2,
+    "ftransL": 0.6,
+    "FiS": 1,
+    "Lig_fr_l": 0.15,
+    "Lig_fr_fr": 0.1,
+    "Lig_fr_h": 0.25,
+    "Lig_fr_r": 0.1
+  },
+  "a": 3,
+  "id_location": "VAIRA",
+  "inputs": {
+    "Nl": 25,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "Nl",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Stoich",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 3113,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 303,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        2,
+        1
+      ],
+      "bytes": 3102,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Veg_Stoichiometric_Parameter",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

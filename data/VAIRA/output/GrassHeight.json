@@ -1,0 +1,133 @@
+{
+  "LAI": 0.48688251562448503,
+  "LAIdead": 0.001351444372060334,
+  "a": 3,
+  "hc": 0.020305541545076602,
+  "id_location": "VAIRA",
+  "inputs": {
+    "LAI": 0.48688251562448503,
+    "LAIdead": 0.001351444372060334,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAIdead",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "hc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 447,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        3,
+        1
+      ],
+      "bytes": 4485,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "GrassHeight",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}
