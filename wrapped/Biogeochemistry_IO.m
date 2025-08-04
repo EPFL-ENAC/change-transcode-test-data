@@ -8,8 +8,14 @@ function [B_IO] = Biogeochemistry_IO(Zs,Lat,Lon,Upl,HIST,FertN,FertP,FertK,ManF,
     end
     log_inputs(id_location, 'Biogeochemistry_IO', inputs);
 
-    [B_IO] = tc.Biogeochemistry_IO(Zs,Lat,Lon,Upl,HIST,FertN,FertP,FertK,ManF,N_Man,P_Man,K_Man,Lig_fr_Man,DepN,DepP,DepK);
-    
+    if nargin  == 4
+        [B_IO] = tc.Biogeochemistry_IO(Zs*1000,Lat,Lon,Upl);
+    else if nargin == 11
+        [B_IO] = tc.Biogeochemistry_IO(Zs*1000,Lat,Lon,Upl,HIST,FertN,FertP,FertK,DepN,DepP,DepK);
+    else
+        [B_IO] = tc.Biogeochemistry_IO(Zs,Lat,Lon,Upl,HIST,FertN,FertP,FertK,ManF,N_Man,P_Man,K_Man,Lig_fr_Man,DepN,DepP,DepK);
+    end
+
     w = whos;
     outputs = struct();
     for a = 1:length(w)

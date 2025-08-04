@@ -15,6 +15,7 @@ cc = 1; %% Crown area
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%% METEO INPUT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+global id_location;
 id_location = 'VAIRA'; 
 load('Data_US-Var_run.mat')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -24,7 +25,8 @@ index1 = find(Date >= dateNum1, 1, 'first');
 index2 = find(Date >= dateNum2, 1, 'first');
 x1=index1;
 x2= index2;
-NN=x2-x1+1;% %%% time Step 
+%NN=x2-x1+1;% %%% time Step 
+NN = 100;
 %%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%
@@ -65,6 +67,7 @@ PARAM_IC = strcat(current_directory,'/MOD_PARAM_',id_location);
 Directory='wrapped';
 cd(Directory)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+OPT_BG = 1;
 MAIN_FRAME;
 cd(current_directory);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
