@@ -1,0 +1,1457 @@
+{
+  "B": [
+    18.738689214415,
+    44.127952982739,
+    7.0166381958359993,
+    0,
+    0,
+    10.407506624887999,
+    18.158300094498,
+    2.017588899389,
+    320.86422448804205,
+    502.24010396809905,
+    3154.334634423928,
+    20.916875055187,
+    16.733500026559,
+    0.04627608844,
+    0.030250322339,
+    0.019281703517,
+    0.050417203898,
+    5.961865968202,
+    21.57985658598,
+    13.203922195482999,
+    0,
+    1.0761232304519999,
+    0.847301920875,
+    0,
+    0.466365826714,
+    379.383626928682,
+    1.1539291180470002,
+    3.330024637386,
+    0.732507609934,
+    0,
+    0.237208488136,
+    0.050118640178999994,
+    0.0040097958110000007,
+    0.177612323046,
+    0.060521565777000005,
+    0,
+    0.033311844764999994,
+    59.300849451603,
+    0.372280761494,
+    0.54094709222800008,
+    0.10987614149000001,
+    0,
+    0.035228023876,
+    150,
+    0.769945255761,
+    15.01113737968,
+    3.4570402E-5,
+    0.42365096043699996,
+    0,
+    0.054228584502,
+    6.503591793605,
+    0.053685110721000004,
+    0.047554645108999996,
+    1.069978176652,
+    503.354294577452
+  ],
+  "BfixN": 0,
+  "BiogeoPar": {
+    "k_met_sur": 0.08,
+    "k_str_sur": 0.021739130434782608,
+    "k_met_ssr": 0.1,
+    "k_str_ssr": 0.027027027027027029,
+    "k_wod_sur": 0.0066666666666666671,
+    "R_CN_bac": 5.2,
+    "R_CN_fun": 6.5,
+    "R_CN_myc": 18,
+    "R_CN_ew": 10,
+    "R_CP_bac": 16,
+    "R_CP_fun": 40,
+    "R_CP_myc": 120,
+    "gd": 0.2,
+    "fd": 0.4,
+    "Vdb": 0.04,
+    "Vdf": 0.02,
+    "Kdb": 0.00026,
+    "Kdf": 0.00026,
+    "mrb": 0.005,
+    "mrf": 0.002,
+    "mram": 0.0012,
+    "mrem": 0.0012,
+    "Vpc": 200,
+    "Vpl": 23,
+    "Vm": 100,
+    "Kpl": 0.05,
+    "Kpc": 0.05,
+    "Km": 0.25,
+    "rem": 0.018,
+    "rep": 0.018,
+    "pepb": 0.012,
+    "pemb": 0.005,
+    "pepf": 0.006,
+    "pemf": 0.01,
+    "pepem": 0.006,
+    "pemem": 0.01,
+    "Ecf": 0.27,
+    "Ecb": 0.27,
+    "CUEmax": 0.6,
+    "Ae": 1,
+    "T1": 12,
+    "T2": 20,
+    "T3": 15,
+    "T4": 40,
+    "mtem": -0.008,
+    "rr_met_sur": 0.55,
+    "rr_str_sur": 0.45,
+    "rr_wod_sur": 0.45,
+    "rr_met_ssr": 0.55,
+    "rr_str_ssr": 0.55,
+    "lambda_C": 0.0015,
+    "lambda_N": 0.0015,
+    "lambda_P": 0.0001,
+    "lambda_K": 0.9,
+    "f_org_lea": 1,
+    "VmaxE": 0.005,
+    "rmanEa": 0.03,
+    "rmanEp": 0.0146,
+    "dew": 0.01,
+    "fabsE": 0.15,
+    "kv": 8.6E-5,
+    "KNmaxn": 0.086,
+    "Kc": 17.5,
+    "Kn": 82.5,
+    "KNmaxd": 0.217,
+    "K1p": 0.0016666666666666668,
+    "K2p": 7.4074074074074073E-5,
+    "K3p": 3.3333333333333334E-8,
+    "K4p": 2.2831050228310502E-7,
+    "Kdk": 0.5,
+    "Kak": 0.5,
+    "K1k": 0.0016666666666666668,
+    "K2k": 7.4074074074074073E-5,
+    "K3k": 2.8571428571428573E-6,
+    "aNH4": 0.05,
+    "aNO3": 1,
+    "aP": 0.005,
+    "aK": 1,
+    "aDOC": 0.04,
+    "aDON": 1,
+    "aDOP": 1,
+    "g_r": 1.8832360778723416,
+    "g_em": 0.00039528470752104737,
+    "g_am": 0.00039528470752104737,
+    "vr": 2.3E-7,
+    "vem": 2.3E-7,
+    "vam": 2.3E-7
+  },
+  "DepK": 6.821917808219178E-5,
+  "DepN": 0.0010684931506849315,
+  "DepP": 1.36762196E-6,
+  "ExEM": 0,
+  "FertK": 0,
+  "FertN": 0,
+  "FertP": 0,
+  "IMAN": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "ISOIL": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "K_Uptake": 0.0015096003324501699,
+  "LEAK_DOC": 0,
+  "LEAK_DON": 0,
+  "LEAK_DOP": 0,
+  "LEAK_K": 0,
+  "LEAK_NH4": 0,
+  "LEAK_NO3": 0,
+  "LEAK_P": 0,
+  "Min_N": 0.013347785932463923,
+  "Min_P": 0.00095827258751678092,
+  "N2flx": 0.0058320617750531756,
+  "NH4_Uptake": 0.0066701923073436767,
+  "NO3_Uptake": 0.0014093128403770481,
+  "PH": 5,
+  "P_Uptake": 0.000990595638912776,
+  "Pcla": 0.13,
+  "Prod_B": 0.20443885300953238,
+  "Prod_F": 0.29808171981472709,
+  "Psan": 0.3,
+  "Psi_s": -0.021740206566877213,
+  "R_bacteria": 0.14924036269695862,
+  "R_ew": 0.3233821481384509,
+  "R_litter": 0.34260105262190921,
+  "R_litter_sur": 0.12144593098226061,
+  "R_microbe": 0.38792714701719722,
+  "RmycAM": 0.02108712885488577,
+  "RmycEM": 6.0201728679582478E-13,
+  "SC_par": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "Se": 0.7428055239713004,
+  "Se_fc": 0.60544618956242,
+  "Ta": 11.735,
+  "Ts": 22,
+  "Tup_K": 0.0014383561643835617,
+  "Tup_P": 3.4246575342465758E-5,
+  "VOL": 1.9826293441264448E-5,
+  "ZBIOG": 0.25,
+  "a": 49,
+  "dB": [
+    -0.16912589607307668,
+    -0.05450393043116121,
+    -0.0086664876622776048,
+    -2.3272761467571054E-14,
+    -2.3272761467571054E-14,
+    -0.30513278860024357,
+    -0.08727068930647712,
+    -0.009696743256276839,
+    -0.0073611760312776112,
+    -0.7758175450849647,
+    -0.015744539660353867,
+    0.0025333417732124539,
+    0.0065886352166954877,
+    0.00010075208174079596,
+    6.586085924948692E-5,
+    4.198003405517345E-5,
+    0.00010976809875514483,
+    0.015526365486777178,
+    0.023042412484741311,
+    -0.04217425770977154,
+    -1.2040345735916496E-12,
+    0.37357459000434678,
+    -0.0053164756597922566,
+    -2.3272761467571054E-14,
+    -0.010479212876478738,
+    -0.050203144890534804,
+    0.0058052084298508139,
+    0.0095622078267358756,
+    -0.00012621730728634202,
+    -5.923850102070915E-13,
+    0.0015188175012589347,
+    -0.0010339316343252474,
+    5.2389545222514885E-5,
+    0.037357459000434676,
+    -0.00037974826141507737,
+    -2.3272761467571054E-14,
+    -0.00074851520545634676,
+    -0.0020710185782384415,
+    0.00077563554801978471,
+    0.001483822512136498,
+    -1.8932595992791781E-5,
+    -5.923850102070915E-13,
+    3.2617746537418718E-6,
+    0,
+    3.7336450644488749E-9,
+    2.56648418587E-8,
+    4.83994045252096E-7,
+    -0.0026582378298929911,
+    -2.3272761467571054E-14,
+    -0.0012185131251803074,
+    -0.00039852629435683883,
+    0.0019539170414087045,
+    0.0023104326397749221,
+    7.7015412659534338E-6,
+    2.0103701941312038E-7
+  ],
+  "id_location": "VAIRA",
+  "inputs": {
+    "B": [
+      18.738689214415,
+      44.127952982739,
+      7.0166381958359993,
+      0,
+      0,
+      10.407506624887999,
+      18.158300094498,
+      2.017588899389,
+      320.86422448804205,
+      502.24010396809905,
+      3154.334634423928,
+      20.916875055187,
+      16.733500026559,
+      0.04627608844,
+      0.030250322339,
+      0.019281703517,
+      0.050417203898,
+      5.961865968202,
+      21.57985658598,
+      13.203922195482999,
+      0,
+      1.0761232304519999,
+      0.847301920875,
+      0,
+      0.466365826714,
+      379.383626928682,
+      1.1539291180470002,
+      3.330024637386,
+      0.732507609934,
+      0,
+      0.237208488136,
+      0.050118640178999994,
+      0.0040097958110000007,
+      0.177612323046,
+      0.060521565777000005,
+      0,
+      0.033311844764999994,
+      59.300849451603,
+      0.372280761494,
+      0.54094709222800008,
+      0.10987614149000001,
+      0,
+      0.035228023876,
+      150,
+      0.769945255761,
+      15.01113737968,
+      3.4570402E-5,
+      0.42365096043699996,
+      0,
+      0.054228584502,
+      6.503591793605,
+      0.053685110721000004,
+      0.047554645108999996,
+      1.069978176652,
+      503.354294577452
+    ],
+    "BfixN": 0,
+    "BiogeoPar": {
+      "k_met_sur": 0.08,
+      "k_str_sur": 0.021739130434782608,
+      "k_met_ssr": 0.1,
+      "k_str_ssr": 0.027027027027027029,
+      "k_wod_sur": 0.0066666666666666671,
+      "R_CN_bac": 5.2,
+      "R_CN_fun": 6.5,
+      "R_CN_myc": 18,
+      "R_CN_ew": 10,
+      "R_CP_bac": 16,
+      "R_CP_fun": 40,
+      "R_CP_myc": 120,
+      "gd": 0.2,
+      "fd": 0.4,
+      "Vdb": 0.04,
+      "Vdf": 0.02,
+      "Kdb": 0.00026,
+      "Kdf": 0.00026,
+      "mrb": 0.005,
+      "mrf": 0.002,
+      "mram": 0.0012,
+      "mrem": 0.0012,
+      "Vpc": 200,
+      "Vpl": 23,
+      "Vm": 100,
+      "Kpl": 0.05,
+      "Kpc": 0.05,
+      "Km": 0.25,
+      "rem": 0.018,
+      "rep": 0.018,
+      "pepb": 0.012,
+      "pemb": 0.005,
+      "pepf": 0.006,
+      "pemf": 0.01,
+      "pepem": 0.006,
+      "pemem": 0.01,
+      "Ecf": 0.27,
+      "Ecb": 0.27,
+      "CUEmax": 0.6,
+      "Ae": 1,
+      "T1": 12,
+      "T2": 20,
+      "T3": 15,
+      "T4": 40,
+      "mtem": -0.008,
+      "rr_met_sur": 0.55,
+      "rr_str_sur": 0.45,
+      "rr_wod_sur": 0.45,
+      "rr_met_ssr": 0.55,
+      "rr_str_ssr": 0.55,
+      "lambda_C": 0.0015,
+      "lambda_N": 0.0015,
+      "lambda_P": 0.0001,
+      "lambda_K": 0.9,
+      "f_org_lea": 1,
+      "VmaxE": 0.005,
+      "rmanEa": 0.03,
+      "rmanEp": 0.0146,
+      "dew": 0.01,
+      "fabsE": 0.15,
+      "kv": 8.6E-5,
+      "KNmaxn": 0.086,
+      "Kc": 17.5,
+      "Kn": 82.5,
+      "KNmaxd": 0.217,
+      "K1p": 0.0016666666666666668,
+      "K2p": 7.4074074074074073E-5,
+      "K3p": 3.3333333333333334E-8,
+      "K4p": 2.2831050228310502E-7,
+      "Kdk": 0.5,
+      "Kak": 0.5,
+      "K1k": 0.0016666666666666668,
+      "K2k": 7.4074074074074073E-5,
+      "K3k": 2.8571428571428573E-6,
+      "aNH4": 0.05,
+      "aNO3": 1,
+      "aP": 0.005,
+      "aK": 1,
+      "aDOC": 0.04,
+      "aDON": 1,
+      "aDOP": 1,
+      "g_r": 1.8832360778723416,
+      "g_em": 0.00039528470752104737,
+      "g_am": 0.00039528470752104737,
+      "vr": 2.3E-7,
+      "vem": 2.3E-7,
+      "vam": 2.3E-7
+    },
+    "DepK": 6.821917808219178E-5,
+    "DepN": 0.0010684931506849315,
+    "DepP": 1.36762196E-6,
+    "ExEM": 0,
+    "FertK": 0,
+    "FertN": 0,
+    "FertP": 0,
+    "IMAN": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "ISOIL": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "K_Uptake": 0.0015096003324501699,
+    "LEAK_DOC": 0,
+    "LEAK_DON": 0,
+    "LEAK_DOP": 0,
+    "LEAK_K": 0,
+    "LEAK_NH4": 0,
+    "LEAK_NO3": 0,
+    "LEAK_P": 0,
+    "NH4_Uptake": 0.0066701923073436767,
+    "NO3_Uptake": 0.0014093128403770481,
+    "PH": 5,
+    "P_Uptake": 0.000990595638912776,
+    "Pcla": 0.13,
+    "Psan": 0.3,
+    "Psi_s": -0.021740206566877213,
+    "SC_par": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "Se": 0.7428055239713004,
+    "Se_fc": 0.60544618956242,
+    "Ta": 11.735,
+    "Ts": 22,
+    "Tup_K": 0.0014383561643835617,
+    "Tup_P": 3.4246575342465758E-5,
+    "ZBIOG": 0.25,
+    "id_location": "VAIRA",
+    "opt_cons_CUE": 1,
+    "rsd": 1507.8372157518461,
+    "t": []
+  },
+  "opt_cons_CUE": 1,
+  "rsd": 1507.8372157518461,
+  "t": [],
+  "w": [
+    {
+      "name": "B",
+      "size": [
+        1,
+        55
+      ],
+      "bytes": 440,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "BfixN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "BiogeoPar",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 16760,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DepK",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DepN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "DepP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 4,
+      "class": "single",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ExEM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FertK",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FertN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "FertP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "IMAN",
+      "size": [
+        1,
+        6
+      ],
+      "bytes": 48,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ISOIL",
+      "size": [
+        18,
+        1
+      ],
+      "bytes": 144,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "K_Uptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_DOC",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_DON",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_DOP",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_K",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_NH4",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_NO3",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LEAK_P",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Min_N",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Min_P",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "N2flx",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NH4_Uptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "NO3_Uptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "PH",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "P_Uptake",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Pcla",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Prod_B",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Prod_F",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psan",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Psi_s",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "R_bacteria",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "R_ew",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "R_litter",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "R_litter_sur",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "R_microbe",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RmycAM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "RmycEM",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "SC_par",
+      "size": [
+        1,
+        4
+      ],
+      "bytes": 32,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Se",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Se_fc",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ta",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Ts",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tup_K",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tup_P",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "VOL",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "ZBIOG",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "dB",
+      "size": [
+        1,
+        55
+      ],
+      "bytes": 440,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 22911,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "opt_cons_CUE",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "rsd",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "t",
+      "size": [
+        0,
+        0
+      ],
+      "bytes": 0,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        39,
+        1
+      ],
+      "bytes": 57551,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "BIOGEOCHEMISTRY_DYNAMIC3",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}

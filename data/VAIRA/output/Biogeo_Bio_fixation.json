@@ -1,0 +1,310 @@
+{
+  "AAET": 0,
+  "B": [
+    18.738689214415,
+    44.127952982739,
+    7.0166381958359993,
+    0,
+    0,
+    10.407506624887999,
+    18.158300094498,
+    2.017588899389,
+    320.86422448804205,
+    502.24010396809905,
+    3154.334634423928,
+    20.916875055187,
+    16.733500026559,
+    0.04627608844,
+    0.030250322339,
+    0.019281703517,
+    0.050417203898,
+    5.961865968202,
+    21.57985658598,
+    13.203922195482999,
+    0,
+    1.0761232304519999,
+    0.847301920875,
+    0,
+    0.466365826714,
+    379.383626928682,
+    1.1539291180470002,
+    3.330024637386,
+    0.732507609934,
+    0,
+    0.237208488136,
+    0.050118640178999994,
+    0.0040097958110000007,
+    0.177612323046,
+    0.060521565777000005,
+    0,
+    0.033311844764999994,
+    59.300849451603,
+    0.372280761494,
+    0.54094709222800008,
+    0.10987614149000001,
+    0,
+    0.035228023876,
+    150,
+    0.769945255761,
+    15.01113737968,
+    3.4570402E-5,
+    0.42365096043699996,
+    0,
+    0.054228584502,
+    6.503591793605,
+    0.053685110721000004,
+    0.047554645108999996,
+    1.069978176652,
+    503.354294577452
+  ],
+  "BfixN": 0,
+  "LAI": 0.4,
+  "REXMY": [
+    0.034399972309580085,
+    0.083172885699279719,
+    0
+  ],
+  "Tdp": 22,
+  "a": 7,
+  "id_location": "VAIRA",
+  "inputs": {
+    "AAET": 0,
+    "B": [
+      18.738689214415,
+      44.127952982739,
+      7.0166381958359993,
+      0,
+      0,
+      10.407506624887999,
+      18.158300094498,
+      2.017588899389,
+      320.86422448804205,
+      502.24010396809905,
+      3154.334634423928,
+      20.916875055187,
+      16.733500026559,
+      0.04627608844,
+      0.030250322339,
+      0.019281703517,
+      0.050417203898,
+      5.961865968202,
+      21.57985658598,
+      13.203922195482999,
+      0,
+      1.0761232304519999,
+      0.847301920875,
+      0,
+      0.466365826714,
+      379.383626928682,
+      1.1539291180470002,
+      3.330024637386,
+      0.732507609934,
+      0,
+      0.237208488136,
+      0.050118640178999994,
+      0.0040097958110000007,
+      0.177612323046,
+      0.060521565777000005,
+      0,
+      0.033311844764999994,
+      59.300849451603,
+      0.372280761494,
+      0.54094709222800008,
+      0.10987614149000001,
+      0,
+      0.035228023876,
+      150,
+      0.769945255761,
+      15.01113737968,
+      3.4570402E-5,
+      0.42365096043699996,
+      0,
+      0.054228584502,
+      6.503591793605,
+      0.053685110721000004,
+      0.047554645108999996,
+      1.069978176652,
+      503.354294577452
+    ],
+    "LAI": 0.4,
+    "REXMY": [
+      0.034399972309580085,
+      0.083172885699279719,
+      0
+    ],
+    "Tdp": 22,
+    "id_location": "VAIRA"
+  },
+  "w": [
+    {
+      "name": "AAET",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "B",
+      "size": [
+        1,
+        55
+      ],
+      "bytes": 440,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "BfixN",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "LAI",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "REXMY",
+      "size": [
+        1,
+        3
+      ],
+      "bytes": 24,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "Tdp",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "a",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 8,
+      "class": "double",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "id_location",
+      "size": [
+        1,
+        5
+      ],
+      "bytes": 10,
+      "class": "char",
+      "global": true,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "inputs",
+      "size": [
+        1,
+        1
+      ],
+      "bytes": 1309,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    },
+    {
+      "name": "w",
+      "size": [
+        6,
+        1
+      ],
+      "bytes": 8898,
+      "class": "struct",
+      "global": false,
+      "sparse": false,
+      "complex": false,
+      "nesting": {
+        "function": "Biogeo_Bio_fixation",
+        "level": 1
+      },
+      "persistent": false
+    }
+  ]
+}
