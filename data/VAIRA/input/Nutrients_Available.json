@@ -10,10 +10,10 @@
     0
   ],
   "FNCtm1": 1,
-  "Kreserve": 5.88,
-  "Nreserve": 4.07,
-  "OPT_SoilBiogeochemistry": 1,
-  "Preserve": 0.05,
+  "Kreserve": 100,
+  "Nreserve": 1000,
+  "OPT_SoilBiogeochemistry": 0,
+  "Preserve": 100,
   "St": {
     "Nl": 25,
     "Ns": 172.41379310344828,

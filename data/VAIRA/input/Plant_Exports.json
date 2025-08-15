@@ -19,7 +19,7 @@
     0,
     0
   ],
-  "Kreserve": 5.8791357275569043,
+  "Kreserve": 100.00063310888243,
   "ManI": 0,
   "Mpar": {
     "jDay_cut": null,
@@ -46,14 +46,14 @@
     "fract_left_AB": 0,
     "fract_left_BG": 1
   },
-  "Nreserve": 4.0820036170145562,
+  "Nreserve": 1000.0039241118668,
   "NuLITtm1": [
     0,
     0,
     0
   ],
-  "OPT_SB": 1,
-  "Preserve": 0.051270889343686739,
+  "OPT_SB": 0,
+  "Preserve": 100.00028029370478,
   "RB": [
     0,
     0,
@@ -100,7 +100,7 @@
   "fab": 0,
   "fbe": 1,
   "id_location": "VAIRA",
-  "rKc": 4.0189274447949526,
+  "rKc": 1,
   "rNc": 1,
   "rPc": 1
 }

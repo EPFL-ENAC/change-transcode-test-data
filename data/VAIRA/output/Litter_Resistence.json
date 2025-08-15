@@ -1,5 +1,5 @@
 {
-  "BLit": 0.13930196815764687,
+  "BLit": 0,
   "In_Litter": 0,
   "Pre": 996.1,
   "Sllit": 2,
@@ -10,7 +10,7 @@
   "disp_h": 0.013056938917743632,
   "id_location": "VAIRA",
   "inputs": {
-    "BLit": 0.13930196815764687,
+    "BLit": 0,
     "In_Litter": 0,
     "Pre": 996.1,
     "Sllit": 2,
@@ -21,7 +21,7 @@
     "zatm": 2,
     "zom": 0.003
   },
-  "r_litter": 166.66334223660337,
+  "r_litter": 0,
   "w": [
     {
       "name": "BLit",

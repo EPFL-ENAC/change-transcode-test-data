@@ -2,8 +2,8 @@
   "AgeDLtm1": 0,
   "AgeLtm1": 30,
   "An": 0,
-  "Bam": 13.161747937773228,
-  "Bem": -1.2040345735916496E-12,
+  "Bam": "NaN",
+  "Bem": "NaN",
   "Bfac_weekI": 1,
   "Btm1": [
     18,
@@ -23,8 +23,8 @@
   ],
   "EM": 0,
   "FNCtm1": 1,
-  "Kreservetm1": 5.88,
-  "Kuptake": 0.0015096003324501699,
+  "Kreservetm1": 100,
+  "Kuptake": 0,
   "L_day": 11.542666707492632,
   "Lmax_day": 11.542666707492632,
   "Mpar": {
@@ -57,19 +57,19 @@
   "NPPI": 0,
   "NPPtm1": 0,
   "NavlI": [
-    0.36869217772116358,
-    0.021549402080550558,
-    0.16274325421692845
+    0,
+    0,
+    0
   ],
-  "Nreservetm1": 4.07,
+  "Nreservetm1": 1000,
   "NupI": [
-    0.050622818855329,
-    0.003112271545765,
-    0.018798279749436
+    0,
+    0,
+    0
   ],
-  "Nuptake": 0.0080795051477207253,
+  "Nuptake": 0,
   "OPT_EnvLimitGrowth": 0,
-  "OPT_SoilBiogeochemistry": 1,
+  "OPT_SoilBiogeochemistry": 0,
   "OPT_VCA": 0,
   "OPT_VD": {
     "AbsTol": 0.05,
@@ -120,10 +120,10 @@
     "kk2": 1.4,
     "kk3": 0.8
   },
-  "Preservetm1": 0.05,
+  "Preservetm1": 100,
   "Psi_l": 0,
   "Psi_x": 0,
-  "Puptake": 0.000990595638912776,
+  "Puptake": 0,
   "Rdark": 0,
   "Se_bio": 0.7428055239713004,
   "TBio": 0,
