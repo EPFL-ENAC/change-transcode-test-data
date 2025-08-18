@@ -26,7 +26,7 @@ index2 = find(Date >= dateNum2, 1, 'first');
 x1=index1;
 x2= index2;
 %NN=x2-x1+1;% %%% time Step 
-NN = 50; 
+NN = 150; 
 %%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%5

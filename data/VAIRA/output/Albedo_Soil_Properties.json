@@ -1,12 +1,12 @@
 {
   "Color_Class": 0,
-  "OS": 0.3269,
+  "OS": 0.28964137509366333,
   "a": 3,
   "e_gr": 0.96,
   "id_location": "VAIRA",
   "inputs": {
     "Color_Class": 0,
-    "OS": 0.3269,
+    "OS": 0.28964137509366333,
     "id_location": "VAIRA"
   },
   "soil_alb": {
