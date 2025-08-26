@@ -1,22 +1,24 @@
-.PHONY: build clean_code clean_data clean generate_data
+.PHONY: build clean_code clean_data clean generate_zurich_data generate_vaira_data generate_data
 
 build:
 	matlab -nodisplay -batch "setup"
-	cp TeC_Source_Code/MOD_PARAM_ZURICH_SMA.m .
+	cp TeC/MOD_PARAM_ZURICH_SMA.m .
 
-generate_data:
+generate_zurich_data:
 	matlab -nodisplay -batch "generate_zurich_data"
+
+generate_vaira_data:
+	matlab -nodisplay -batch "generate_VAIRA_data"
+
+generate_data: generate_zurich_data generate_vaira_data
 
 clean_code:
 	# Backup excluded functions while preserving package structure
 	mkdir -p wrapped_backup
+	mkdir -p wrapped_backup/+tc
 	while read -r func; do \
-		find wrapped -name "$${func}.m" -exec bash -c ' \
-			pkg_path=$$(dirname "{}"); \
-			rel_path=$${pkg_path#wrapped/}; \
-			mkdir -p wrapped_backup/$$rel_path; \
-			cp "{}" wrapped_backup/$$rel_path/ \
-		' \; ; \
+    echo "Looking for: $${func}.m"; \
+		find wrapped/+tc -name "$${func}.m" -exec bash -c 'echo "Found: {}"; cp "{}" wrapped_backup/+tc' \; ; \
 	done < excluded_functions.txt
 	rm -rf wrapped
 	# Restore excluded functions with package structure
