@@ -1,3 +1,7 @@
+addpath('utils')
+addpath(fullfile('TeC', 'T&C_Code'))
+addpath(genpath('wrapped'))
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% WORKING LAUNCH PAD HBM  %%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -17,7 +21,7 @@ cc = 1; %% Crown area
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 global id_location;
 id_location = 'VAIRA'; 
-load('Data_US-Var_run.mat')
+load(fullfile('data', 'Data_US-Var_run.mat'))
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 dateNum1 = datenum(2011, 10, 1, 0, 0, 0);
 dateNum2 = datenum(2017, 9, 30, 23, 0, 0);
@@ -60,21 +64,22 @@ Datam(:,1) = YE; Datam(:,2)= MO; Datam(:,3)= DA; Datam(:,4)= HO;
 clear YE MO DA HO MI SE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % PARAM_IC = strcat(current_directory,'\MOD_PARAM_',id_location);
-PARAM_IC = strcat(current_directory,'/MOD_PARAM_',id_location);
+PARAM_IC = fullfile(current_directory,strcat('MOD_PARAM_',id_location));
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Directory = uigetdir('Window','Insert Directory Noname Package') ;
 % Directory='C:\Users\tlian\Desktop\T&C\Paper5_sim\1D_water_balance_sim\T_C_Code';
 Directory='wrapped';
 cd(Directory)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+OPT_BG=1;
 MAIN_FRAME;
 cd(current_directory);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-if ~isfolder('results')
-    mkdir('results');
-end
-file_to_save = strcat([pwd filesep 'results' filesep id_location,'.mat']);
-save(file_to_save, '-v7.3');
+% if ~isfolder('results')
+%     mkdir('results');
+% end
+% file_to_save = strcat([pwd filesep 'results' filesep id_location,'.mat']);
+% save(file_to_save, '-v7.3');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%
 cd(current_directory);
