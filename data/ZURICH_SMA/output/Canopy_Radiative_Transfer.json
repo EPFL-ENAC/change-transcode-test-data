@@ -1,19 +1,19 @@
 {
   "Idn": {
-    "dir_vis": 0.0070816535414360447,
-    "dif_vis": 0.035928125924776316,
-    "dir_nir": 0.060334632409514415,
-    "dif_nir": 0.12525849364522593
+    "dir_vis": 0.0062768382316034429,
+    "dif_vis": 0.035967742813472522,
+    "dir_nir": 0.054183312984649706,
+    "dif_nir": 0.12532126192660906
   },
   "Iup": {
-    "dir_vis": 0.12642451180347869,
-    "dif_vis": 0.090744390116366619,
-    "dir_nir": 0.41885457447842794,
-    "dif_nir": 0.32247461276026684
+    "dir_vis": 0.1393863003024349,
+    "dif_vis": 0.090924582890421934,
+    "dir_nir": 0.44502639016189627,
+    "dif_nir": 0.32262234847279675
   },
-  "Kopt": 5.1620496003490759,
-  "LAI": 2.127304181368729,
-  "LAId": 2.1076958186312713,
+  "Kopt": 10.656728733104314,
+  "LAI": 2.1195706832490395,
+  "LAId": 2.115429316736126,
   "PFT_opt": {
     "chiL": -0.3,
     "alf_lf_vis": 0.11,
@@ -32,11 +32,11 @@
   "SAI": 0.001,
   "a": 8,
   "dw_SNO": 0,
-  "h_S": 0.12159189705959428,
+  "h_S": 0.060396643328572482,
   "id_location": "ZURICH_SMA",
   "inputs": {
-    "LAI": 2.127304181368729,
-    "LAId": 2.1076958186312713,
+    "LAI": 2.1195706832490395,
+    "LAId": 2.115429316736126,
     "PFT_opt": {
       "chiL": -0.3,
       "alf_lf_vis": 0.11,
@@ -54,7 +54,7 @@
     },
     "SAI": 0.001,
     "dw_SNO": 0,
-    "h_S": 0.12159189705959428,
+    "h_S": 0.060396643328572482,
     "id_location": "ZURICH_SMA",
     "soil_alb": {
       "dir_vis": 0.11,
@@ -63,268 +63,11 @@
       "dif_nir": 0.225
     }
   },
-  "om_vis_vg": 0.29440695727819716,
+  "om_vis_vg": 0.29489988562812919,
   "soil_alb": {
     "dir_vis": 0.11,
     "dif_vis": 0.11,
     "dir_nir": 0.225,
     "dif_nir": 0.225
-  },
-  "w": [
-    {
-      "name": "Idn",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 588,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Iup",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 588,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kopt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAI",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAId",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PFT_opt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 1908,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAI",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dw_SNO",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "h_S",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3641,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "om_vis_vg",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "soil_alb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 588,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        8,
-        1
-      ],
-      "bytes": 11932,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Canopy_Radiative_Transfer",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  }
 }

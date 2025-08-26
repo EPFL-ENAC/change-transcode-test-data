@@ -54,24 +54,24 @@
     0.12853006950346382,
     0.12853006950346382
   ],
-  "Lk": 0.19999999999999984,
+  "Lk": 0.19160859111149839,
   "O": [
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049
+    0.36075322508645308,
+    0.36124571483641366,
+    0.36210295682600124,
+    0.36310347893937478,
+    0.36309182468551593,
+    0.3620534001599508,
+    0.35917272941214767,
+    0.35654181090521608,
+    0.35642761251552596,
+    0.35740275032728552,
+    0.35854124285282757,
+    0.35956654029338542,
+    0.36042123217036748,
+    0.36110236661611939,
+    0.36252796262859321,
+    0.36295285961149043
   ],
   "Ohy": [
     0.1348211047911452,
@@ -223,22 +223,22 @@
       0.12853006950346382
     ],
     "O": [
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049
+      0.36075322508645308,
+      0.36124571483641366,
+      0.36210295682600124,
+      0.36310347893937478,
+      0.36309182468551593,
+      0.3620534001599508,
+      0.35917272941214767,
+      0.35654181090521608,
+      0.35642761251552596,
+      0.35740275032728552,
+      0.35854124285282757,
+      0.35956654029338542,
+      0.36042123217036748,
+      0.36110236661611939,
+      0.36252796262859321,
+      0.36295285961149043
     ],
     "Ohy": [
       0.1348211047911452,
@@ -478,364 +478,5 @@
     3,
     3,
     3
-  ],
-  "w": [
-    {
-      "name": "Kbot",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ks_Zs",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ks_mac",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "L",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lk",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ohy",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Omac",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Osat",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SPAR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alpVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alpVGM",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3970,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lVGM",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ms",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "nVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "nVGM",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        17,
-        1
-      ],
-      "bytes": 24775,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Leakage_Bottom",
-        "level": 1
-      },
-      "persistent": false
-    }
   ]
 }
