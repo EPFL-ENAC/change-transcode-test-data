@@ -1,5 +1,5 @@
 {
-  "G0": -74.322313318135528,
+  "G0": -74.632205402017277,
   "L": [
     0.27384270864743376,
     0.27384270864743376,
@@ -15,18 +15,18 @@
     0.27384270864743376
   ],
   "O": [
-    0.28964137509366333,
-    0.29027816936899181,
-    0.291512290382264,
-    0.2937636561369405,
-    0.29618229946647717,
-    0.29827020859724379,
-    0.301010516531696,
-    0.30368588044245581,
-    0.30561367462535355,
-    0.30693367819269779,
-    0.30824623056110118,
-    0.3087017055184812
+    0.29000550774679423,
+    0.29063926527006562,
+    0.29186786867843623,
+    0.2941102906182112,
+    0.29652145730558865,
+    0.29860523638332714,
+    0.30134362166113615,
+    0.30402586718968061,
+    0.30596833002376678,
+    0.30730963822871238,
+    0.30866323470253942,
+    0.30916830160242376
   ],
   "O33": [
     0.26031765664458639,
@@ -55,7 +55,6 @@
     "MassSingular": [],
     "MaxOrder": [],
     "MaxStep": [],
-    "MinStep": [],
     "NonNegative": [],
     "NormControl": [],
     "OutputFcn": [],
@@ -125,18 +124,18 @@
     0.43100482424458642
   ],
   "Otm1": [
-    0.28964137509366333,
-    0.29027816936899181,
-    0.291512290382264,
-    0.2937636561369405,
-    0.29618229946647717,
-    0.29827020859724379,
-    0.301010516531696,
-    0.30368588044245581,
-    0.30561367462535355,
-    0.30693367819269779,
-    0.30824623056110118,
-    0.3087017055184812
+    0.29000550774679423,
+    0.29063926527006562,
+    0.29186786867843623,
+    0.2941102906182112,
+    0.29652145730558865,
+    0.29860523638332714,
+    0.30134362166113615,
+    0.30402586718968061,
+    0.30596833002376678,
+    0.30730963822871238,
+    0.30866323470253942,
+    0.30916830160242376
   ],
   "Pe": [
     6.9714874207033422,
@@ -156,34 +155,34 @@
   "Pre": 1006.5350000000001,
   "SPAR": 2,
   "T": [
-    7.0844293744384075,
-    7.565501036544501,
-    8.5193336371092663,
-    10.32377554692485,
-    12.242743999086175,
-    13.806151086351608,
-    15.666225824230219,
-    17.169882492088583,
-    18.107998213366251,
-    18.755469954621997,
-    19.479647674520081,
-    19.971222178096824
+    7.17447625441603,
+    7.6566680316576576,
+    8.61276885500812,
+    10.421422050065882,
+    12.344338807828612,
+    13.910475370292444,
+    15.77352548115627,
+    17.281207486851027,
+    18.224719534674147,
+    18.8778048292464,
+    19.608608168616687,
+    20.101819945503362
   ],
   "Ttm1": [
-    7.375384543492407,
-    7.8628533920015391,
-    8.82914822391923,
-    10.650365255186895,
-    12.562845051279588,
-    14.095552007172099,
-    15.887125238600504,
-    17.294971345719095,
-    18.170693932725634,
-    18.790838700525867,
-    19.507008584176496,
-    20.000244249552122
+    7.4674405333467426,
+    7.9560427626384946,
+    8.9246433583278382,
+    10.750024328842493,
+    12.666036475507392,
+    14.200878164467117,
+    15.994534023512475,
+    17.406000931129469,
+    18.287395224256663,
+    18.913496065632597,
+    19.636429673572675,
+    20.130960751183363
   ],
-  "Tup": 6.84172844813999,
+  "Tup": 6.931198256209977,
   "Zs": [
     0,
     10,
@@ -301,7 +300,6 @@
       "MassSingular": [],
       "MaxOrder": [],
       "MaxStep": [],
-      "MinStep": [],
       "NonNegative": [],
       "NormControl": [],
       "OutputFcn": [],
@@ -357,18 +355,18 @@
       0.43100482424458642
     ],
     "Otm1": [
-      0.28964137509366333,
-      0.29027816936899181,
-      0.291512290382264,
-      0.2937636561369405,
-      0.29618229946647717,
-      0.29827020859724379,
-      0.301010516531696,
-      0.30368588044245581,
-      0.30561367462535355,
-      0.30693367819269779,
-      0.30824623056110118,
-      0.3087017055184812
+      0.29000550774679423,
+      0.29063926527006562,
+      0.29186786867843623,
+      0.2941102906182112,
+      0.29652145730558865,
+      0.29860523638332714,
+      0.30134362166113615,
+      0.30402586718968061,
+      0.30596833002376678,
+      0.30730963822871238,
+      0.30866323470253942,
+      0.30916830160242376
     ],
     "Pe": [
       6.9714874207033422,
@@ -388,20 +386,20 @@
     "Pre": 1006.5350000000001,
     "SPAR": 2,
     "Ttm1": [
-      7.375384543492407,
-      7.8628533920015391,
-      8.82914822391923,
-      10.650365255186895,
-      12.562845051279588,
-      14.095552007172099,
-      15.887125238600504,
-      17.294971345719095,
-      18.170693932725634,
-      18.790838700525867,
-      19.507008584176496,
-      20.000244249552122
+      7.4674405333467426,
+      7.9560427626384946,
+      8.9246433583278382,
+      10.750024328842493,
+      12.666036475507392,
+      14.200878164467117,
+      15.994534023512475,
+      17.406000931129469,
+      18.287395224256663,
+      18.913496065632597,
+      19.636429673572675,
+      20.130960751183363
     ],
-    "Tup": 6.84172844813999,
+    "Tup": 6.931198256209977,
     "Zs": [
       0,
       10,
@@ -617,585 +615,5 @@
     0,
     0,
     0
-  ],
-  "w": [
-    {
-      "name": "G0",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "L",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O33",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_FR_SOIL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_ST",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3161,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ohy",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oice",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oicetm1",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Osat",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Otm1",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pe",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Phy",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pre",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SPAR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "T",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ttm1",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tup",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zs",
-      "size": [
-        1,
-        13
-      ],
-      "bytes": 104,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alpVG",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "bVG",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "cv_s",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dz",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        5
-      ],
-      "bytes": 10,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8685,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_dry",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_s",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ms",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "nVG",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rsd",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "s_SVG",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        28,
-        1
-      ],
-      "bytes": 41106,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Soil_Heat_Profile_New",
-        "level": 1
-      },
-      "persistent": false
-    }
   ]
 }

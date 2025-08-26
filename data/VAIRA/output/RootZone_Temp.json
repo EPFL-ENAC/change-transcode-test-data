@@ -28,21 +28,21 @@
     0
   ],
   "Tdp": [
-    7.0844293744384075,
-    7.565501036544501,
-    8.5193336371092663,
-    10.32377554692485,
-    12.242743999086175,
-    13.806151086351608,
-    15.666225824230219,
-    17.169882492088583,
-    18.107998213366251,
-    18.755469954621997,
-    19.479647674520081,
-    19.971222178096824
+    7.17447625441603,
+    7.6566680316576576,
+    8.61276885500812,
+    10.421422050065882,
+    12.344338807828612,
+    13.910475370292444,
+    15.77352548115627,
+    17.281207486851027,
+    18.224719534674147,
+    18.8778048292464,
+    19.608608168616687,
+    20.101819945503362
   ],
-  "Tdp_H": 7.0844293744384075,
-  "Tdp_L": 10.441647065137055,
+  "Tdp_H": 7.17447625441603,
+  "Tdp_L": 10.539093713965977,
   "a": 6,
   "id_location": "VAIRA",
   "inputs": {
@@ -75,174 +75,19 @@
       0
     ],
     "Tdp": [
-      7.0844293744384075,
-      7.565501036544501,
-      8.5193336371092663,
-      10.32377554692485,
-      12.242743999086175,
-      13.806151086351608,
-      15.666225824230219,
-      17.169882492088583,
-      18.107998213366251,
-      18.755469954621997,
-      19.479647674520081,
-      19.971222178096824
+      7.17447625441603,
+      7.6566680316576576,
+      8.61276885500812,
+      10.421422050065882,
+      12.344338807828612,
+      13.910475370292444,
+      15.77352548115627,
+      17.281207486851027,
+      18.224719534674147,
+      18.8778048292464,
+      19.608608168616687,
+      20.101819945503362
     ],
     "id_location": "VAIRA"
-  },
-  "w": [
-    {
-      "name": "RfH_Zs",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RfL_Zs",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp",
-      "size": [
-        1,
-        12
-      ],
-      "bytes": 96,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        5
-      ],
-      "bytes": 10,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 852,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        4,
-        1
-      ],
-      "bytes": 5946,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "RootZone_Temp",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  }
 }
