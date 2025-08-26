@@ -1,3 +1,7 @@
+addpath('utils')
+addpath(fullfile('TeC', 'T&C_Code'))
+addpath(genpath('wrapped'))
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% WORKING LAUNCH PAD HBM  %%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -17,7 +21,7 @@ cc = 1; %% Crown area
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 global id_location;
 id_location = 'ZURICH_SMA';
-load('TeC\Inputs\Data_Run_Zurich_Fluntern.mat')
+load(fullfile('TeC', 'Inputs', 'Data_Run_Zurich_Fluntern.mat'))
 Date=D; clear D 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%
@@ -39,7 +43,7 @@ t_bef= -0.67; t_aft= 1.67;
 Ds=esat-ea; %% [Pa] Vapor Pressure Deficit
 Ds(Ds<0)=0;
 %%%%%%%%%%%%%%%%%%%%%%%%%
-load('TeC\Inputs\Ca_Data.mat');
+load(fullfile('TeC', 'Inputs', 'Ca_Data.mat'));
 d1 = find(abs(Date_CO2-Date(1))<1/36);d2 = find(abs(Date_CO2-Date(end))<1/36);
 Ca=Ca(d1:d2); 
 clear d1 d2 Date_CO2 
@@ -52,8 +56,7 @@ Date = Date(1:NN); % resized Date so the size matches the ammount of time simula
 Datam(:,1) = YE; Datam(:,2)= MO; Datam(:,3)= DA; Datam(:,4)= HO;
 clear YE MO DA HO MI SE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-PARAM_IC = strcat(current_directory,'\MOD_PARAM_',id_location);
-%PARAM_IC = strcat(current_directory,'/MOD_PARAM_',id_location);
+PARAM_IC = fullfile(current_directory,strcat('MOD_PARAM_',id_location));
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Directory = uigetdir('Window','Insert Directory Noname Package') ;
 Directory='wrapped';
