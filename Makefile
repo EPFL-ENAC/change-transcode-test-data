@@ -15,10 +15,9 @@ generate_data: generate_zurich_data generate_vaira_data
 clean_code:
 	# Backup excluded functions while preserving package structure
 	mkdir -p wrapped_backup
-	mkdir -p wrapped_backup/+tc
 	while read -r func; do \
     echo "Looking for: $${func}.m"; \
-		find wrapped/+tc -name "$${func}.m" -exec bash -c 'echo "Found: {}"; cp "{}" wrapped_backup/+tc' \; ; \
+		find wrapped -name "$${func}.m" -exec bash -c 'echo "Found: {}"; cp "{}" wrapped_backup' \; ; \
 	done < excluded_functions.txt
 	rm -rf wrapped
 	# Restore excluded functions with package structure
