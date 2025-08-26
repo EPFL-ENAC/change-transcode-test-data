@@ -4,6 +4,7 @@ This repository contains test data for the translation of the UrbanTethysChloris
 ## Requirements
 - `MATLAB` installed and in the system path
 - `make` command available in the terminal
+- `Data_US-Var_run.mat` file available in the `data` directory
 
 ## Usage
 
