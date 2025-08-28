@@ -1,21 +1,21 @@
 {
   "O": [
-    0.35998639934772697,
-    0.36052018494967053,
-    0.36146178559289044,
-    0.3627601560732665,
-    0.3634431103373118,
-    0.36368103796488876,
-    0.36377607313608873,
-    0.36379038270304276,
-    0.3637918556891605,
-    0.36379199626830716,
-    0.36379200889264457,
-    0.36379200997398525,
-    0.3637920100633143,
-    0.36379201007047196,
-    0.36379201007109685,
-    0.36379201007110473
+    0.35883598027725039,
+    0.35934336956673,
+    0.36024893646115186,
+    0.36145462094696085,
+    0.36187189010916276,
+    0.36141177204393782,
+    0.35963482023450938,
+    0.35725173834159391,
+    0.35670840632381628,
+    0.35740931717832491,
+    0.358452761098479,
+    0.35945613169353596,
+    0.36031254652135003,
+    0.36100279848682837,
+    0.36245997730546453,
+    0.36289768664470362
   ],
   "Ohy": [
     0.1348211047911452,
@@ -73,22 +73,22 @@
   ],
   "Rd": -0,
   "V": [
-    2.2516529455658176,
-    2.2569908015852529,
-    6.7992204240523577,
-    11.396952564106066,
-    11.431100277308332,
-    11.442996658687179,
-    22.895496834494349,
-    22.896927791189757,
-    22.897075089801529,
-    22.897089147716194,
-    22.897090410149936,
-    22.897090518284006,
-    22.897090527216907,
-    22.897090527932676,
-    80.13981684798307,
-    34.345635791993928
+    2.2401487548610515,
+    2.2452226477558481,
+    6.7628349501002,
+    11.331675807790782,
+    11.352539265900877,
+    11.32953336263963,
+    22.481371544336419,
+    22.243063355044871,
+    22.188730153267112,
+    22.258821238717971,
+    22.363165630733384,
+    22.463502690239078,
+    22.549144173020487,
+    22.618169369568317,
+    79.673605380011779,
+    34.211487278033765
   ],
   "a": 7,
   "dz": [
@@ -166,22 +166,22 @@
       0.45504636790367492
     ],
     "V": [
-      2.2516529455658176,
-      2.2569908015852529,
-      6.7992204240523577,
-      11.396952564106066,
-      11.431100277308332,
-      11.442996658687179,
-      22.895496834494349,
-      22.896927791189757,
-      22.897075089801529,
-      22.897089147716194,
-      22.897090410149936,
-      22.897090518284006,
-      22.897090527216907,
-      22.897090527932676,
-      80.13981684798307,
-      34.345635791993928
+      2.2401487548610515,
+      2.2452226477558481,
+      6.7628349501002,
+      11.331675807790782,
+      11.352539265900877,
+      11.32953336263963,
+      22.481371544336419,
+      22.243063355044871,
+      22.188730153267112,
+      22.258821238717971,
+      22.363165630733384,
+      22.463502690239078,
+      22.549144173020487,
+      22.618169369568317,
+      79.673605380011779,
+      34.211487278033765
     ],
     "dz": [
       10,
@@ -202,194 +202,5 @@
       150
     ],
     "id_location": "ZURICH_SMA"
-  },
-  "w": [
-    {
-      "name": "O",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ohy",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oice",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Osat",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rd",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "V",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dz",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 1469,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        6,
-        1
-      ],
-      "bytes": 8930,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Cryosuction_stabilizer",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  }
 }

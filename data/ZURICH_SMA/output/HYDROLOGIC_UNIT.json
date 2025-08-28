@@ -1,35 +1,35 @@
 {
   "An_H": 0,
-  "An_L": -0.45885284168762253,
+  "An_L": -0.6205285080201165,
   "Ared": 1,
   "Asur": 1,
   "BLit": 0,
-  "Ca": 338.43,
+  "Ca": 338.34,
   "Cbare": 0,
   "Ccrown": 1,
   "Ci_shdH": 0,
-  "Ci_shdL": 360.56387176013828,
+  "Ci_shdL": 368.09723619717244,
   "Ci_sunH": 0,
   "Ci_sunL": 0,
   "Cice": 0,
   "Cicew": 0,
   "Cicewtm1": 0,
-  "Citm1_shdH": 338.43,
-  "Citm1_shdL": 338.43,
-  "Citm1_sunH": 338.43,
-  "Citm1_sunL": 338.43,
+  "Citm1_shdH": 0,
+  "Citm1_shdL": 367.85502090113766,
+  "Citm1_sunH": 0,
+  "Citm1_sunL": 0,
   "Color_Class": 0,
   "Crock": 0,
   "Csno": 0,
   "Csnow": 0,
   "Curb": 0,
   "Cwat": 0,
-  "DQ": -2.6034729927459919E-17,
+  "DQ": 6.7397420977499679E-14,
   "DT": 0,
   "Datam": [
     1981,
     1,
-    1,
+    3,
     1
   ],
   "Deb_Par": {
@@ -42,8 +42,8 @@
   },
   "DeltaGMT": 1,
   "Dr_H": 0,
-  "Dr_L": 0,
-  "Ds": 105.27002406164496,
+  "Dr_L": 0.010441350081712798,
+  "Ds": 157.95844596632321,
   "Dz": [
     5,
     10,
@@ -62,10 +62,10 @@
     225,
     250
   ],
-  "EG": 0.013292029583969585,
+  "EG": 0.014276685768886608,
   "EICE": 0,
   "EIn_H": 0,
-  "EIn_L": 0,
+  "EIn_L": 0.061013036565873487,
   "EIn_rock": 0,
   "EIn_urb": 0,
   "EK": 0,
@@ -92,11 +92,11 @@
     0,
     0
   ],
-  "FROCK": 0.19999999999999984,
-  "FROCKtm1": 0,
-  "G": -78.429758428569883,
-  "Gfin": -29.792119137946276,
-  "H": 26.038562237509282,
+  "FROCK": 9.7082185053505263,
+  "FROCKtm1": 9.5166099142390284,
+  "G": 9.7229234383436953,
+  "Gfin": 6.0861250336038291,
+  "H": -70.1230052371041,
   "HV": 0,
   "ICE": 0,
   "ICE_D": 0,
@@ -107,10 +107,10 @@
   "Imelt": 0,
   "In_H": 0,
   "In_Htm1": 0,
-  "In_L": 0,
+  "In_L": 0.3629498744519995,
   "In_Litter": 0,
   "In_Littertm1": 0,
-  "In_Ltm1": 0,
+  "In_Ltm1": 0.4344042610995858,
   "In_SWE": 0,
   "In_SWEtm1": 0,
   "In_max_rock": 0.1,
@@ -146,7 +146,7 @@
   },
   "IrD": 0,
   "Jsx_H": 0,
-  "Jsx_L": 0.0037487322876885516,
+  "Jsx_L": 0.00074094873137204318,
   "Jxl_H": 0,
   "Jxl_L": 0,
   "K_usle": 3.3383484209880757E-5,
@@ -158,40 +158,40 @@
   "Kx_H": 0,
   "Kx_L": 0,
   "LAI_H": 0,
-  "LAI_L": 2.127304181368729,
+  "LAI_L": 2.1057007875449028,
   "LAIdead_H": 0,
-  "LAIdead_L": 2.1076958186312713,
+  "LAIdead_L": 2.1231886729030611,
   "Lat": 47.38,
-  "Lk": 0.19999999999999984,
+  "Lk": 0.19160859111149839,
   "Lk_rock": 0,
   "Lk_wat": 0,
   "Lon": 8.56,
-  "Lpho": 2.6034729927459919E-17,
-  "N": 0.72382533290296147,
+  "Lpho": 1.0413891970983968E-16,
+  "N": 0.99920124422253387,
   "NDVI": 0,
   "NIce": 0,
   "NIn_SWE": 0,
   "O": [
-    0.35998639934772697,
-    0.36052018494967053,
-    0.36146178559289044,
-    0.3627601560732665,
-    0.3634431103373118,
-    0.36368103796488876,
-    0.36377607313608873,
-    0.36379038270304276,
-    0.3637918556891605,
-    0.36379199626830716,
-    0.36379200889264457,
-    0.36379200997398525,
-    0.3637920100633143,
-    0.36379201007047196,
-    0.36379201007109685,
-    0.36379201007110473
+    0.35883598027725039,
+    0.35934336956673,
+    0.36024893646115186,
+    0.36145462094696085,
+    0.36187189010916276,
+    0.36141177204393782,
+    0.35963482023450938,
+    0.35725173834159391,
+    0.35670840632381628,
+    0.35740931717832491,
+    0.358452761098479,
+    0.35945613169353596,
+    0.36031254652135003,
+    0.36100279848682837,
+    0.36245997730546453,
+    0.36289768664470362
   ],
-  "OF": 0.35998639934772697,
-  "OH": 0.35998639934772697,
-  "OL": 0.36208733219376082,
+  "OF": 0.35883598027725039,
+  "OH": 0.35883598027725039,
+  "OL": 0.36060123055151555,
   "OM_H": 1,
   "OM_L": 1,
   "OPT_FR_SOIL": 1,
@@ -207,7 +207,6 @@
     "MassSingular": [],
     "MaxOrder": [],
     "MaxStep": [],
-    "MinStep": [],
     "NonNegative": [],
     "NormControl": [],
     "OutputFcn": [],
@@ -233,7 +232,6 @@
     "MassSingular": [],
     "MaxOrder": [],
     "MaxStep": 1,
-    "MinStep": [],
     "NonNegative": [],
     "NormControl": [],
     "OutputFcn": [],
@@ -258,7 +256,6 @@
     "MassSingular": [],
     "MaxOrder": [],
     "MaxStep": [],
-    "MinStep": [],
     "NonNegative": [],
     "NormControl": [],
     "OutputFcn": [],
@@ -274,7 +271,7 @@
   "OPT_SoilTemp": 1,
   "OPT_VegSnow": 1,
   "OPT_min_SPD": "Inf",
-  "OS": 0.35998639934772697,
+  "OS": 0.35883598027725039,
   "Oa": 210000,
   "Oice": [
     0,
@@ -516,39 +513,64 @@
     "tau_ld_nir": 0.25
   },
   "POT": [
-    -1932.5751970607575,
-    -1922.9025149885044,
-    -1905.8398523244457,
-    -1882.3121947350533,
-    -1869.9364404210617,
-    -1865.6249747513668,
-    -1863.9028507499843,
-    -1863.6435483423627,
-    -1863.6168564901245,
-    -1863.614309067739,
-    -1863.6140803032276,
-    -1863.614060708348,
-    -1863.6140590896248,
-    -1863.6140589599213,
-    -1863.6140589485972,
-    -1863.6140589484548
+    -1953.4218401287978,
+    -1944.2274833193731,
+    -1927.8177850566128,
+    -1905.9696822448941,
+    -1898.4083843570563,
+    -1906.7461434581187,
+    -1938.9461313329,
+    -1982.129749284346,
+    -1991.9754211205716,
+    -1979.2742770058417,
+    -1960.3661212535576,
+    -1942.18413071036,
+    -1926.6651127352661,
+    -1914.1571174137189,
+    -1887.7517078564586,
+    -1879.8200153134228
   ],
   "Pr": 0,
   "Pr_liq": 0,
   "Pr_sno": 0,
-  "Pr_sno_day": 0,
+  "Pr_sno_day": [
+    0,
+    0,
+    0.1,
+    0.1,
+    0.1,
+    0.3,
+    0.2,
+    0.2,
+    0.1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0.043607417669391468,
+    0.080758697890531972,
+    0.30744320586002444,
+    0.46189943494982072,
+    0.35520276733705497,
+    0,
+    0,
+    0
+  ],
   "Pre": 948.7232105699336,
   "Psi_l_H": 0,
-  "Psi_l_L": -0.018282067255310057,
+  "Psi_l_L": -0.018578601634853253,
   "Psi_ltm1_H": 0,
-  "Psi_ltm1_L": 0,
-  "Psi_s_H": -0.018958562683166032,
-  "Psi_s_L": -0.018585976983581536,
+  "Psi_ltm1_L": -0.018240147032123261,
+  "Psi_s_H": -0.019163068251663504,
+  "Psi_s_L": -0.018850151715678654,
   "Psi_x_H": 0,
-  "Psi_x_L": -0.018282067255310057,
+  "Psi_x_L": -0.018578601634853253,
   "Psi_xtm1_H": 0,
-  "Psi_xtm1_L": 0,
-  "QE": 11.850074329022105,
+  "Psi_xtm1_L": -0.018240147032123261,
+  "QE": 52.661983269510777,
   "QEV": 0,
   "Qfm": 0,
   "Qi_in": [
@@ -587,10 +609,10 @@
     0,
     0
   ],
-  "Qv": -0,
+  "Qv": 0,
   "Rd": -0,
   "Rdark_H": 0,
-  "Rdark_L": 0.45885284168762258,
+  "Rdark_L": 0.62052850802011672,
   "RfH_Zs": [
     1,
     0,
@@ -628,9 +650,9 @@
     0
   ],
   "Rh": 0,
-  "Rn": -40.541121862038494,
+  "Rn": -7.7380985292495552,
   "Rrootl_H": 0,
-  "Rrootl_L": 3569.3154259050252,
+  "Rrootl_L": 3553.141562792001,
   "SAB1": 0,
   "SAB2": 0,
   "SAD1": 0,
@@ -1066,34 +1088,59 @@
   },
   "SvF": 1,
   "T_H": 0,
-  "T_L": 0.0037487322876885516,
-  "Ta": -0.9,
-  "Ta_day": -0.2,
-  "Tdamp": 1.9434313889647781,
-  "Tdamptm1": 2,
+  "T_L": 0.00074094873137204318,
+  "Ta": 3.3,
+  "Ta_day": [
+    1.5,
+    1.4,
+    0.6,
+    0.2,
+    0.3,
+    0.1,
+    0,
+    0.1,
+    0.3,
+    0.6,
+    1.3,
+    1.4,
+    1.9,
+    2.1,
+    2.1,
+    2.2,
+    1.9,
+    1.8,
+    1.9,
+    1.8,
+    1.9,
+    2.3,
+    2.9,
+    3.2
+  ],
+  "Tdamp": 1.5688524002207229,
+  "Tdamptm1": 1.5516582234407843,
   "Tdeb": 0,
   "Tdebtm1": 0,
-  "Tdew": -3.6453782757258324,
+  "Tdew": 0.11458456515913421,
   "Tdp": [
-    0.672443088244086,
-    0.83110658595488285,
-    1.1512751198023068,
-    1.653743280703964,
-    1.9098084861858486,
-    1.9809079075931879,
-    1.9987017212075753,
-    1.9999455189542665,
-    1.9999980530819688,
-    1.999999938705243,
-    1.9999999982585821,
-    1.9999999999545501,
-    1.9999999999988944,
-    1.9999999999999745,
-    1.9999999999999936,
-    1.9999999999999993
+    1.9636376019782833,
+    1.9289786632334456,
+    1.8606216693442088,
+    1.7461030186727529,
+    1.675836207838415,
+    1.6656981485127853,
+    1.7047312211916559,
+    1.786702003429389,
+    1.858604766553378,
+    1.9127250962296287,
+    1.9494626085188984,
+    1.9721502225586007,
+    1.9849334719567251,
+    1.9914478855613404,
+    1.9976523250969769,
+    1.9987267467250112
   ],
-  "Tdp_H": 0.672443088244086,
-  "Tdp_L": 1.4015592312589891,
+  "Tdp_H": 1.9636376019782833,
+  "Tdp_L": 1.8018363091116465,
   "Tdpsnow": [
     0,
     0,
@@ -1109,30 +1156,30 @@
     0
   ],
   "Tdptm1": [
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2
+    1.8752651510433485,
+    1.8404954957007809,
+    1.7718143254868177,
+    1.66401846025448,
+    1.6203680356555907,
+    1.6370264416423645,
+    1.701178222329129,
+    1.7897194209591156,
+    1.8627165792773777,
+    1.9166440723748848,
+    1.9526069682476954,
+    1.9743479152987782,
+    1.9863084086741392,
+    1.9922612265679127,
+    1.9977932555070024,
+    1.9987889452207297
   ],
   "Tice": 0,
   "Ticetm1": 0,
-  "Ts": 0.58578472411945637,
+  "Ts": 1.981512642939254,
   "TsV": 0,
   "Ts_under": "NaN",
-  "Tstm0": 1.8,
-  "Tstm1": 1.8,
+  "Tstm0": 2.0467185937511445,
+  "Tstm1": 1.8935596858867663,
   "Tstm1_under": "NaN",
   "U_SWE": 0,
   "Urb_Par": {
@@ -1141,22 +1188,22 @@
     "BuildH": 12
   },
   "V": [
-    2.2516529455658176,
-    2.2569908015852529,
-    6.7992204240523577,
-    11.396952564106066,
-    11.431100277308332,
-    11.442996658687179,
-    22.895496834494349,
-    22.896927791189757,
-    22.897075089801529,
-    22.897089147716194,
-    22.897090410149936,
-    22.897090518284006,
-    22.897090527216907,
-    22.897090527932676,
-    80.13981684798307,
-    34.345635791993928
+    2.2401487548610515,
+    2.2452226477558481,
+    6.7628349501002,
+    11.331675807790782,
+    11.352539265900877,
+    11.32953336263963,
+    22.481371544336419,
+    22.243063355044871,
+    22.188730153267112,
+    22.258821238717971,
+    22.363165630733384,
+    22.463502690239078,
+    22.549144173020487,
+    22.618169369568317,
+    79.673605380011779,
+    34.211487278033765
   ],
   "VegH_Param": {
     "KnitH": 0.2,
@@ -1235,22 +1282,22 @@
   "Vltm1_H": 0,
   "Vltm1_L": 100,
   "Vtm1": [
-    2.2897090527995969,
-    2.2897090527995969,
-    6.8691271583987907,
-    11.448545263997985,
-    11.448545263997985,
-    11.448545263997985,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    22.897090527995971,
-    80.1398168479859,
-    34.345635791993956
+    2.2593212029530787,
+    2.2642461004526848,
+    6.8184555610456821,
+    11.414118707411479,
+    11.413535994718538,
+    11.361614768440278,
+    22.435162462100248,
+    22.17207061140709,
+    22.160650772438075,
+    22.25816455361403,
+    22.372013806168237,
+    22.47454355022402,
+    22.560012737922229,
+    22.628126182497422,
+    79.697400243106813,
+    34.219763223051785
   ],
   "Vx_H": 0,
   "Vx_L": 0,
@@ -1258,7 +1305,7 @@
   "Vxtm1_L": 0,
   "WAT": 0,
   "WATtm1": 0,
-  "WIS": 0,
+  "WIS": 0.010441350081712798,
   "WR_IP": 0,
   "WR_SP": 0,
   "WTR": [
@@ -1279,9 +1326,9 @@
     -0,
     -0
   ],
-  "Ws": 2.1,
-  "Ws_under": 0.414935586126236,
-  "Ws_undertm1": 1,
+  "Ws": 7.5,
+  "Ws_under": 1.4802979416434865,
+  "Ws_undertm1": 1.4616404720654277,
   "ZR95_H": 0,
   "ZR95_L": 250,
   "ZWT": 1500,
@@ -1310,7 +1357,7 @@
   "aR": 1,
   "aTop": 1000,
   "a_dis": "NaN",
-  "alp_soil": 0.99985603646578147,
+  "alp_soil": 0.999851715768785,
   "b_soil": 1,
   "dQ": 0,
   "dQVEG": 0,
@@ -1342,30 +1389,30 @@
   "e_rel_H": 0,
   "e_rel_L": 1,
   "e_sno": 0.96,
-  "e_snotm1": 0.97,
-  "ea": 466.8496719255557,
+  "e_snotm1": 0.96,
+  "ea": 616.34766171173123,
   "er": 0,
-  "f": 0,
+  "f": 0.010441350081712798,
   "fapar_H": 0,
   "fapar_L": 0,
   "fpr": 1,
   "gsr_H": 0,
-  "gsr_L": 3.1284749209203525E+6,
+  "gsr_L": 2.8923065232223948E+6,
   "hc_H": 0,
-  "hc_L": 0.11791122726024249,
+  "hc_L": 0.11722626438246903,
   "id_location": "ZURICH_SMA",
   "inputs": {
     "Ared": 1,
     "Asur": 1,
     "BLit": 0,
-    "Ca": 338.43,
+    "Ca": 338.34,
     "Cbare": 0,
     "Ccrown": 1,
     "Cicewtm1": 0,
-    "Citm1_shdH": 338.43,
-    "Citm1_shdL": 338.43,
-    "Citm1_sunH": 338.43,
-    "Citm1_sunL": 338.43,
+    "Citm1_shdH": 0,
+    "Citm1_shdL": 367.85502090113766,
+    "Citm1_sunH": 0,
+    "Citm1_sunL": 0,
     "Color_Class": 0,
     "Crock": 0,
     "Curb": 0,
@@ -1373,7 +1420,7 @@
     "Datam": [
       1981,
       1,
-      1,
+      3,
       1
     ],
     "Deb_Par": {
@@ -1385,7 +1432,7 @@
       "zom": 0.016
     },
     "DeltaGMT": 1,
-    "Ds": 105.27002406164496,
+    "Ds": 157.95844596632321,
     "Dz": [
       5,
       10,
@@ -1423,13 +1470,13 @@
       0,
       0
     ],
-    "FROCKtm1": 0,
+    "FROCKtm1": 9.5166099142390284,
     "ICE_Dtm1": 0,
     "ICEtm1": 0,
     "IP_wctm1": 0,
     "In_Htm1": 0,
     "In_Littertm1": 0,
-    "In_Ltm1": 0,
+    "In_Ltm1": 0.4344042610995858,
     "In_SWEtm1": 0,
     "In_max_rock": 0.1,
     "In_max_urb": 5,
@@ -1466,12 +1513,12 @@
     "Kct": 0.75,
     "Krock": null,
     "LAI_H": 0,
-    "LAI_L": 2.127304181368729,
+    "LAI_L": 2.1057007875449028,
     "LAIdead_H": 0,
-    "LAIdead_L": 2.1076958186312713,
+    "LAIdead_L": 2.1231886729030611,
     "Lat": 47.38,
     "Lon": 8.56,
-    "N": 0.72382533290296147,
+    "N": 0.99920124422253387,
     "OM_H": 1,
     "OM_L": 1,
     "OPT_FR_SOIL": 1,
@@ -1487,7 +1534,6 @@
       "MassSingular": [],
       "MaxOrder": [],
       "MaxStep": [],
-      "MinStep": [],
       "NonNegative": [],
       "NormControl": [],
       "OutputFcn": [],
@@ -1513,7 +1559,6 @@
       "MassSingular": [],
       "MaxOrder": [],
       "MaxStep": 1,
-      "MinStep": [],
       "NonNegative": [],
       "NormControl": [],
       "OutputFcn": [],
@@ -1538,7 +1583,6 @@
       "MassSingular": [],
       "MaxOrder": [],
       "MaxStep": [],
-      "MinStep": [],
       "NonNegative": [],
       "NormControl": [],
       "OutputFcn": [],
@@ -1777,12 +1821,37 @@
       "tau_ld_nir": 0.25
     },
     "Pr": 0,
-    "Pr_sno_day": 0,
+    "Pr_sno_day": [
+      0,
+      0,
+      0.1,
+      0.1,
+      0.1,
+      0.3,
+      0.2,
+      0.2,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.043607417669391468,
+      0.080758697890531972,
+      0.30744320586002444,
+      0.46189943494982072,
+      0.35520276733705497,
+      0,
+      0,
+      0
+    ],
     "Pre": 948.7232105699336,
     "Psi_ltm1_H": 0,
-    "Psi_ltm1_L": 0,
+    "Psi_ltm1_L": -0.018240147032123261,
     "Psi_xtm1_H": 0,
-    "Psi_xtm1_L": 0,
+    "Psi_xtm1_L": -0.018240147032123261,
     "Qi_in": [
       0,
       0,
@@ -1838,7 +1907,7 @@
       0
     ],
     "Rrootl_H": 0,
-    "Rrootl_L": 3569.3154259050252,
+    "Rrootl_L": 3553.141562792001,
     "SAB1": 0,
     "SAB2": 0,
     "SAD1": 0,
@@ -2265,11 +2334,36 @@
       "Phy": 10000
     },
     "SvF": 1,
-    "Ta": -0.9,
-    "Ta_day": -0.2,
-    "Tdamptm1": 2,
+    "Ta": 3.3,
+    "Ta_day": [
+      1.5,
+      1.4,
+      0.6,
+      0.2,
+      0.3,
+      0.1,
+      0,
+      0.1,
+      0.3,
+      0.6,
+      1.3,
+      1.4,
+      1.9,
+      2.1,
+      2.1,
+      2.2,
+      1.9,
+      1.8,
+      1.9,
+      1.8,
+      1.9,
+      2.3,
+      2.9,
+      3.2
+    ],
+    "Tdamptm1": 1.5516582234407843,
     "Tdebtm1": 0,
-    "Tdew": -3.6453782757258324,
+    "Tdew": 0.11458456515913421,
     "Tdpsnowtm1": [
       0,
       0,
@@ -2278,26 +2372,26 @@
       0
     ],
     "Tdptm1": [
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      1.8752651510433485,
+      1.8404954957007809,
+      1.7718143254868177,
+      1.66401846025448,
+      1.6203680356555907,
+      1.6370264416423645,
+      1.701178222329129,
+      1.7897194209591156,
+      1.8627165792773777,
+      1.9166440723748848,
+      1.9526069682476954,
+      1.9743479152987782,
+      1.9863084086741392,
+      1.9922612265679127,
+      1.9977932555070024,
+      1.9987889452207297
     ],
     "Ticetm1": 0,
-    "Tstm0": 1.8,
-    "Tstm1": 1.8,
+    "Tstm0": 2.0467185937511445,
+    "Tstm1": 1.8935596858867663,
     "Tstm1_under": null,
     "Urb_Par": {
       "alb": 0.15,
@@ -2361,28 +2455,28 @@
     "Vltm1_H": 0,
     "Vltm1_L": 100,
     "Vtm1": [
-      2.2897090527995969,
-      2.2897090527995969,
-      6.8691271583987907,
-      11.448545263997985,
-      11.448545263997985,
-      11.448545263997985,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      22.897090527995971,
-      80.1398168479859,
-      34.345635791993956
+      2.2593212029530787,
+      2.2642461004526848,
+      6.8184555610456821,
+      11.414118707411479,
+      11.413535994718538,
+      11.361614768440278,
+      22.435162462100248,
+      22.17207061140709,
+      22.160650772438075,
+      22.25816455361403,
+      22.372013806168237,
+      22.47454355022402,
+      22.560012737922229,
+      22.628126182497422,
+      79.697400243106813,
+      34.219763223051785
     ],
     "Vxtm1_H": 0,
     "Vxtm1_L": 0,
     "WATtm1": 0,
-    "Ws": 2.1,
-    "Ws_undertm1": 1,
+    "Ws": 7.5,
+    "Ws_undertm1": 1.4616404720654277,
     "ZR95_H": 0,
     "ZR95_L": 250,
     "Zinf": 10,
@@ -2435,21 +2529,21 @@
     "e_relN_L": 1,
     "e_rel_H": 0,
     "e_rel_L": 1,
-    "e_snotm1": 0.97,
-    "ea": 466.8496719255557,
+    "e_snotm1": 0.96,
+    "ea": 616.34766171173123,
     "fpr": 1,
     "hc_H": 0,
-    "hc_L": 0.11791122726024249,
+    "hc_L": 0.11722626438246903,
     "id_location": "ZURICH_SMA",
     "ms": 16,
     "pow_dis": null,
     "q_runon": 0,
     "rostm1": 0,
     "snow_albtm1": {
-      "dir_vis": 0.2,
-      "dif_vis": 0.2,
-      "dir_nir": 0.2,
-      "dif_nir": 0.2
+      "dir_vis": 0,
+      "dir_nir": 0,
+      "dif_vis": 0,
+      "dif_nir": 0
     },
     "t_aft": 1.67,
     "t_bef": -0.67,
@@ -2461,16 +2555,16 @@
   "pow_dis": "NaN",
   "q_runon": 0,
   "r_litter": 0,
-  "r_soil": 121.45778849853365,
-  "ra": 94.030184997248014,
+  "r_soil": 97.0250389634331,
+  "ra": 30.031937960429186,
   "rap_H": 0,
-  "rap_L": 153.21991229915466,
+  "rap_L": 48.334453774828731,
   "rb_H": 0,
-  "rb_L": 25.379234810906659,
+  "rb_L": 14.929876149521188,
   "ros": 0,
   "rostm1": 0,
   "rs_shdH": "Inf",
-  "rs_shdL": 2557.1980428695806,
+  "rs_shdL": 2518.3475028802441,
   "rs_sunH": "Inf",
   "rs_sunL": "Inf",
   "snow_alb": {
@@ -2480,10 +2574,10 @@
     "dif_nir": 0
   },
   "snow_albtm1": {
-    "dir_vis": 0.2,
-    "dif_vis": 0.2,
-    "dir_nir": 0.2,
-    "dif_nir": 0.2
+    "dir_vis": 0,
+    "dir_nir": 0,
+    "dif_vis": 0,
+    "dif_nir": 0
   },
   "t_aft": 1.67,
   "t_bef": -0.67,
@@ -2491,5039 +2585,5 @@
   "t_slstm1": 0,
   "tau_sno": 0,
   "tau_snotm1": 0,
-  "w": [
-    {
-      "name": "An_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "An_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ared",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Asur",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "BLit",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ca",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cbare",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ccrown",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ci_shdH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ci_shdL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ci_sunH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ci_sunL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cice",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cicew",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cicewtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Citm1_shdH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Citm1_shdL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Citm1_sunH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Citm1_sunL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Color_Class",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Crock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Csno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Csnow",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Curb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cwat",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "DQ",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "DT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Datam",
-      "size": [
-        1,
-        4
-      ],
-      "bytes": 32,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Deb_Par",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 851,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "DeltaGMT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Dr_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Dr_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ds",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Dz",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EG",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EICE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EIn_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EIn_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EIn_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EIn_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EK",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EKtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ELitter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ESN",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ESN_In",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EWAT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EvL_Zs",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FROCK",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FROCKtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "G",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Gfin",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "HV",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICE_D",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICE_Dtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICEtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "IP_wc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "IP_wctm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Imelt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_Htm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_Litter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_Littertm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_Ltm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_SWEtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_max_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_max_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_rocktm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_urbtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Inf_Zs",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Interc_Param",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 732,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "IrD",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Jsx_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Jsx_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Jxl_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Jxl_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "K_usle",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kbot",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kct",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kleaf_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kleaf_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Krock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kx_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kx_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAI_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAI_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAIdead_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAIdead_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lat",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lk",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lk_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lk_wat",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lon",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lpho",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "N",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NDVI",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NIce",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NIn_SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OF",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OM_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OM_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_FR_SOIL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_PH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3161,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_PlantHydr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_SM",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3169,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_STh",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3161,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_SoilTemp",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_VegSnow",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_min_SPD",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OS",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oa",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oice",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oicetm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Opt_CR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 7693,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Opt_ST",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 7693,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Opt_ST2",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 7699,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PARB",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PARD",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PFT_opt_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 1908,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PFT_opt_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 1908,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "POT",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr_liq",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr_sno_day",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pre",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_l_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_l_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_ltm1_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_ltm1_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_s_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_s_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_x_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_x_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_xtm1_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Psi_xtm1_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "QE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "QEV",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Qfm",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Qi_in",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Qi_out",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Qv",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rd",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rdark_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rdark_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RfH_Zs",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RfL_Zs",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rh",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rn",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rrootl_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rrootl_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAB1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAB2",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAD1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAD2",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAI_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAI_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SE_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SE_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SIF_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SIF_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SN",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SND",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SNDtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SPAR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SP_wc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SP_wctm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SWEtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Salt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Sllit",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Slo_pot",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Slo_top",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Smelt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SnowIce_Param",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 1452,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Soil_Param",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 5614,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SvF",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "T_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "T_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ta",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ta_day",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdamp",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdamptm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdeb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdebtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdew",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdpsnow",
-      "size": [
-        1,
-        5
-      ],
-      "bytes": 40,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdpsnowtm1",
-      "size": [
-        1,
-        5
-      ],
-      "bytes": 40,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdptm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tice",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ticetm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ts",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TsV",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ts_under",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tstm0",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tstm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tstm1_under",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "U_SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Urb_Par",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 438,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "V",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "VegH_Param",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3585,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "VegL_Param",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3585,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vice",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vl_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vl_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vltm1_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vltm1_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vtm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vx_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vx_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vxtm1_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vxtm1_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WAT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WATtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WIS",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WR_IP",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WR_SP",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WTR",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ws",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ws_under",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ws_undertm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ZR95_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ZR95_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ZWT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zinf",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zs",
-      "size": [
-        1,
-        17
-      ],
-      "bytes": 136,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zs_deb",
-      "size": [
-        0,
-        0
-      ],
-      "bytes": 0,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "aR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "aTop",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a_dis",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alp_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "b_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dQ",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dQVEG",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "d_leaf_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "d_leaf_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dth",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dw_SNO",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dz",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_relN_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_relN_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_rel_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_rel_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_snotm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ea",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "er",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "f",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "fapar_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "fapar_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "fpr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "gsr_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "gsr_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "hc_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "hc_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 82862,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ms",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "pow_dis",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "q_runon",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "r_litter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "r_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ra",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rap_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rap_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rb_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rb_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ros",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rostm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_shdH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_shdL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_sunH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_sunL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "snow_alb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 588,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "snow_albtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 588,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "t_aft",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "t_bef",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "t_sls",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "t_slstm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "tau_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "tau_snotm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        152,
-        1
-      ],
-      "bytes": 221420,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zatm",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "HYDROLOGIC_UNIT",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ],
   "zatm": 2
 }

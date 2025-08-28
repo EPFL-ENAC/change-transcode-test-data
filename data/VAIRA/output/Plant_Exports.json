@@ -1,46 +1,46 @@
 {
   "B": [
-    20.007172841810629,
+    19.982297501602591,
     0,
-    140.47256001490666,
-    119.84901433271271,
-    0.38243772953353394,
+    140.45489238187236,
+    117.6055465878711,
+    0.37803657750132041,
     0,
-    0.12934357303211214,
+    0.12932603062879724,
     0
   ],
   "Btm1": [
-    19.734238583369137,
+    19.710329352603811,
     0,
-    140.40408013610647,
-    119.8770290179561,
-    0.33381888640640978,
+    140.38707271748436,
+    118.07067845045647,
+    0.32951358579470452,
     0,
-    0.10914858639746555,
+    0.10913387379269968,
     0
   ],
   "IS": [
-    0.005443550281143573,
-    0.00017190158782558651,
-    0.0015471142904302784,
+    0.00537738124104979,
+    0.000169812039191046,
+    0.0015283083527194139,
     0,
     0,
-    0.11027847561657612,
-    0.003576278150759993,
-    0.032186503356839938,
-    0.022411748194677904,
-    0.00028650264637597748,
+    0.15607228640424026,
+    0.0035758366486487859,
+    0.03218252983783907,
+    0.41372219224428658,
+    0.00028302006531841,
     0,
-    0.0038648625684779411,
-    2.0464474741141251E-5,
+    0.0038643854397671482,
+    2.0215718951314998E-5,
     0,
-    0.00027606161203413867,
-    0.00014325132318798874,
+    0.00027602753141193917,
+    0.00055390214857168945,
     0,
-    0.00044940262424162107
+    0.0021985574443652033
   ],
-  "Kreserve": 99.946091587529651,
-  "KreserveM": 99.946091587529651,
+  "Kreserve": 5.8116789790554311,
+  "KreserveM": 5.8116789790554311,
   "ManI": 0,
   "Mpar": {
     "jDay_cut": null,
@@ -67,21 +67,21 @@
     "fract_left_AB": 0,
     "fract_left_BG": 1
   },
-  "Nreserve": 999.858991261687,
-  "NreserveM": 999.858991261687,
+  "Nreserve": 3.9980092652285482,
+  "NreserveM": 3.9980092652285482,
   "NuLIT": [
-    0.0020694943916703549,
-    0.00014782102797645391,
-    0.0010347471958351774
+    0.0020692143820126851,
+    0.00014780102728662037,
+    0.010263915732594383
   ],
   "NuLITtm1": [
-    0.0017463749566163998,
-    0.00012474106832974284,
-    0.00087318747830819989
+    0.0017461401176897332,
+    0.00012472429412069524,
+    0.0086831839127906128
   ],
-  "OPT_SB": 0,
-  "Preserve": 99.989927947263354,
-  "PreserveM": 99.989927947263354,
+  "OPT_SB": 1,
+  "Preserve": 0.048214038938634407,
+  "PreserveM": 0.048214038938634407,
   "RB": [
     0,
     0,
@@ -92,14 +92,14 @@
     0
   ],
   "Rexmy": [
-    0.0056029370486694761,
-    0.022411748194677904,
+    0.051409670341049776,
+    0.41372219224428658,
     0
   ],
-  "Sfr": 0.0071625661593994376,
+  "Sfr": 0.00707550163296025,
   "Slf": 0,
-  "Sll": 0.020194964690872178,
-  "Sr": 0.14043832007550658,
+  "Sll": 0.020192141520184489,
+  "Sr": 0.14042098254967836,
   "St": {
     "Nl": 25,
     "Ns": 172.41379310344828,
@@ -125,42 +125,42 @@
     "Lig_fr_r": 0.1
   },
   "SupK": 1,
-  "SupN": 1,
-  "SupP": 1,
+  "SupN": 0.16958621717231664,
+  "SupP": 0,
   "Swm": 0,
-  "TNIT": 6.3450342648879587,
-  "TPHO": 0.45321673320628281,
-  "TPOT": 1.3182793402472119,
-  "TexC": 0.17561557147825341,
-  "TexK": 0.00059265394742960987,
-  "TexN": 0.0041513652148539183,
-  "TexP": 0.00029652608677527991,
+  "TNIT": 6.33024304569223,
+  "TPHO": 0.452160217549445,
+  "TPOT": 1.3203462519469882,
+  "TexC": 0.612628346767975,
+  "TexK": 0.0027524595929368928,
+  "TexN": 0.0041474055050855583,
+  "TexP": 0.00029624325036325418,
   "a": 33,
   "fab": 0,
   "fbe": 1,
   "id_location": "VAIRA",
   "inputs": {
     "B": [
-      20.007172841810629,
+      19.982297501602591,
       0,
-      140.47256001490666,
-      119.84901433271271,
-      0.38243772953353394,
+      140.45489238187236,
+      117.6055465878711,
+      0.37803657750132041,
       0,
-      0.12934357303211214,
+      0.12932603062879724,
       0
     ],
     "Btm1": [
-      19.734238583369137,
+      19.710329352603811,
       0,
-      140.40408013610647,
-      119.8770290179561,
-      0.33381888640640978,
+      140.38707271748436,
+      118.07067845045647,
+      0.32951358579470452,
       0,
-      0.10914858639746555,
+      0.10913387379269968,
       0
     ],
-    "Kreserve": 99.946091587529651,
+    "Kreserve": 5.8116789790554311,
     "ManI": 0,
     "Mpar": {
       "jDay_cut": null,
@@ -187,14 +187,14 @@
       "fract_left_AB": 0,
       "fract_left_BG": 1
     },
-    "Nreserve": 999.858991261687,
+    "Nreserve": 3.9980092652285482,
     "NuLITtm1": [
-      0.0017463749566163998,
-      0.00012474106832974284,
-      0.00087318747830819989
+      0.0017461401176897332,
+      0.00012472429412069524,
+      0.0086831839127906128
     ],
-    "OPT_SB": 0,
-    "Preserve": 99.989927947263354,
+    "OPT_SB": 1,
+    "Preserve": 0.048214038938634407,
     "RB": [
       0,
       0,
@@ -205,14 +205,14 @@
       0
     ],
     "Rexmy": [
-      0.0056029370486694761,
-      0.022411748194677904,
+      0.051409670341049776,
+      0.41372219224428658,
       0
     ],
-    "Sfr": 0.0071625661593994376,
+    "Sfr": 0.00707550163296025,
     "Slf": 0,
-    "Sll": 0.020194964690872178,
-    "Sr": 0.14043832007550658,
+    "Sll": 0.020192141520184489,
+    "Sr": 0.14042098254967836,
     "St": {
       "Nl": 25,
       "Ns": 172.41379310344828,
@@ -241,715 +241,11 @@
     "fab": 0,
     "fbe": 1,
     "id_location": "VAIRA",
-    "rKc": 1,
+    "rKc": 3.9142252896346781,
     "rNc": 1,
     "rPc": 1
   },
-  "rKc": 1,
+  "rKc": 3.9142252896346781,
   "rNc": 1,
-  "rPc": 1,
-  "w": [
-    {
-      "name": "B",
-      "size": [
-        1,
-        1,
-        8
-      ],
-      "bytes": 64,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Btm1",
-      "size": [
-        1,
-        1,
-        8
-      ],
-      "bytes": 64,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "IS",
-      "size": [
-        18,
-        1
-      ],
-      "bytes": 144,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Kreserve",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "KreserveM",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ManI",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Mpar",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 2948,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Nreserve",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NreserveM",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NuLIT",
-      "size": [
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NuLITtm1",
-      "size": [
-        1,
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_SB",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Preserve",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "PreserveM",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RB",
-      "size": [
-        1,
-        1,
-        7
-      ],
-      "bytes": 56,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rexmy",
-      "size": [
-        1,
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Sfr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Slf",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Sll",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Sr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "St",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3113,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SupK",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SupN",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SupP",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Swm",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TNIT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TPHO",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TPOT",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TexC",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TexK",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TexN",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "TexP",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "fab",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "fbe",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        5
-      ],
-      "bytes": 10,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 9483,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rKc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rNc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rPc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        23,
-        1
-      ],
-      "bytes": 33475,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Plant_Exports",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  "rPc": 1
 }

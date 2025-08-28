@@ -78,12 +78,12 @@ function generate_wrappers(sourceDir, destDir, originalPrefix, excluded_function
         content = strrep(content, '%FUNC_NAME%', fqFuncName);
         content = strrep(content, '%FUNC_CALL%', fqCall);
         if(fqFuncName == "Soil_parametersII")
-            test=1
+            test=1;
         end
         if isempty(inputs)
             content = strrep(content, '%INPUTS%', '');
         else
-            content = strrep(content, '%INPUTS%', inputs)
+            content = strrep(content, '%INPUTS%', inputs);
         end
 
         % Write wrapper

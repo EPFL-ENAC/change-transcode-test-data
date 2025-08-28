@@ -112,22 +112,22 @@
     0.45504636790367492
   ],
   "Otm1": [
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049
+    0.36075322508645308,
+    0.36124571483641366,
+    0.36210295682600124,
+    0.36310347893937478,
+    0.36309182468551593,
+    0.3620534001599508,
+    0.35917272941214767,
+    0.35654181090521608,
+    0.35642761251552596,
+    0.35740275032728552,
+    0.35854124285282757,
+    0.35956654029338542,
+    0.36042123217036748,
+    0.36110236661611939,
+    0.36252796262859321,
+    0.36295285961149043
   ],
   "Pe": [
     2.0601180991130974,
@@ -151,47 +151,47 @@
   "Pre": 948.7232105699336,
   "SPAR": 2,
   "T": [
-    0.58578472411945637,
-    0.36135209674807445,
-    1.290975603929555,
-    1.8954758238942855,
-    1.9946297567137425,
-    1.9997769735545932,
-    1.9999906204260869,
-    1.9999998622772166,
-    1.9999999984777463,
-    1.9999999999831739,
-    1.9999999999998135,
-    1.9999999999999976,
-    1.9999999999999993,
-    1.9999999999999998,
-    2,
-    1.9999999999999993,
-    2,
-    2
+    1.981512642939254,
+    1.9636376019782833,
+    1.9289786632334456,
+    1.8606216693442088,
+    1.7461030186727529,
+    1.675836207838415,
+    1.6656981485127853,
+    1.7047312211916559,
+    1.786702003429389,
+    1.858604766553378,
+    1.9127250962296287,
+    1.9494626085188984,
+    1.9721502225586007,
+    1.9849334719567251,
+    1.9914478855613404,
+    1.9976523250969769,
+    1.9987267467250112,
+    1.9987267467250112
   ],
-  "Tdown": 2,
+  "Tdown": 1.9987889452207297,
   "Ttm1": [
-    0.58578472411945637,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2
+    1.981512642939254,
+    1.9635951318416964,
+    1.9267631901239954,
+    1.85637833266869,
+    1.7393414227777377,
+    1.6703611823829565,
+    1.6624712163589204,
+    1.7041025721875471,
+    1.7869430157194308,
+    1.8590019810018754,
+    1.9131110459296317,
+    1.9497752478897614,
+    1.9723711685429024,
+    1.9850735482846185,
+    1.9915318414926833,
+    1.9976671967304489,
+    1.9987331841800069,
+    1.9987331841800069
   ],
-  "Tup": 0.58578472411945637,
+  "Tup": 1.981512642939254,
   "Zs": [
     0,
     10,
@@ -382,22 +382,22 @@
       0.45504636790367492
     ],
     "Otm1": [
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049
+      0.36075322508645308,
+      0.36124571483641366,
+      0.36210295682600124,
+      0.36310347893937478,
+      0.36309182468551593,
+      0.3620534001599508,
+      0.35917272941214767,
+      0.35654181090521608,
+      0.35642761251552596,
+      0.35740275032728552,
+      0.35854124285282757,
+      0.35956654029338542,
+      0.36042123217036748,
+      0.36110236661611939,
+      0.36252796262859321,
+      0.36295285961149043
     ],
     "Pe": [
       2.0601180991130974,
@@ -420,28 +420,28 @@
     "Phy1": 10000,
     "Pre": 948.7232105699336,
     "SPAR": 2,
-    "Tdown": 2,
+    "Tdown": 1.9987889452207297,
     "Ttm1": [
-      0.58578472411945637,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      1.981512642939254,
+      1.9635951318416964,
+      1.9267631901239954,
+      1.85637833266869,
+      1.7393414227777377,
+      1.6703611823829565,
+      1.6624712163589204,
+      1.7041025721875471,
+      1.7869430157194308,
+      1.8590019810018754,
+      1.9131110459296317,
+      1.9497752478897614,
+      1.9723711685429024,
+      1.9850735482846185,
+      1.9915318414926833,
+      1.9976671967304489,
+      1.9987331841800069,
+      1.9987331841800069
     ],
-    "Tup": 0.58578472411945637,
+    "Tup": 1.981512642939254,
     "Zs": [
       0,
       10,
@@ -697,568 +697,5 @@
     0,
     0,
     0
-  ],
-  "w": [
-    {
-      "name": "AE",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "G0",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Gn",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "L",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O33",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_FR_SOIL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPZ",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ohy",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oicetm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Osat",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Otm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pe",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Phy1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pre",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SPAR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "T",
-      "size": [
-        18,
-        1
-      ],
-      "bytes": 144,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdown",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ttm1",
-      "size": [
-        1,
-        18
-      ],
-      "bytes": 144,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tup",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zs",
-      "size": [
-        1,
-        17
-      ],
-      "bytes": 136,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alpVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "bVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "cv_s",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dts",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 6274,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_dry",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_s",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "nVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rsd",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "s_SVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        29,
-        1
-      ],
-      "bytes": 42453,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Heat_CN_FT_Function",
-        "level": 1
-      },
-      "persistent": false
-    }
   ]
 }

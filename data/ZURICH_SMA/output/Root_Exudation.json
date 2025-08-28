@@ -1,10 +1,10 @@
 {
   "Bam": "NaN",
   "Bem": "NaN",
-  "Broot": 343,
-  "Creserve": 250,
+  "Broot": 341.48030703486603,
+  "Creserve": 249.97143007697042,
   "EM": 0,
-  "NPP": 0,
+  "NPP": 0.23301552852382257,
   "NavlI": [
     0,
     0,
@@ -33,20 +33,20 @@
     "kk3": 0.8
   },
   "RexmyT": [
-    0,
-    0,
+    0.0018641242281905808,
+    0.0074564969127623231,
     0
   ],
-  "Tdp": 2,
+  "Tdp": 1.5590264466662249,
   "a": 12,
   "id_location": "ZURICH_SMA",
   "inputs": {
     "Bam": null,
     "Bem": null,
-    "Broot": 343,
-    "Creserve": 250,
+    "Broot": 341.48030703486603,
+    "Creserve": 249.97143007697042,
     "EM": 0,
-    "NPP": 0,
+    "NPP": 0.23301552852382257,
     "NavlI": [
       0,
       0,
@@ -74,7 +74,7 @@
       "kk2": 1.4,
       "kk3": 0.8
     },
-    "Tdp": 2,
+    "Tdp": 1.5590264466662249,
     "id_location": "ZURICH_SMA",
     "rKc": 1,
     "rMc": 1,
@@ -84,330 +84,5 @@
   "rKc": 1,
   "rMc": 1,
   "rNc": 1,
-  "rPc": 1,
-  "w": [
-    {
-      "name": "Bam",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Bem",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Broot",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Creserve",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "EM",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NPP",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NavlI",
-      "size": [
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "NupIm",
-      "size": [
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ParEx",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 2108,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RexmyT",
-      "size": [
-        1,
-        3
-      ],
-      "bytes": 24,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdp",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 4265,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rKc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rMc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rNc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rPc",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        15,
-        1
-      ],
-      "bytes": 21883,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Root_Exudation",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  "rPc": 1
 }

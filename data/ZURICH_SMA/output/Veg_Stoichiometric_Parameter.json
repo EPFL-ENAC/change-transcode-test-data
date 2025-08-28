@@ -1,21 +1,21 @@
 {
-  "Nl": 30,
+  "Nl": 23,
   "Stoich": {
-    "Nl": 30,
-    "Ns": 206.89655172413794,
-    "Nr": 34.883720930232556,
-    "Nf": 30,
-    "Nh": 206.89655172413794,
-    "Phol": 420,
-    "Phos": 2896.5517241379312,
-    "Phor": 488.37209302325584,
-    "Phof": 420,
-    "Phoh": 2896.5517241379312,
-    "Kpotl": 60,
-    "Kpots": 413.79310344827587,
-    "Kpotr": 300,
-    "Kpotf": 60,
-    "Kpoth": 413.79310344827587,
+    "Nl": 23,
+    "Ns": 158.62068965517241,
+    "Nr": 26.744186046511629,
+    "Nf": 23,
+    "Nh": 158.62068965517241,
+    "Phol": 322,
+    "Phos": 2220.6896551724139,
+    "Phor": 374.41860465116281,
+    "Phof": 322,
+    "Phoh": 2220.6896551724139,
+    "Kpotl": 46,
+    "Kpots": 317.24137931034483,
+    "Kpotr": 230,
+    "Kpotf": 46,
+    "Kpoth": 317.24137931034483,
     "ftransR": 0.2,
     "ftransL": 0.6,
     "FiS": 1,
@@ -27,111 +27,7 @@
   "a": 3,
   "id_location": "ZURICH_SMA",
   "inputs": {
-    "Nl": 30,
+    "Nl": 23,
     "id_location": "ZURICH_SMA"
-  },
-  "w": [
-    {
-      "name": "Nl",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Stoich",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3113,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 313,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        2,
-        1
-      ],
-      "bytes": 3102,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Veg_Stoichiometric_Parameter",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ]
+  }
 }

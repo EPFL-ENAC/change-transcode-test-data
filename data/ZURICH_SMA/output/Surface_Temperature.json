@@ -1,6 +1,6 @@
 {
   "CLitter": 0,
-  "CTt": 5.5592785365964174E-6,
+  "CTt": 5.5992291826877991E-6,
   "CTt_oth": [],
   "Cbare": 0,
   "Ccrown": 1,
@@ -12,7 +12,7 @@
   "Csnow": 0,
   "Curb": 0,
   "Cwat": 0,
-  "DQ": -109.91506687504193,
+  "DQ": 6.7397420977499679E-14,
   "FshdH": 1,
   "FshdL": 1,
   "FsunH": 0,
@@ -20,7 +20,7 @@
   "ICE_D": 0,
   "ICEtm1": 0,
   "In_H": 0,
-  "In_L": 0,
+  "In_L": 0.4344042610995858,
   "In_Litter": 0,
   "In_SWE": 0,
   "In_rock": 0,
@@ -44,9 +44,9 @@
     0.12853006950346382
   ],
   "LAI_H": 0,
-  "LAI_L": 2.127304181368729,
-  "Latm": 277.83430038943152,
-  "Lpho": 2.6034729927459919E-17,
+  "LAI_L": 2.1057007875449028,
+  "Latm": 317.18078460808823,
+  "Lpho": 1.0413891970983968E-16,
   "O33": [
     0.280998147903675,
     0.280998147903675,
@@ -78,7 +78,6 @@
     "MassSingular": [],
     "MaxOrder": [],
     "MaxStep": [],
-    "MinStep": [],
     "NonNegative": [],
     "NormControl": [],
     "OutputFcn": [],
@@ -147,22 +146,22 @@
     0.45504636790367492
   ],
   "Otm1": [
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049,
-    0.3637920100711049
+    0.36075322508645308,
+    0.36124571483641366,
+    0.36210295682600124,
+    0.36310347893937478,
+    0.36309182468551593,
+    0.3620534001599508,
+    0.35917272941214767,
+    0.35654181090521608,
+    0.35642761251552596,
+    0.35740275032728552,
+    0.35854124285282757,
+    0.35956654029338542,
+    0.36042123217036748,
+    0.36110236661611939,
+    0.36252796262859321,
+    0.36295285961149043
   ],
   "Pe": [
     2.0601180991130974,
@@ -200,38 +199,38 @@
   "Rabsb_urb": 0,
   "Rabsb_wat": 0,
   "SAI_H": 0,
-  "SAI_L": 2.1086958186312712,
+  "SAI_L": 2.124188672903061,
   "SPAR": 2,
   "SWE": 0,
   "SnoDep": 0,
   "SvF": 1,
-  "Ta": -0.9,
-  "Tdamptm1": 2,
+  "Ta": 3.3,
+  "Tdamptm1": 1.5516582234407843,
   "Tdptm1": [
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2
+    1.8752651510433485,
+    1.8404954957007809,
+    1.7718143254868177,
+    1.66401846025448,
+    1.6203680356555907,
+    1.6370264416423645,
+    1.701178222329129,
+    1.7897194209591156,
+    1.8627165792773777,
+    1.9166440723748848,
+    1.9526069682476954,
+    1.9743479152987782,
+    1.9863084086741392,
+    1.9922612265679127,
+    1.9977932555070024,
+    1.9987889452207297
   ],
-  "Ts": 1.8,
-  "Tstm1": 1.8,
-  "Vavail": 0.095404543866649871,
+  "Ts": 1.981512642939254,
+  "Tstm1": 1.8935596858867663,
+  "Vavail": 0.0940303334659866,
   "Vavail_plant_H": 0,
-  "Vavail_plant_L": 0.0024275165602497804,
+  "Vavail_plant_L": 0.00241093724032694,
   "WAT_avail": 0,
-  "Ws": 2.1,
+  "Ws": 7.5,
   "Zs": [
     0,
     10,
@@ -271,7 +270,7 @@
     -9.6658678274624761E-5
   ],
   "alp_litter": 1,
-  "alp_soil": 0.99985603646578147,
+  "alp_soil": 0.999851715768785,
   "bVG": [
     0,
     0,
@@ -311,12 +310,12 @@
   ],
   "d_leaf_H": 3.5,
   "d_leaf_L": 0.8,
-  "disp_h": 0.079000522264362466,
+  "disp_h": 0.078541597136254249,
   "disp_h_H": 0,
-  "disp_h_L": 0.079000522264362466,
+  "disp_h_L": 0.078541597136254249,
   "dt": 3600,
   "dw_H": 0,
-  "dw_L": 0,
+  "dw_L": 0.64124408962406343,
   "dw_SNO": 0,
   "dz": [
     10,
@@ -337,7 +336,7 @@
     150
   ],
   "e_gr": 0.96,
-  "e_sno": 0.97,
+  "e_sno": 0.96,
   "e_sur": {
     "R": 1,
     "U": 1,
@@ -345,13 +344,13 @@
     "I": 1,
     "D": 1
   },
-  "ea": 466.8496719255557,
+  "ea": 616.34766171173123,
   "hc_H": 0,
-  "hc_L": 0.11791122726024249,
+  "hc_L": 0.11722626438246903,
   "id_location": "ZURICH_SMA",
   "inputs": {
     "CLitter": 0,
-    "CTt": 5.5592785365964174E-6,
+    "CTt": 5.5992291826877991E-6,
     "CTt_oth": [],
     "Cbare": 0,
     "Ccrown": 1,
@@ -370,7 +369,7 @@
     "ICE_D": 0,
     "ICEtm1": 0,
     "In_H": 0,
-    "In_L": 0,
+    "In_L": 0.4344042610995858,
     "In_Litter": 0,
     "In_SWE": 0,
     "In_rock": 0,
@@ -394,9 +393,9 @@
       0.12853006950346382
     ],
     "LAI_H": 0,
-    "LAI_L": 2.127304181368729,
-    "Latm": 277.83430038943152,
-    "Lpho": 2.6034729927459919E-17,
+    "LAI_L": 2.1057007875449028,
+    "Latm": 317.18078460808823,
+    "Lpho": 1.0413891970983968E-16,
     "O33": [
       0.280998147903675,
       0.280998147903675,
@@ -428,7 +427,6 @@
       "MassSingular": [],
       "MaxOrder": [],
       "MaxStep": [],
-      "MinStep": [],
       "NonNegative": [],
       "NormControl": [],
       "OutputFcn": [],
@@ -497,22 +495,22 @@
       0.45504636790367492
     ],
     "Otm1": [
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049,
-      0.3637920100711049
+      0.36075322508645308,
+      0.36124571483641366,
+      0.36210295682600124,
+      0.36310347893937478,
+      0.36309182468551593,
+      0.3620534001599508,
+      0.35917272941214767,
+      0.35654181090521608,
+      0.35642761251552596,
+      0.35740275032728552,
+      0.35854124285282757,
+      0.35956654029338542,
+      0.36042123217036748,
+      0.36110236661611939,
+      0.36252796262859321,
+      0.36295285961149043
     ],
     "Pe": [
       2.0601180991130974,
@@ -550,38 +548,38 @@
     "Rabsb_urb": 0,
     "Rabsb_wat": 0,
     "SAI_H": 0,
-    "SAI_L": 2.1086958186312712,
+    "SAI_L": 2.124188672903061,
     "SPAR": 2,
     "SWE": 0,
     "SnoDep": 0,
     "SvF": 1,
-    "Ta": -0.9,
-    "Tdamptm1": 2,
+    "Ta": 3.3,
+    "Tdamptm1": 1.5516582234407843,
     "Tdptm1": [
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      1.8752651510433485,
+      1.8404954957007809,
+      1.7718143254868177,
+      1.66401846025448,
+      1.6203680356555907,
+      1.6370264416423645,
+      1.701178222329129,
+      1.7897194209591156,
+      1.8627165792773777,
+      1.9166440723748848,
+      1.9526069682476954,
+      1.9743479152987782,
+      1.9863084086741392,
+      1.9922612265679127,
+      1.9977932555070024,
+      1.9987889452207297
     ],
-    "Ts": 1.8,
-    "Tstm1": 1.8,
-    "Vavail": 0.095404543866649871,
+    "Ts": 1.981512642939254,
+    "Tstm1": 1.8935596858867663,
+    "Vavail": 0.0940303334659866,
     "Vavail_plant_H": 0,
-    "Vavail_plant_L": 0.0024275165602497804,
+    "Vavail_plant_L": 0.00241093724032694,
     "WAT_avail": 0,
-    "Ws": 2.1,
+    "Ws": 7.5,
     "Zs": [
       0,
       10,
@@ -620,7 +618,7 @@
       -9.6658678274624761E-5
     ],
     "alp_litter": 1,
-    "alp_soil": 0.99985603646578147,
+    "alp_soil": 0.999851715768785,
     "bVG": [
       0,
       0,
@@ -660,12 +658,12 @@
     ],
     "d_leaf_H": 3.5,
     "d_leaf_L": 0.8,
-    "disp_h": 0.079000522264362466,
+    "disp_h": 0.078541597136254249,
     "disp_h_H": 0,
-    "disp_h_L": 0.079000522264362466,
+    "disp_h_L": 0.078541597136254249,
     "dt": 3600,
     "dw_H": 0,
-    "dw_L": 0,
+    "dw_L": 0.64124408962406343,
     "dw_SNO": 0,
     "dz": [
       10,
@@ -686,7 +684,7 @@
       150
     ],
     "e_gr": 0.96,
-    "e_sno": 0.97,
+    "e_sno": 0.96,
     "e_sur": {
       "R": 1,
       "U": 1,
@@ -694,9 +692,9 @@
       "I": 1,
       "D": 1
     },
-    "ea": 466.8496719255557,
+    "ea": 616.34766171173123,
     "hc_H": 0,
-    "hc_L": 0.11791122726024249,
+    "hc_L": 0.11722626438246903,
     "id_location": "ZURICH_SMA",
     "lan_dry": [
       0.18917613735741573,
@@ -754,9 +752,9 @@
       1.1285300695034639
     ],
     "r_litter": 0,
-    "r_soil": 121.45778849853365,
+    "r_soil": 97.0250389634331,
     "rs_shdH": null,
-    "rs_shdL": 2557.1980428695806,
+    "rs_shdL": 2518.3475028802441,
     "rs_sunH": null,
     "rs_sunL": null,
     "rsd": [
@@ -797,10 +795,10 @@
     ],
     "ydepth": 0,
     "zatm": 2,
-    "zoh": 0.0014503080953009826,
-    "zom": 0.014503080953009825,
+    "zoh": 0.0014418830519043692,
+    "zom": 0.014418830519043691,
     "zom_H": 0,
-    "zom_L": 0.014503080953009825,
+    "zom_L": 0.014418830519043691,
     "zom_under": 0.003
   },
   "lan_dry": [
@@ -859,9 +857,9 @@
     1.1285300695034639
   ],
   "r_litter": 0,
-  "r_soil": 121.45778849853365,
+  "r_soil": 97.0250389634331,
   "rs_shdH": "Inf",
-  "rs_shdL": 2557.1980428695806,
+  "rs_shdL": 2518.3475028802441,
   "rs_sunH": "Inf",
   "rs_sunL": "Inf",
   "rsd": [
@@ -900,2036 +898,11 @@
     0,
     0
   ],
-  "w": [
-    {
-      "name": "CLitter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "CTt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "CTt_oth",
-      "size": [
-        0,
-        0
-      ],
-      "bytes": 0,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cbare",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ccrown",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cdeb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cice",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cicew",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Crock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Csno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Csnow",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Curb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Cwat",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "DQ",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FshdH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FshdL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FsunH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "FsunL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICE_D",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ICEtm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_Litter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "In_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "L",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAI_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "LAI_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Latm",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Lpho",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "O33",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_FR_SOIL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_STh",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 3161,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "OPT_SoilTemp",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ohy",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Oicetm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Osat",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Otm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pe",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Phy",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr_liq",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pr_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Pre",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RabsbShd_vegH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RabsbShd_vegL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RabsbSun_vegH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "RabsbSun_vegL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_bare",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_deb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_ice",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_rock",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_soiH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_soiL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_urb",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Rabsb_wat",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAI_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SAI_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SPAR",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SWE",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SnoDep",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "SvF",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ta",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdamptm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tdptm1",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ts",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Tstm1",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vavail",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vavail_plant_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Vavail_plant_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "WAT_avail",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Ws",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "Zs",
-      "size": [
-        1,
-        17
-      ],
-      "bytes": 136,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "a",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alpVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alp_litter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "alp_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "bVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "b_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "cv_s",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "d_leaf_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "d_leaf_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "disp_h",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "disp_h_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "disp_h_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dt",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dw_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dw_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dw_SNO",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "dz",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_gr",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_sno",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "e_sur",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 701,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ea",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "hc_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "hc_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "id_location",
-      "size": [
-        1,
-        10
-      ],
-      "bytes": 20,
-      "class": "char",
-      "global": true,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "inputs",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 27756,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_dry",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "lan_s",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ms",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "nVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "r_litter",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "r_soil",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_shdH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_shdL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_sunH",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rs_sunL",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "rsd",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "s_SVG",
-      "size": [
-        1,
-        16
-      ],
-      "bytes": 128,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "w",
-      "size": [
-        115,
-        1
-      ],
-      "bytes": 168367,
-      "class": "struct",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "ydepth",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zatm",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zoh",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zom",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zom_H",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zom_L",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    },
-    {
-      "name": "zom_under",
-      "size": [
-        1,
-        1
-      ],
-      "bytes": 8,
-      "class": "double",
-      "global": false,
-      "sparse": false,
-      "complex": false,
-      "nesting": {
-        "function": "Surface_Temperature",
-        "level": 1
-      },
-      "persistent": false
-    }
-  ],
   "ydepth": 0,
   "zatm": 2,
-  "zoh": 0.0014503080953009826,
-  "zom": 0.014503080953009825,
+  "zoh": 0.0014418830519043692,
+  "zom": 0.014418830519043691,
   "zom_H": 0,
-  "zom_L": 0.014503080953009825,
+  "zom_L": 0.014418830519043691,
   "zom_under": 0.003
 }
